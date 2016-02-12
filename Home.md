@@ -1,6 +1,6 @@
 # Apio
 
-Experimental open source micro-ecosystem for open FPGAs. Based on [platformio](https://github.com/platformio/platformio). It includes scons, pre-built static toolchain-icestorm and icestick rules file auto-installation. Also clean, build, upload commands using scons.
+Experimental **open source** micro-ecosystem for **open FPGAs**. Based on [platformio](https://github.com/platformio/platformio). It includes [scons](http://scons.org/), pre-built static [toolchain-icestorm](http://www.clifford.at/icestorm/) and icestick rules file auto-installation. Also clean, build, upload commands using scons.
 
 ![](https://github.com/bqlabs/apio/raw/master/doc/apio.jpg)
 
