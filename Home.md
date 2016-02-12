@@ -36,7 +36,7 @@ apio build
 ```
 It generates the **hardware.bin** bitstream
 
-* **Upload into the icestick board**
+* **Upload the bitstream into the icestick board**
 
 ```bash
 apio upload
