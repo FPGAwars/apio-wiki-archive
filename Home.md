@@ -57,8 +57,17 @@ Congrats! Now You have your fully open source FPGA toolchain ready!
 ## Authors
 * Jesús Arroyo
 
-
 ## License
 ![](https://github.com/bqlabs/apio/raw/master/doc/bq-logo-cc-sa-small-150px.png)
 
 Licensed under a GPL v2 and [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
+## Acknowledgments
+### Testers:
+* **Javier Martínez**: Tested on Linux mint
+
+```bash
+$ uname -a
+Linux Elvex2 3.16.0-38-generic #52~14.04.1-Ubuntu SMP Fri May 8 09:43:57 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+```
+
