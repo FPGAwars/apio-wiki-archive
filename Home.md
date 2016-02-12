@@ -1,6 +1,6 @@
 ![](https://github.com/bqlabs/apio/raw/master/doc/apio.jpg)
 
-(Apio means celey in spanish :)
+(_Apio means celey in spanish_ :)
 
 # Apio
 
