@@ -8,11 +8,17 @@ Experimental **open source** micro-ecosystem for **open FPGAs**. Based on [platf
 
 ## Installation
 
-It has been tested on Ubuntu 14.04 and 15.10
+It has been tested on **Ubuntu 14.04** and **15.10**
 
 ```bash
 sudo apt-get install libftdi1
 sudo pip install apio
+```
+
+**Install the icestorm toolchain:**
+
+```
+apio install
 ```
 
 ## Quick start
@@ -46,6 +52,7 @@ All the leds should turn on after 3 seconds:
 
 ![](https://github.com/bqlabs/apio/raw/master/doc/apio-icestorm-hello-world.png)
 
+Congrats! Now You have your fully open source FPGA toolchain ready!
 
 ## Authors
 * Jesús Arroyo
