@@ -13,6 +13,35 @@ sudo apt-get install libftdi1
 sudo pip install apio
 ```
 
+## Quick start
+
+* **Clone the apio github repo**:
+
+```bash
+git clone https://github.com/bqlabs/apio.git
+```
+
+* **Enter into the examples folder**:
+
+```
+cd examples/leds/
+```
+
+* **Synthesize the hello world example**
+
+```bash
+apio build
+```
+It generates the **hardware.bin** bitstream
+
+* **Upload into the icestick board**
+
+```bash
+apio upload
+```
+
+All the leds should turn on after 3 seconds:
+
 
 
 ## Authors
