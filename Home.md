@@ -6,14 +6,14 @@ Experimental **open source** micro-ecosystem for **open FPGAs**. Based on [platf
 
 ## Install
 
+It has been tested on Ubuntu 14.04 and 15.10
+
 ```bash
 sudo apt-get install libftdi1
 sudo pip install apio
 ```
 
-## Documentation
 
-[The project documentation is located in the wiki](https://github.com/bqlabs/apio/wiki)
 
 ## Authors
 * Jesús Arroyo
