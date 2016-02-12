@@ -44,6 +44,7 @@ apio upload
 
 All the leds should turn on after 3 seconds:
 
+![](https://github.com/bqlabs/apio/raw/master/doc/apio-icestorm-hello-world.png)
 
 
 ## Authors
