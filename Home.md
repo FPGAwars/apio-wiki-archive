@@ -71,3 +71,4 @@ $ uname -a
 Linux Elvex2 3.16.0-38-generic #52~14.04.1-Ubuntu SMP Fri May 8 09:43:57 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
+* **Julian Caro Linares**: Tested on Ubuntu
