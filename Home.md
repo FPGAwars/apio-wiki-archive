@@ -64,11 +64,11 @@ Licensed under a GPL v2 and [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ## Acknowledgments
 ### Testers:
-* **Javier Martínez**: Tested on Linux mint
+* **Javier Martínez**: Tested on Linux mint. ¡Gracias!
 
-```bash
-$ uname -a
-Linux Elvex2 3.16.0-38-generic #52~14.04.1-Ubuntu SMP Fri May 8 09:43:57 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
 ```
-
-* **Julian Caro Linares**: Tested on Ubuntu
+Linux Elvex2 3.16.0-38-generic #52~14.04.1-Ubuntu SMP 
+Fri May 8 09:43:57 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+```
+* **Julian Caro Linares**: Tested on Ubuntu. (¡Gracias!)
+* **Rafa Couto**: Debian testing (kernel 4.3, pip 1.5.6, python 2.6)
