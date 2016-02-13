@@ -32,7 +32,7 @@ git clone https://github.com/bqlabs/apio.git
 * **Enter into the examples folder**:
 
 ```
-cd examples/leds/
+cd apio/examples/leds/
 ```
 
 * **Synthesize the hello world example**
