@@ -8,18 +8,13 @@ Experimental **open source** micro-ecosystem for **open FPGAs**. Based on [platf
 
 ## Installation
 
-It has been tested on **Ubuntu 14.04** and **15.10**
+1. [Install dependencies](https://github.com/bqlabs/apio/wiki/Installation)
 
-```bash
-sudo apt-get install libftdi1
-sudo pip install apio
-```
+2. Install latest apio: ```pip install -U apio```
 
-**Install the icestorm toolchain:**
+3. Install fpga toolchain: ```apio install```
 
-```
-apio install
-```
+It has been tested on **Ubuntu 14.04**, **15.10**, Windows 7 and Mac 10.10.
 
 ## Quick start
 
