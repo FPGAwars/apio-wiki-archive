@@ -5,7 +5,9 @@
 ### Ubuntu
 
 Install Python 2.7:
-```sudo apt-get install python```
+```bash
+sudo apt-get install python
+```
 
 Install [pip](https://pip.pypa.io/en/stable/installing/)
 
