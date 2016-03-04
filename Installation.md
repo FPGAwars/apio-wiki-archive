@@ -21,6 +21,8 @@ NOTE: DON’T FORGET to select Add python.exe to Path feature on the “Customiz
 
 Install FPGA driver:
 
+https://github.com/bqlabs/libftdi-cross-builder/wiki#driver-installation
+
 ## Mac
 
 Install Python 2.7:
