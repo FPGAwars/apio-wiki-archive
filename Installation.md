@@ -29,4 +29,4 @@ Install Python 2.7:
 Install [Homebrew](http://brew.sh/)
 
 
->> [Back to installation instructions](https://github.com/bqlabs/apio#install)
+> [Back to installation instructions](https://github.com/bqlabs/apio#install)
