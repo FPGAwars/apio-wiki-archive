@@ -4,9 +4,7 @@
 
 ### Ubuntu
 
-Install [Python 2.7](https://www.python.org/downloads/)
-
-Install [pip](https://pip.pypa.io/en/stable/installing/)
+Install [Python 2.7](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/)
 
 Configure [rules file](https://github.com/bqlabs/apio/blob/develop/apio/packages/80-icestick.rules)
 
@@ -30,9 +28,7 @@ https://github.com/bqlabs/libftdi-cross-builder/wiki#driver-installation
 
 ## Mac
 
-Install [Python 2.7](https://www.python.org/downloads/)
-
-Install [Homebrew](http://brew.sh/)
+Install [Python 2.7](https://www.python.org/downloads/) and [Homebrew](http://brew.sh/)
 
 Install libftdi0
 
