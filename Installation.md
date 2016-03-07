@@ -11,6 +11,16 @@ sudo apt-get install python
 
 Install [pip](https://pip.pypa.io/en/stable/installing/)
 
+Configure [rules file](https://github.com/bqlabs/apio/blob/develop/apio/packages/80-icestick.rules)
+
+```bash
+sudo cp 80-icestick.rules /etc/udev/rules.d/
+```
+
+```bash
+sudo service udev restar
+```
+
 ## Windows
 
 Install Python 2.7:
@@ -29,6 +39,19 @@ Install Python 2.7:
 * [32 / 64 bit](https://www.python.org/ftp/python/2.7.11/python-2.7.11-macosx10.6.pkg)
 
 Install [Homebrew](http://brew.sh/)
+
+Install libftdi0
+
+```bash
+brew install libftdi0
+```
+
+Configure drivers
+```bash
+sudo kextunload -b com.FTDI.driver.FTDIUSBSerialDriver
+sudo kextunload -b com.apple.driver.AppleUSBFTDI
+```
+
 
 
 > [Back to installation instructions](https://github.com/bqlabs/apio#install)
