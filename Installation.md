@@ -6,7 +6,7 @@
 
 Install [Python 2.7](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/)
 
-Configure [rules file](https://github.com/bqlabs/apio/blob/develop/apio/packages/80-icestick.rules)
+Configure [rules file](https://raw.githubusercontent.com/bqlabs/apio/develop/apio/packages/80-icestick.rules)
 
 ```bash
 sudo cp 80-icestick.rules /etc/udev/rules.d/
