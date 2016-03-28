@@ -2,8 +2,6 @@
 
 ## Linux
 
-### Ubuntu
-
 Install [Python 2.7](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/)
 
 ## Windows
