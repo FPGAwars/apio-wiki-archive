@@ -96,7 +96,10 @@ apio debug
 ```
 
 ## Apio packages
-TODO
+
+| Package  | Description
+|----------|-------------
+| [Toolchain-icestorm](https://github.com/bqlabs/toolchain-icestorm/wiki)  |  Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project 
 
 ## Authors
 * Jesús Arroyo
