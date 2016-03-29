@@ -95,8 +95,12 @@ apio system lsftdi
 apio debug
 ```
 
+## Apio packages
+TODO
+
 ## Authors
 * Jesús Arroyo
+* Juan González (Obijuan)
 
 ## License
 ![](https://github.com/bqlabs/apio/raw/master/doc/bq-logo-cc-sa-small-150px.png)
