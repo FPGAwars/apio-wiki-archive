@@ -1,4 +1,4 @@
-![](https://github.com/bqlabs/apio/raw/master/doc/apio.jpg)
+![](https://github.com/FPGAwars/apio/raw/master/doc/apio.jpg)
 
 (_Apio means celery in spanish_ :)
 
