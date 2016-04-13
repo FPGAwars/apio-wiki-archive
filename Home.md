@@ -28,7 +28,7 @@ apio install --driver
 * **Clone the apio github repo**:
 
 ```bash
-git clone https://github.com/bqlabs/apio.git
+git clone https://github.com/FPGAwars/apio.git
 ```
 
 * **Enter into the examples folder**:
@@ -52,7 +52,7 @@ apio upload
 
 All the leds should turn on after 3 seconds:
 
-![](https://github.com/bqlabs/apio/raw/master/doc/apio-icestorm-hello-world.png)
+![](https://github.com/FPGAwars/apio/raw/master/doc/apio-icestorm-hello-world.png)
 
 Congrats! Now You have your fully open source FPGA toolchain ready!
 
@@ -99,25 +99,25 @@ apio debug
 
 | Package  | Description
 |----------|-------------
-| [Toolchain-icestorm](https://github.com/bqlabs/toolchain-icestorm/wiki)  |  Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project 
+| [Toolchain-icestorm](https://github.com/FPGAwars/toolchain-icestorm/wiki)  |  Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project 
 
 ## Authors
 * Jesús Arroyo
 * Juan González (Obijuan)
 
 ## License
-![](https://github.com/bqlabs/apio/raw/master/doc/bq-logo-cc-sa-small-150px.png)
+![](https://github.com/FPGAwars/apio/raw/master/doc/bq-logo-cc-sa-small-150px.png)
 
 Licensed under a GPL v2 and [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Acknowledgments
 ### Testers:
-* **Javier Martínez**: Tested on Linux mint. ¡Gracias!
+* **Javier Martínez**: Tested on Linux mint. Thanks!
 
     ```
 Linux Elvex2 3.16.0-38-generic #52~14.04.1-Ubuntu SMP 
 Fri May 8 09:43:57 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
     ```
-* **Julian Caro Linares**: Tested on Ubuntu. ¡Gracias!
-* **Rafa Couto**: Debian testing. ¡Gracias!
+* **Julian Caro Linares**: Tested on Ubuntu. Thanks!
+* **Rafa Couto**: Debian testing. Thanks!
 ```(kernel 4.3, pip 1.5.6, python 2.6)```
