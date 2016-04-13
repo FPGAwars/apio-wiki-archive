@@ -14,7 +14,7 @@ sudo service udev restart
 
 ## Windows
 
-https://github.com/bqlabs/libftdi-cross-builder/wiki#driver-installation
+https://github.com/FPGAwars/libftdi-cross-builder/wiki#driver-installation
 
 ## Mac
 ```bash
