@@ -10,7 +10,7 @@ It has been tested on **Ubuntu 14.04**, **15.10**, **Windows 7**, **Mac 10.10** 
 
 ## Installation
 
-1. [Install dependencies](https://github.com/bqlabs/apio/wiki/Dependencies)
+1. [Install dependencies](https://github.com/FPGAwars/apio/wiki/Dependencies)
 
 2. Install latest apio: ```pip install -U apio```
 
