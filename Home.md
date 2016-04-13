@@ -22,7 +22,7 @@ It has been tested on **Ubuntu 14.04**, **15.10**, **Windows 7**, **Mac 10.10** 
 
 ```bash
 apio install
-apio install --driver
+apio install driver
 ```
 
 * **Clone the apio github repo**:
@@ -60,14 +60,23 @@ Congrats! Now You have your fully open source FPGA toolchain ready!
 
 #### FPGA driver
 ```bash
-apio install --driver
-apio uninstall --driver
+apio install driver
+apio uninstall driver
 ```
 
 #### FPGA toolchain
 ```bash
 apio install
 apio uninstall
+```
+
+or
+
+```bash
+apio install scons
+apio install icestorm
+apio uninstall scons
+apio uninstall icestorm
 ```
 
 ```bash
@@ -81,8 +90,8 @@ apio time
 
 #### System tools
 ```bash
-apio install --system
-apio uninstall --system
+apio install system
+apio uninstall system
 ```
 
 ```bash
@@ -99,7 +108,9 @@ apio debug
 
 | Package  | Description
 |----------|-------------
-| [Toolchain-icestorm](https://github.com/FPGAwars/toolchain-icestorm/wiki)  |  Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project 
+| [Toolchain-icestorm](https://github.com/FPGAwars/toolchain-icestorm/wiki)  |  Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project
+| [Tools-usb-ftdi](https://github.com/FPGAwars/tools-usb-ftdi/wiki)  |  Tools for listing the usb devices and retrieving information from the ftdi chips
+
 
 ## Authors
 * Jesús Arroyo
