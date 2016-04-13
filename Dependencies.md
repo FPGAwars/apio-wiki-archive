@@ -15,4 +15,4 @@ NOTE: DON’T FORGET to select Add python.exe to Path feature on the “Customiz
 Install [Python 2.7](https://www.python.org/downloads/) and [Homebrew](http://brew.sh/)
 
 
-> [Back to installation instructions](https://github.com/bqlabs/apio#install)
+> [Back to installation instructions](https://github.com/FPGAwars/apio/wiki/Installation)
