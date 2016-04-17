@@ -14,6 +14,20 @@ It has been tested on **Ubuntu 14.04**, **15.10**, **Windows 7**, **Mac 10.10** 
 
 2. Install latest apio: ```pip install -U apio```
 
+### Installation in Ubuntu 15.10
+
+* Install pip
+
+```
+$ sudo apt-get install pip
+```
+* Install apio
+
+```
+$ sudo pip install apio
+```
+
+
 ## Quick start
 
 * **Install apio**
