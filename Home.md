@@ -39,26 +39,24 @@ apio install
 apio install driver
 ```
 
-* **Clone the apio github repo**:
+* **Get the leds hello world example**:
 
 ```bash
-git clone https://github.com/FPGAwars/apio.git
+apio examples -d leds
 ```
 
-* **Enter into the examples folder**:
+* **Synthesize it**:
 
 ```
-cd apio/examples/leds/
-```
-
-* **Synthesize the hello world example**
-
-```bash
+cd leds
 apio build
 ```
 It generates the **hardware.bin** bitstream
 
-* **Upload the bitstream into the icestick board**
+
+* **Upload the bitstream into the FPGA**
+
+Connect a supported board (icestick, icezum alhambra)
 
 ```bash
 apio upload
