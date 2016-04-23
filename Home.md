@@ -116,6 +116,9 @@ apio system lsftdi
 apio debug
 ```
 
+#### Examples
+TODO
+
 ## Apio packages
 
 | Package  | Description
