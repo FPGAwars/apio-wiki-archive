@@ -117,14 +117,29 @@ apio debug
 ```
 
 #### Examples
-TODO
+
+* Get a list of all the available examples:
+
+```
+apio examples -l
+```
+
+| Example name | Description
+|--------------|------------
+| go-board     | Generic constraint file for the Nandland go-board
+| icestick     | Generic constraint file for the Icestick board
+| icezum       | Generic constraint file for the Icezum Alhambra board
+| makefile     | Generic makefile file for building using make (legacy)
+| leds         | Hello world verilog example: turning on leds (icestick, icezum)
+| wire         | Example: how to create a wire in verilog
+
 
 ## Apio packages
 
-| Package  | Description
-|----------|-------------
-| [Toolchain-icestorm](https://github.com/FPGAwars/toolchain-icestorm/wiki)  |  Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project
-| [Tools-usb-ftdi](https://github.com/FPGAwars/tools-usb-ftdi/wiki)  |  Tools for listing the usb devices and retrieving information from the ftdi chips
+| Package  | Installation | Description 
+|----------|------------- |---------------
+| [Toolchain-icestorm](https://github.com/FPGAwars/toolchain-icestorm/wiki)  | apio install | Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project
+| [Tools-usb-ftdi](https://github.com/FPGAwars/tools-usb-ftdi/wiki)  | apio install system | Tools for listing the usb devices and retrieving information from the ftdi chips
 
 
 ## Authors
