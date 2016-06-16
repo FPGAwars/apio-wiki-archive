@@ -124,7 +124,7 @@ apio uninstall examples
 
 * Get a list of all the available examples:
 
-```
+```bash
 apio examples -l
 ```
 
@@ -145,6 +145,16 @@ apio examples -l
 | [Toolchain-icestorm](https://github.com/FPGAwars/toolchain-icestorm/wiki)  | apio install icestorm | Lattice ICE40 FPGA synthesis, place & route and configuration tools. Icestorm project
 | [Tools-usb-ftdi](https://github.com/FPGAwars/tools-usb-ftdi/wiki)  | apio install system | Tools for listing the usb devices and retrieving information from the ftdi chips
 | [Examples](https://github.com/FPGAwars/apio-examples)  | apio install examples | Verilog basic examples, pinouts, etc.
+
+## Tests
+
+```bash
+nosetests
+```
+
+```bash
+nosetests --with-coverage  --cover-package=apio --cover-html
+```
 
 
 ## Authors
