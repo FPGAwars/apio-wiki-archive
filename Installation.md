@@ -2,7 +2,7 @@
 
 ## Linux
 ```bash
-apio install --driver
+apio install driver
 ```
 
 or
@@ -18,7 +18,7 @@ https://github.com/FPGAwars/libftdi-cross-builder/wiki#driver-installation
 
 ## Mac
 ```bash
-apio install --driver
+apio install driver
 ```
 
 or
