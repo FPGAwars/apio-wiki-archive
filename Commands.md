@@ -60,5 +60,5 @@ Error: insufficient arguments: missing type, pack
 
 ```
 $ apio build --type lp --size 8k
-Error: contradictory arguments: missing pack
+Error: insufficient arguments: missing pack
 ```
