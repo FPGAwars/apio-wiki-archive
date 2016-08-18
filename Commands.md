@@ -100,7 +100,7 @@ $ apio build --type lp --size 8k
 Error: insufficient arguments: missing pack
 ```
 
-#### Incorrect board
+#### Unknown board
 
 Command not executed. Print an error message
 
@@ -108,15 +108,15 @@ E.g.
 
 ```
 $ apio build --board icefake
-Error: incorrect board: icefake
+Error: unknown board: icefake
 ```
 
 ```
 $ apio build --board icefake --fpga iCE40-HX1K-TQ144
-Error: incorrect board: icefake
+Error: unknown board: icefake
 ```
 
-#### Incorrect fpga
+#### Unknown fpga
 
 Command not executed. Print an error message
 
@@ -124,15 +124,15 @@ E.g.
 
 ```
 $ apio build --fpga iCE40-FAKE
-Error: incorrect fpga: iCE40-FAKE
+Error: unknown fpga: iCE40-FAKE
 ```
 
 ```
 $ apio build --fpga iCE40-FAKE --size 8k
-Error: incorrect fpga: iCE40-FAKE
+Error: unknown fpga: iCE40-FAKE
 ```
 
 ```
 $ apio build --board icezum --fpga iCE40-FAKE
-Error: incorrect fpga: iCE40-FAKE
+Error: unknown fpga: iCE40-FAKE
 ```
