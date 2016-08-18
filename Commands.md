@@ -22,6 +22,18 @@ E.g.
 $ apio verify
 ```
 
+## apio sim
+
+Launch verilog simulation.
+
+### Testing
+
+E.g.
+
+```
+$ apio sim
+```
+
 ## apio build
 
 Synthesize the bitstream.
