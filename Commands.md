@@ -44,6 +44,11 @@ $ apio build --board icezum --fpga iCE40-HX1K-TQ144 --type hx
 Warning: redundant arguments: fpga, type
 ```
 
+```
+$ apio build --fpga iCE40-HX1K-TQ144 --pack vq100
+Warning: redundant arguments: pack
+```
+
 #### Contradictory arguments
 
 Command not executed. Print an error message
@@ -57,6 +62,7 @@ Error: contradictory arguments: size
 
 ```
 $ apio build --board icezum --fpga iCE40-HX1K-TQ144 --type lp
+Warning: redundant arguments: fpga
 Error: contradictory arguments: type
 ```
 
