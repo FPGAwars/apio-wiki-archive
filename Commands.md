@@ -1,4 +1,30 @@
+## apio clean
+
+Remove the previous generated files.
+
+### Testing
+
+E.g.
+
+```
+$ apio clean
+```
+
+## apio verify
+
+Verify the verilog code.
+
+### Testing
+
+E.g.
+
+```
+$ apio verify
+```
+
 ## apio build
+
+Synthesize the bitstream.
 
 ### Arguments
 
