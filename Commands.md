@@ -10,6 +10,24 @@
 
 ### Testing
 
+#### Correct arguments
+
+Command executed
+
+E.g.
+
+```
+$ apio build --board icezum
+```
+
+```
+$ apio build --fpga iCE40-HX1K-VQ100
+```
+
+```
+$ apio build --type lp --size 8k --pack cm225:4k
+```
+
 #### Redundant arguments
 
 Command executed with a warning message
