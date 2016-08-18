@@ -8,6 +8,8 @@
 * type: lp, hx
 * pack: tq144, vq100, ...
 
+board > fpga > size, type, pack
+
 ### Testing
 
 #### Correct arguments
@@ -44,20 +46,20 @@ E.g.
 
 ```
 $ apio build --board icezum --size 1k
-[...] Processing icezum
 Warning: redundant arguments: size
+[...] Processing icezum
 ```
 
 ```
 $ apio build --board icezum --fpga iCE40-HX1K-TQ144 --type hx
-[...] Processing icezum
 Warning: redundant arguments: fpga, type
+[...] Processing icezum
 ```
 
 ```
 $ apio build --fpga iCE40-HX1K-TQ144 --pack vq100
-[...] Processing custom board
 Warning: redundant arguments: pack
+[...] Processing custom board
 ```
 
 #### Contradictory arguments
@@ -68,20 +70,17 @@ E.g.
 
 ```
 $ apio build --board icezum --size 8k
-[...] Processing icezum
 Error: contradictory arguments: size
 ```
 
 ```
 $ apio build --board icezum --fpga iCE40-HX1K-TQ144 --type lp
-[...] Processing icezum
 Warning: redundant arguments: fpga
 Error: contradictory arguments: type
 ```
 
 ```
 $ apio build --fpga iCE40-HX1K-TQ144 --type lp --size 8k
-[...] Processing custom board
 Error: contradictory arguments: type, size
 ```
 
@@ -93,12 +92,47 @@ E.g.
 
 ```
 $ apio build --size 8k
-[...] Processing custom board
 Error: insufficient arguments: missing type, pack
 ```
 
 ```
 $ apio build --type lp --size 8k
-[...] Processing custom board
 Error: insufficient arguments: missing pack
+```
+
+#### Incorrect board
+
+Command not executed. Print an error message
+
+E.g.
+
+```
+$ apio build --board icefake
+Error: incorrect board: icefake
+```
+
+```
+$ apio build --board icefake --fpga iCE40-HX1K-TQ144
+Error: incorrect board: icefake
+```
+
+#### Incorrect fpga
+
+Command not executed. Print an error message
+
+E.g.
+
+```
+$ apio build --fpga iCE40-FAKE
+Error: incorrect fpga: iCE40-FAKE
+```
+
+```
+$ apio build --fpga iCE40-FAKE --size 8k
+Error: incorrect fpga: iCE40-FAKE
+```
+
+```
+$ apio build --board icezum --fpga iCE40-FAKE
+Error: incorrect fpga: iCE40-FAKE
 ```
