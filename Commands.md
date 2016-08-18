@@ -183,6 +183,8 @@ Upload bitstream to FPGA. Same arguments that *build* + device argument.
 
 #### Correct arguments
 
+NOTE: if the correct board is not connected a 'board not detected' error will be thrown.
+
 E.g.
 
 ```
@@ -196,8 +198,13 @@ $ apio upload --board icestick
 ```
 
 ```
+$ apio upload --board icestick --device 1
+[...] Processing icestick
+```
+
+```
 $ apio upload --device 1
-[...] Processing custom board
+[...] Processing icezum
 ```
 
 ```
