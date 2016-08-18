@@ -181,10 +181,49 @@ Upload bitstream to FPGA. Same arguments that *build* + device argument.
 
 ### Testing
 
+#### Correct arguments
+
 E.g.
 
 ```
 $ apio upload
+[...] Processing icezum
+```
+
+```
+$ apio upload --board icestick
+[...] Processing icestick
+```
+
+```
+$ apio upload --device 1
+[...] Processing custom board
+```
+
+```
+$ apio upload --device 1 --fpga iCE40-HX1K-VQ100
+[...] Processing custom board
+```
+
+```
+$ apio upload --device 1 --type lp --size 8k --pack cm225:4k
+[...] Processing custom board
+```
+
+#### Insufficient arguments
+
+Command not executed. Print an error message
+
+E.g.
+
+```
+$ apio upload --size 8k
+Error: insufficient arguments: missing device, type, pack
+```
+
+```
+$ apio upload --fpga iCE40-HX1K-VQ100
+Error: insufficient arguments: missing device
 ```
 
 ## apio time
