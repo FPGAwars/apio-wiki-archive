@@ -17,15 +17,23 @@ Command executed
 E.g.
 
 ```
+$ apio build
+[...] Processing icezum
+```
+
+```
 $ apio build --board icezum
+[...] Processing icezum
 ```
 
 ```
 $ apio build --fpga iCE40-HX1K-VQ100
+[...] Processing custom board
 ```
 
 ```
 $ apio build --type lp --size 8k --pack cm225:4k
+[...] Processing custom board
 ```
 
 #### Redundant arguments
