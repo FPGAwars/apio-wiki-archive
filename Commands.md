@@ -162,3 +162,27 @@ Error: unknown fpga: iCE40-FAKE
 $ apio build --board icezum --fpga iCE40-FAKE
 Error: unknown fpga: iCE40-FAKE
 ```
+
+## apio upload
+
+Upload bitstream to FPGA. Same arguments that *build* + device argument.
+
+### Testing
+
+E.g.
+
+```
+$ apio upload
+```
+
+## apio time
+
+Bitstream timing analysis. Same arguments that *build*.
+
+### Testing
+
+E.g.
+
+```
+$ apio time
+```
