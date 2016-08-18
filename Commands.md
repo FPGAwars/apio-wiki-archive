@@ -22,8 +22,8 @@ $ apio build
 ```
 
 ```
-$ apio build --board icezum
-[...] Processing icezum
+$ apio build --board icestick
+[...] Processing icestick
 ```
 
 ```
