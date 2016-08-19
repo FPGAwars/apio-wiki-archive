@@ -1,3 +1,14 @@
+Index
+=====
+
+* `clean <https://github.com/FPGAwars/apio/wiki/Commands#clean>`_
+* `verify <https://github.com/FPGAwars/apio/wiki/Commands#verify>`_
+* `sim <https://github.com/FPGAwars/apio/wiki/Commands#sim>`_
+* `build <https://github.com/FPGAwars/apio/wiki/Commands#build>`_
+* `time <https://github.com/FPGAwars/apio/wiki/Commands#time>`_
+* `upload <https://github.com/FPGAwars/apio/wiki/Commands#upload>`_
+
+
 clean
 =====
 
@@ -260,6 +271,26 @@ $ apio build --board icezum --fpga iCE40-FAKE
 Error: unknown fpga: iCE40-FAKE
 ```
 
+time
+====
+
+Bitstream timing analysis. Same arguments and behavior that `build <https://github.com/FPGAwars/apio/wiki/Commands#build>`_.
+
+Testing
+-------
+
+```
+$ apio time --board icezum
+Using default SConstruct file
+[...] Processing icezum
+--------------------------------------------------------------------------------
+Executing: scons -Q time fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+...
+```
+
 upload
 ======
 
@@ -317,16 +348,4 @@ Error: insufficient arguments: missing device, type, pack
 ```
 $ apio upload --fpga iCE40-HX1K-VQ100
 Error: insufficient arguments: missing device
-```
-
-## apio time
-
-Bitstream timing analysis. Same arguments that *build*.
-
-### Testing
-
-E.g.
-
-```
-$ apio time
 ```
