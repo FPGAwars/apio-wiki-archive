@@ -302,7 +302,7 @@ FPGA_PACK: tq144
 upload
 ======
 
-Upload bitstream to FPGA. Same arguments that `build <#build>`_ + device <int> argument.
+Upload bitstream to FPGA. Same arguments and behavior that `build <#build>`_ + device <int> argument.
 
 Testing
 -------
@@ -312,9 +312,30 @@ Board not connected
 
 If the correct board is not connected an error message will be thrown.
 
+Nothing connected:
 ```
 $ apio upload --device 0 --board icezum
 Number of FTDI devices found: 0
+Error: board not detected
+```
+
+Icezum connected:
+```
+$ apio upload --device 0 --board icestick
+Number of FTDI devices found: 1
+Checking device: 0
+Manufacturer: bqlabs, Description: IceZUM Alhambra - 5 (bqlabs)
+
+Error: board not detected
+```
+
+Icestick connected:
+```
+$ apio upload --device 1 --board icestick
+Number of FTDI devices found: 1
+Checking device: 0
+Manufacturer: Lattice, Description: Lattice FTUSB Interface Cable
+
 Error: board not detected
 ```
 
@@ -361,3 +382,7 @@ If any argument is provided **apio.ini** file will be **ignored** if exists.
 If device argument is not provided the first compatible found board will be automatically selected.
 
 If device argument is provided it will try to upload the bitstream to this device id. Also, if board information is provided, using --board or apio.ini, a FTDI validation will be done.
+
+Note for advanced users:
+
+    **build** and **unpload** commands must have the **same arguments** to ensure the desired behavior.
