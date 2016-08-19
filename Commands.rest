@@ -14,38 +14,42 @@ Removed hardware.blif
 Removed hardware.asc
 Removed hardware.bin
 Removed hardware.out
-========================= [SUCCESS] Took 0.15 seconds =========================
 ```
 
-```
-$ apio clean
-Using default SConstruct file
-Executing: scons -Q -c -f /path/to/SConstruct
-========================= [SUCCESS] Took 0.15 seconds =========================
-```
+verify
+======
 
-## apio verify
+Verify the verilog code. It does **not depend** on **apio.ini** file.
 
-Verify the verilog code.
-
-### Testing
-
-E.g.
+Testing
+-------
 
 ```
 $ apio verify
+Using default SConstruct file
+Executing: scons -Q verify -f /path/to/SConstruct
+iverilog -B /path/to/lib/ivl -o hardware.out /path/to/vlib/system.v leds.v
 ```
 
-## apio sim
+sim
+===
 
-Launch verilog simulation.
+Launch verilog simulation. It does **not depend** on **apio.ini** file.
 
-### Testing
-
-E.g.
+Testing
+-------
 
 ```
 $ apio sim
+Using default SConstruct file
+Executing: scons -Q sim -f /path/to/SConstruct
+gtkwave leds_tb.vcd leds_tb.gtkw
+
+GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+
+[0] start time.
+[1000] end time.
+WM Destroy
 ```
 
 ## apio build
