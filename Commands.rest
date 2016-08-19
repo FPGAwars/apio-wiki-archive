@@ -1,13 +1,27 @@
-## apio clean
+clean
+=====
 
-Remove the previous generated files.
+Remove the previous generated files. It does **not depend** on **apio.ini** file.
 
-### Testing
-
-E.g.
+Testing
+-------
 
 ```
 $ apio clean
+Using default SConstruct file
+Executing: scons -Q -c -f /path/to/SConstruct
+Removed hardware.blif
+Removed hardware.asc
+Removed hardware.bin
+Removed hardware.out
+========================= [SUCCESS] Took 0.15 seconds =========================
+```
+
+```
+$ apio clean
+Using default SConstruct file
+Executing: scons -Q -c -f /path/to/SConstruct
+========================= [SUCCESS] Took 0.15 seconds =========================
 ```
 
 ## apio verify
