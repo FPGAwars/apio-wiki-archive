@@ -1,3 +1,5 @@
+NOTE: this page is for advanced users.
+
 Index
 =====
 
@@ -383,6 +385,6 @@ If device argument is not provided the first compatible found board will be auto
 
 If device argument is provided it will try to upload the bitstream to this device id. Also, if board information is provided, using --board or apio.ini, a FTDI validation will be done.
 
-Note for advanced users:
+Note:
 
     **build** and **unpload** commands must have the **same arguments** to ensure the desired behavior.
