@@ -302,58 +302,62 @@ FPGA_PACK: tq144
 upload
 ======
 
-Upload bitstream to FPGA. Same arguments that *build* + device argument.
+Upload bitstream to FPGA. Same arguments that `build <#build>`_ + device <int> argument.
 
-### Testing
+Testing
+-------
 
-#### Correct arguments
+Board not connected
+~~~~~~~~~~~~~~~~~~~
 
-NOTE: if the correct board is not connected a 'board not detected' error will be thrown.
+If the correct board is not connected an error message will be thrown.
 
-E.g.
+```
+$ apio upload --device 0 --board icezum
+Number of FTDI devices found: 0
+Error: board not detected
+```
+
+No arguments
+~~~~~~~~~~~~
+
+If no arguments are provided it will use **apio.ini** board if exists.
 
 ```
 $ apio upload
+Info: use apio.ini board: icezum
+Number of FTDI devices found: 1
+Checking device: 0
+Manufacturer: bqlabs, Description: IceZUM Alhambra - 5 (bqlabs)
+
+Using default SConstruct file
 [...] Processing icezum
+--------------------------------------------------------------------------------
+Executing: scons -Q upload fpga_type=hx fpga_pack=tq144 fpga_size=1k device=0
+-f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+DEVICE: 0
+iceprog -d i:0x0403:0x6010:0 hardware.bin
+...
 ```
 
-```
-$ apio upload --board icestick
-[...] Processing icestick
-```
+Otherwise it will throw an error message.
 
 ```
-$ apio upload --board icestick --device 1
-[...] Processing icestick
+$ apio upload
+Info: No apio.ini file
+Error: insufficient arguments: missing board
+You have two options:
+  1) Execute your command with
+       `--board <boardname>`
+  2) Create an ini file using
+       `apio init --board <boardname>`
 ```
 
-```
-$ apio upload --device 1
-[...] Processing icezum
-```
+If any argument is provided **apio.ini** file will be **ignored** if exists.
 
-```
-$ apio upload --device 1 --fpga iCE40-HX1K-VQ100
-[...] Processing custom board
-```
+If device argument is not provided the first compatible found board will be automatically selected.
 
-```
-$ apio upload --device 1 --type lp --size 8k --pack cm225:4k
-[...] Processing custom board
-```
-
-#### Insufficient arguments
-
-Command not executed. Print an error message
-
-E.g.
-
-```
-$ apio upload --size 8k
-Error: insufficient arguments: missing device, type, pack
-```
-
-```
-$ apio upload --fpga iCE40-HX1K-VQ100
-Error: insufficient arguments: missing device
-```
+If device argument is provided it will try to upload the bitstream to this device id. Also, if board information is provided, using --board or apio.ini, a FTDI validation will be done.
