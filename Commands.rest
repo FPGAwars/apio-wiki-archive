@@ -102,7 +102,7 @@ You have two options:
        `apio init --board <boardname>`
 ```
 
-If any argument is provided **apio.ini** file will be ignored.
+If any argument is provided **apio.ini** file will be **ignored**.
 
 Correct arguments
 ~~~~~~~~~~~~~~~~~
@@ -111,41 +111,87 @@ Command executed.
 
 ```
 $ apio build --board icestick
+Info: ignore apio.ini board
+Using default SConstruct file
 [...] Processing icestick
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+...
 ```
 
 ```
 $ apio build --fpga iCE40-HX1K-VQ100
+Info: ignore apio.ini board
+Using default SConstruct file
 [...] Processing custom board
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=hx fpga_pack=vq100 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: vq100
+...
 ```
 
 ```
 $ apio build --type lp --size 8k --pack cm225:4k
+Info: ignore apio.ini board
+Using default SConstruct file
 [...] Processing custom board
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=lp fpga_pack=cm225:4k fpga_size=8k -f /path/to/SConstruct
+FPGA_SIZE: 8k
+FPGA_TYPE: lp
+FPGA_PACK: cm225:4k
+...
 ```
 
 #### Redundant arguments
 
-Command executed with a warning message
-
-E.g.
+Command executed with a warning message.
 
 ```
 $ apio build --board icezum --size 1k
+Info: ignore apio.ini board
 Warning: redundant arguments: size
+Using default SConstruct file
 [...] Processing icezum
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+...
 ```
 
 ```
 $ apio build --board icezum --fpga iCE40-HX1K-TQ144 --type hx
+Info: ignore apio.ini board
 Warning: redundant arguments: fpga, type
-[...] Processing icezum
+Using default SConstruct file
+[Fri Aug 19 11:37:30 2016] Processing icezum
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+...
 ```
 
 ```
-$ apio build --fpga iCE40-HX1K-TQ144 --pack vq100
+$ apio build --fpga iCE40-HX1K-TQ144 --pack tq144
+Info: ignore apio.ini board
 Warning: redundant arguments: pack
+Using default SConstruct file
 [...] Processing custom board
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+...
 ```
 
 #### Contradictory arguments
