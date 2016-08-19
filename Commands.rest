@@ -52,32 +52,62 @@ GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
 WM Destroy
 ```
 
-## apio build
+build
+=====
 
-Synthesize the bitstream.
+Synthesize the bitstream. It **depends** on **apio.ini** file.
 
-### Arguments
+Arguments
+---------
 
-* board: icestick, icezum, go-board, ...
-* fpga: iCE40-HX1K-TQ144, iCE40-HX1K-VQ100, ...
-* size: 1k, 8k
-* type: lp, hx
-* pack: tq144, vq100, ...
+* **board**: icestick, icezum, go-board, ...
+* **fpga**: iCE40-HX1K-TQ144, iCE40-HX1K-VQ100, ...
+* **size**: 1k, 8k
+* **type**: lp, hx
+* **pack**: tq144, vq100, ...
 
 board > fpga > size, type, pack
 
-### Testing
+Testing
+-------
 
-#### Correct arguments
+No arguments
+~~~~~~~~~~~~
 
-Command executed
-
-E.g.
+If no arguments are provided it will use **apio.ini** board if exists.
 
 ```
 $ apio build
+Info: use apio.ini board: icezum
+Using default SConstruct file
 [...] Processing icezum
+--------------------------------------------------------------------------------
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+FPGA_SIZE: 1k
+FPGA_TYPE: hx
+FPGA_PACK: tq144
+...
 ```
+
+Otherwise it will throw an error message.
+
+```
+$ apio build
+Info: No apio.ini file
+Error: insufficient arguments: missing board
+You have two options:
+  1) Execute your command with
+       `--board <boardname>`
+  2) Create an ini file using
+       `apio init --board <boardname>`
+```
+
+If any argument is provided **apio.ini** file will be ignored.
+
+Correct arguments
+~~~~~~~~~~~~~~~~~
+
+Command executed.
 
 ```
 $ apio build --board icestick
