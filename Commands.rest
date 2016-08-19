@@ -1,4 +1,4 @@
-NOTE: this page is for advanced users.
+**NOTE: this page is for ADVANCED USERS**
 
 Index
 =====
