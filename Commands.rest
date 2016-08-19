@@ -1,12 +1,12 @@
 Index
 =====
 
-* `clean <https://github.com/FPGAwars/apio/wiki/Commands#clean>`_
-* `verify <https://github.com/FPGAwars/apio/wiki/Commands#verify>`_
-* `sim <https://github.com/FPGAwars/apio/wiki/Commands#sim>`_
-* `build <https://github.com/FPGAwars/apio/wiki/Commands#build>`_
-* `time <https://github.com/FPGAwars/apio/wiki/Commands#time>`_
-* `upload <https://github.com/FPGAwars/apio/wiki/Commands#upload>`_
+* `clean <#clean>`_
+* `verify <#verify>`_
+* `sim <#sim>`_
+* `build <#build>`_
+* `time <#time>`_
+* `upload <#upload>`_
 
 
 clean
@@ -93,7 +93,8 @@ Info: use apio.ini board: icezum
 Using default SConstruct file
 [...] Processing icezum
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: tq144
@@ -125,7 +126,8 @@ $ apio build --board icestick
 Using default SConstruct file
 [...] Processing icestick
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: tq144
@@ -137,7 +139,8 @@ $ apio build --fpga iCE40-HX1K-VQ100
 Using default SConstruct file
 [...] Processing custom board
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=hx fpga_pack=vq100 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=hx fpga_pack=vq100 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: vq100
@@ -149,7 +152,8 @@ $ apio build --type lp --size 8k --pack cm225:4k
 Using default SConstruct file
 [...] Processing custom board
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=lp fpga_pack=cm225:4k fpga_size=8k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=lp fpga_pack=cm225:4k fpga_size=8k
+-f /path/to/SConstruct
 FPGA_SIZE: 8k
 FPGA_TYPE: lp
 FPGA_PACK: cm225:4k
@@ -167,7 +171,8 @@ Warning: redundant arguments: size
 Using default SConstruct file
 [...] Processing icezum
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: tq144
@@ -180,7 +185,8 @@ Warning: redundant arguments: fpga, type
 Using default SConstruct file
 [Fri Aug 19 11:37:30 2016] Processing icezum
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: tq144
@@ -193,7 +199,8 @@ Warning: redundant arguments: pack
 Using default SConstruct file
 [...] Processing custom board
 --------------------------------------------------------------------------------
-Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q build fpga_type=hx fpga_pack=tq144 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: tq144
@@ -274,7 +281,7 @@ Error: unknown fpga: iCE40-FAKE
 time
 ====
 
-Bitstream timing analysis. Same arguments and behavior that `build <https://github.com/FPGAwars/apio/wiki/Commands#build>`_.
+Bitstream timing analysis. Same arguments and behavior that `build <#build>`_.
 
 Testing
 -------
@@ -284,7 +291,8 @@ $ apio time --board icezum
 Using default SConstruct file
 [...] Processing icezum
 --------------------------------------------------------------------------------
-Executing: scons -Q time fpga_type=hx fpga_pack=tq144 fpga_size=1k -f /path/to/SConstruct
+Executing: scons -Q time fpga_type=hx fpga_pack=tq144 fpga_size=1k
+-f /path/to/SConstruct
 FPGA_SIZE: 1k
 FPGA_TYPE: hx
 FPGA_PACK: tq144
