@@ -102,7 +102,7 @@ You have two options:
        `apio init --board <boardname>`
 ```
 
-If any argument is provided **apio.ini** file will be **ignored**.
+If any argument is provided **apio.ini** file will be **ignored** if exists.
 
 Correct arguments
 ~~~~~~~~~~~~~~~~~
@@ -111,7 +111,6 @@ Command executed.
 
 ```
 $ apio build --board icestick
-Info: ignore apio.ini board
 Using default SConstruct file
 [...] Processing icestick
 --------------------------------------------------------------------------------
@@ -124,7 +123,6 @@ FPGA_PACK: tq144
 
 ```
 $ apio build --fpga iCE40-HX1K-VQ100
-Info: ignore apio.ini board
 Using default SConstruct file
 [...] Processing custom board
 --------------------------------------------------------------------------------
@@ -137,7 +135,6 @@ FPGA_PACK: vq100
 
 ```
 $ apio build --type lp --size 8k --pack cm225:4k
-Info: ignore apio.ini board
 Using default SConstruct file
 [...] Processing custom board
 --------------------------------------------------------------------------------
@@ -148,13 +145,13 @@ FPGA_PACK: cm225:4k
 ...
 ```
 
-#### Redundant arguments
+Redundant arguments
+~~~~~~~~~~~~~~~~~~~
 
 Command executed with a warning message.
 
 ```
 $ apio build --board icezum --size 1k
-Info: ignore apio.ini board
 Warning: redundant arguments: size
 Using default SConstruct file
 [...] Processing icezum
@@ -168,7 +165,6 @@ FPGA_PACK: tq144
 
 ```
 $ apio build --board icezum --fpga iCE40-HX1K-TQ144 --type hx
-Info: ignore apio.ini board
 Warning: redundant arguments: fpga, type
 Using default SConstruct file
 [Fri Aug 19 11:37:30 2016] Processing icezum
@@ -182,7 +178,6 @@ FPGA_PACK: tq144
 
 ```
 $ apio build --fpga iCE40-HX1K-TQ144 --pack tq144
-Info: ignore apio.ini board
 Warning: redundant arguments: pack
 Using default SConstruct file
 [...] Processing custom board
@@ -194,11 +189,10 @@ FPGA_PACK: tq144
 ...
 ```
 
-#### Contradictory arguments
+Contradictory arguments
+~~~~~~~~~~~~~~~~~~~~~~~
 
-Command not executed. Print an error message
-
-E.g.
+Command not executed. Print an error message.
 
 ```
 $ apio build --board icezum --size 8k
@@ -216,11 +210,10 @@ $ apio build --fpga iCE40-HX1K-TQ144 --type lp --size 8k
 Error: contradictory arguments: type, size
 ```
 
-#### Insufficient arguments
+Insufficient arguments
+~~~~~~~~~~~~~~~~~~~~~~
 
-Command not executed. Print an error message
-
-E.g.
+Command not executed. Print an error message.
 
 ```
 $ apio build --size 8k
@@ -232,11 +225,10 @@ $ apio build --type lp --size 8k
 Error: insufficient arguments: missing pack
 ```
 
-#### Unknown board
+Unknown board
+~~~~~~~~~~~~~
 
-Command not executed. Print an error message
-
-E.g.
+Command not executed. Print an error message.
 
 ```
 $ apio build --board icefake
@@ -248,11 +240,10 @@ $ apio build --board icefake --fpga iCE40-HX1K-TQ144
 Error: unknown board: icefake
 ```
 
-#### Unknown fpga
+Unknown fpga
+~~~~~~~~~~~~
 
-Command not executed. Print an error message
-
-E.g.
+Command not executed. Print an error message.
 
 ```
 $ apio build --fpga iCE40-FAKE
@@ -269,7 +260,8 @@ $ apio build --board icezum --fpga iCE40-FAKE
 Error: unknown fpga: iCE40-FAKE
 ```
 
-## apio upload
+upload
+======
 
 Upload bitstream to FPGA. Same arguments that *build* + device argument.
 
