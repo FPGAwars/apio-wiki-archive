@@ -81,6 +81,8 @@ Arguments
 
 board > fpga > size, type, pack
 
+`Full arguments list <https://github.com/FPGAwars/apio/tree/develop/apio/config>`_
+
 Testing
 -------
 
