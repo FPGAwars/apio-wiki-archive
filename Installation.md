@@ -2,7 +2,7 @@
 
 ## Linux
 ```bash
-apio install driver
+apio drivers --enable
 ```
 
 or
@@ -12,21 +12,17 @@ sudo cp 80-icestick.rules /etc/udev/rules.d/
 sudo service udev restart
 ```
 
-## Windows
-
-https://github.com/FPGAwars/libftdi-cross-builder/wiki#driver-installation
-
 ## Mac
 ```bash
-apio install driver
+apio drivers --enable
 ```
 
 or
 
-Install libftdi0
+Install libftdi
 
 ```bash
-brew install libftdi0
+brew install libftdi
 ```
 
 Configure drivers
@@ -34,3 +30,13 @@ Configure drivers
 sudo kextunload -b com.FTDI.driver.FTDIUSBSerialDriver
 sudo kextunload -b com.apple.driver.AppleUSBFTDI
 ```
+
+To revert the configuration
+```bash
+sudo kextload -b com.FTDI.driver.FTDIUSBSerialDriver
+sudo kextload -b com.apple.driver.AppleUSBFTDI
+```
+
+## Windows
+
+https://github.com/FPGAwars/libftdi-cross-builder/wiki#driver-installation
