@@ -1,4 +1,4 @@
-# Apio drivers
+# FPGA FTDI drivers
 
 ## Linux
 ```bash
