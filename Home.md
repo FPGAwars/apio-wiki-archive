@@ -1,4 +1,4 @@
-![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio-logo-mini.png) ![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio.jpg)
+![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio.jpg) ![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio-logo-mini.png) 
 
 (_Apio means celery in spanish_ :)
 
