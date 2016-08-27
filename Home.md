@@ -6,46 +6,6 @@ The full documentation is located in Read the Docs:
 
 > https://apiodoc.readthedocs.io
 
-## Quick start
-
-* **Install apio**
-
-* **Install fpga toolchain**:
-
-```bash
-apio install
-apio install driver
-```
-
-* **Get the leds hello world example**:
-
-```bash
-apio examples -d leds
-```
-
-* **Synthesize it**:
-
-```
-cd leds
-apio build
-```
-It generates the **hardware.bin** bitstream
-
-
-* **Upload the bitstream into the FPGA**
-
-Connect a supported board (icestick, icezum alhambra)
-
-```bash
-apio upload
-```
-
-All the leds should turn on after 3 seconds:
-
-![](https://github.com/FPGAwars/apio/raw/master/doc/apio-icestorm-hello-world.png)
-
-Congrats! Now You have your fully open source FPGA toolchain ready!
-
 ## Testing
 
 It has been tested on
