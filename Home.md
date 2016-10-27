@@ -6,6 +6,10 @@ The full documentation is located in Read the Docs:
 
 > https://apiodoc.readthedocs.io
 
+### Windows drivers
+
+https://github.com/FPGAwars/libftdi-cross-builder/wiki#testing-on-windows-7
+
 ## Testing
 
 It has been tested on
