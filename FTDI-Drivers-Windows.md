@@ -1,4 +1,4 @@
-El chip FTDI de la *iCEstick* o la *IceZUM Alhambra* tienen dos interfaces de comunicaciones:
+El chip FTDI de la *iCEstick* o la *IceZUM Alhambra* tiene dos interfaces de comunicaciones:
 * La **Interfaz 0** se utiliza para descargar el bitstream
 * La **Interfaz 1** está conectada con la FPGA para permitir la comunicación con una UART sintetizada
 
@@ -16,7 +16,7 @@ Tras instalar los drivers con [Apio](http://apiodoc.readthedocs.io/en/stable/sou
 
 * Cada vez que la placa se conecte a un **puerto USB nuevo** se deberán **instalar los drivers** para ese puerto.
 * Después de configurar los drivers se ha de **desconectar y reconectar la placa**.
-* En **Windows 10** con **USB 3.0** suele dar problemas. En tal caso probar:
+* En **Windows 10** con **USB 3.0** puede dar problemas. En tal caso probar:
   * En el administrador de dispositivos buscar el "Dispositivo Compuesto USB" que corresponde a la placa (clic derecho->propiedades->Detalles, en el desplegable buscar "Descripción del dispositivo notificada por el bus". Debe aparecer "IceZUM Alhambra v1.1...". Si es la Icestick pondrá "Lattice FTUSB Interface Cable"
   * Cuando se localiza el dispositivo compuesto que corresponde a la placa, clic derecho->Desinstalar.
   * Desconectar la placa y reiniciar el PC
