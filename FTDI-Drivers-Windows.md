@@ -12,6 +12,22 @@ Tras instalar los drivers con [Apio](http://apiodoc.readthedocs.io/en/stable/sou
 
 ![](https://groups.google.com/group/fpga-wars-explorando-el-lado-libre/attach/1b0354d041335/imagen.png?part=0.2&authuser=0)
 
+### Procedimiento si no aparecen los puertos COM
+
+Para hacer funcionar la fpga hay que seguir el **procedimiento estándar**, no influye en el funcionamiento de la fpga que no aparezcan los puertos COM. En caso de querer comunicarse con la fpga mediante el **puerto serie** habrá que realizar los siguientes pasos para hacerlos aparecer. Los pasos que se detallan a continuación se han realizado tras completar el proceso estándar.
+
+Vamos al Administrador de dispositivos > Controladores de bus serie universal > USB Serial Converter B > (Click derecho) Propiedades
+
+![](https://lh3.googleusercontent.com/-vrdV_1npX0M/WXhPXB6R9zI/AAAAAAAAHPg/P_PFcyRGN10MpB1-szZm0QMKIuYd9tVcgCLcBGAs/s1600/puertoscom1.png)
+
+Vamos a la pestaña de Avanzado, activamos la opción Cargar VCP y pulsamos Aceptar.
+
+![](https://lh3.googleusercontent.com/-joxTEN9Q7tI/WXhP0qwU9lI/AAAAAAAAHPk/t-G71x1vIMIU8YJNFJEU64_s12dHjgVygCLcBGAs/s1600/puertoscom2.png)
+
+Desenchufamos y enchufamos la fpga, y ahora nos aparecerá el puerto COM.
+
+![](https://lh3.googleusercontent.com/-SHERYohSK6M/WXhRDLUwAZI/AAAAAAAAHPs/BuAam8EqtcUqtCvrYcCNrN5_sypNZ0nWgCLcBGAs/s1600/puertoscom3.png)
+
 ### NOTAS
 
 * Cada vez que la placa se conecte a un **puerto USB nuevo** se deberán **instalar los drivers** para ese puerto.
