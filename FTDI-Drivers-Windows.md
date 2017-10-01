@@ -37,3 +37,16 @@ Desenchufamos y enchufamos la fpga, y ahora nos aparecerá el puerto COM.
   * Cuando se localiza el dispositivo compuesto que corresponde a la placa, clic derecho->Desinstalar.
   * Desconectar la placa y reiniciar el PC
   * Conectar la placa, se reinstará automáticamente del driver de Microsoft.
+
+### Comunicación con UART (TX y RX) sintetizada en la FPGA
+
+1. Abres el Administrador de dispositivos. (para ir rápido, tecla windows + R, te saldrá la ventanita de ejecutar, ahí escribes "devmgmt.msc")
+2. En "Controladoras de bus serie Universal" haces clic con el botón de derecho a "USB Serial Converter B".
+3. Propiedades.
+4. Pestaña: "Avanzados"
+5. Habilitas la casilla "Cargar VCP".
+6. Aceptar.
+7. Enchufas y desenchufas.
+8. Te ha de aparecer el puerto COM nuevo más abajo. En "Puertos (COM y LPT)"
+
+Si te sigue sin aparecer, prueba a enchufar y desenchufar de nuevo.
