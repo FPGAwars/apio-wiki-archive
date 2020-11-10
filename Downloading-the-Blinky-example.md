@@ -52,4 +52,14 @@ apio upload
 
 It will **synthesize** the example and **upload** it to the board
 
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-04.png)
+
+This is what you will see once the upload is finished:
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-05.png)
+
+(Do not worry about the warnings)
+
+You will see the blinking led in your board:
+
 
