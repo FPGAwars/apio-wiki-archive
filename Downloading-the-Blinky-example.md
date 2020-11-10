@@ -60,6 +60,6 @@ This is what you will see once the upload is finished:
 
 (Do not worry about the warnings)
 
-You will see the blinking led in your board:
+You will see the blinking LED in your board:
 
 
