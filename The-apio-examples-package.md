@@ -14,7 +14,7 @@ Once the repo is cloned, enter into the apio-examples folder
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-02.png)
 
-There you will see many folder with the names of the supported boards. Find the board you want to use for your example and enter into that folder
+There you will see many folder with the names of the **supported boards**. Find the board you want to use for your example and enter into that folder. If your board does not exist yet, create a new folder with that name
 
 
 3. Create a new folder for the example
