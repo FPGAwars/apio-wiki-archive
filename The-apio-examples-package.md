@@ -8,7 +8,15 @@ For **adding new examples** follow these steps:
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-01.png)
 
-2. Enter in the board folder. If the board does not exist yet, create a new folder named as the board
+## 2. Select the board folder
+
+Once the repo is cloned, enter into the apio-examples folder
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-02.png)
+
+There you will see many folder with the names of the supported boards. Find the board you want to use for your example and enter into that folder
+
+
 3. Create a new folder for the example
 4. Every example should have at least 4 files:
  * info: It is a text file with a single line with the description of the example. Is the messages displayed whith the command apio example -l for listing all the examples
