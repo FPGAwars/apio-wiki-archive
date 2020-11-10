@@ -36,3 +36,7 @@ Inside the **example folder** there should be at least **four files**:
 | **apio.ini** | Apio project file. It is created with the command *apio --init -b boardname*
 | .pcf         | The **constaint file** with associations between the top module ports and the FPGA pins |
 | .v           | One or more verilog files |
+
+## 5. Emiting a pull request
+
+Once your example is ready **emit a pull request** for merging it with the upstream examples. In the next release cycle a new apio-exemples package will be ready with your new shiny example
