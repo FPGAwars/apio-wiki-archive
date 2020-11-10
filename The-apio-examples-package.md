@@ -26,7 +26,10 @@ In this screenshot you can see that there are **three examples** inside the fold
 
 ## 4. Files in the example folder
 
-4. Every example should have at least 4 files:
+Inside the **example folder** there should be at least **four files**:
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-04.png)
+
  * info: It is a text file with a single line with the description of the example. Is the messages displayed whith the command apio example -l for listing all the examples
  * apio.ini: Apio project file. It is created with the command apio --inti -b boardname
  * A .pcf file: The constaint file with association between the top module ports and the FPGA pins
