@@ -14,6 +14,56 @@ https://github.com/FPGAwars/libftdi-cross-builder/wiki#testing-on-windows-7
 
 * List of all the apio packages included: apio/apio/resources/packages.json
 
+## Development version
+
+For working with the development version follow these steps:
+
+* Clone the repo (the development branch is the default branch)
+
+```
+git clone https://github.com/FPGAwars/apio.git 
+```
+
+* Enter the apio folder
+
+```
+cd apio
+```
+
+* Install the python3-venv package, with the python virtual environment:
+
+```
+$ sudo apt install python3-venv
+```
+
+* Create a virtual environment called APIO:
+
+```
+python3 -m venv APIO
+```
+
+* Activate the virtual environomet:
+
+```
+$ source APIO/bin/activate
+(APIO)$
+```
+
+* Install the apio development version, for testing:
+
+```
+(APIO)$ pip install -U .
+```
+
+* Execute apio and check the version (it is for making sure that the correct devel version was installed):
+
+```
+(APIO)$ apio --version
+apio, version 0.5.5
+```
+
+Everytime you change something in the apio sources and you want to test it you have to "pip install -U ." it 
+
 
 ## Testing
 
