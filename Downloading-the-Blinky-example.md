@@ -16,3 +16,17 @@ apio install -l
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-01.png)
 
+## 2. **Listing all the available examples**
+
+List all the **available examples** and try to find the blinky for the board you want to test
+
+```
+apio examples -l
+```
+
+You will have to scroll up to see all the examples
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-02.png)
+
+The names consist of two parts separated by the '/' symbol. The first is the board name and the second is the example name. For this demo we will use the example **Alhambra-II/Blinky**
+
