@@ -1,4 +1,4 @@
-The best way to **test** that everything is working ok with a board is to download a **blinky hello world example**, synthesize it and upload it into your board. These are the steps:
+The best way to **test** that everything is working ok with a board is to download a **blinky hello world example**, synthesize it and upload it into your board. These are the **steps**:
 
 ## 1. **Install the latest example apio package**
 
@@ -41,3 +41,15 @@ apio examples -d Alhambra-II/Blinky
 It will create a **new folder** with the identifier as a name. In this demo it has created the **folder Alhambra-II** and inside it a new folder called **Blinky**
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-03.png)
+
+## 4. **Uploading the example to the board**
+
+Connect the board to the computer, enter into the example folder (in this demo enter into Alhambra-II/Blinky folder) and execute the **apio upload** command
+
+```
+apio upload
+```
+
+It will **synthesize** the example and **upload** it to the board
+
+
