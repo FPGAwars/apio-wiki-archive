@@ -30,7 +30,9 @@ Inside the **example folder** there should be at least **four files**:
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-04.png)
 
- * info: It is a text file with a single line with the description of the example. Is the messages displayed whith the command apio example -l for listing all the examples
- * apio.ini: Apio project file. It is created with the command apio --inti -b boardname
- * A .pcf file: The constaint file with association between the top module ports and the FPGA pins
- * At least one verilog file (.v)
+|  File        | Description |
+|--------------|-------------|
+| **info**     | Text file with a single line with the description of the example. Is the messages displayed with the command *apio example -l* when listing all the examples |
+| **apio.ini** | Apio project file. It is created with the command *apio --init -b boardname*
+| .pcf         | The **constaint file** with associations between the top module ports and the FPGA pins |
+| .v           | One or more verilog files |
