@@ -10,6 +10,11 @@ The full documentation is located in Read the Docs:
 
 https://github.com/FPGAwars/libftdi-cross-builder/wiki#testing-on-windows-7
 
+## Notes
+
+/home/obijuan/Develop/FPGAwars/apio/apio/resources/packages.json
+
+
 ## Testing
 
 It has been tested on
@@ -39,3 +44,4 @@ Fri May 8 09:43:57 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
 ![](https://github.com/FPGAwars/apio/raw/master/doc/bq-logo-cc-sa-small-150px.png)
 
 Licensed under a GPL v2 and [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
