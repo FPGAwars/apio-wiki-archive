@@ -12,7 +12,7 @@ https://github.com/FPGAwars/libftdi-cross-builder/wiki#testing-on-windows-7
 
 ## Notes
 
-/home/obijuan/Develop/FPGAwars/apio/apio/resources/packages.json
+* List of all the apio packages included: apio/apio/resources/packages.json
 
 
 ## Testing
