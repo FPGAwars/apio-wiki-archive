@@ -60,7 +60,7 @@ This is what you will see once the upload is finished:
 
 (Do not worry about the warnings)
 
-You will see the **blinking LED** in the board:
+You will see the **blinking LED** on the board:
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/example-06.gif)
 
