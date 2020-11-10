@@ -38,3 +38,6 @@ Execute the command **apio example -d** followed by the example identifier (prev
 apio examples -d Alhambra-II/Blinky
 ```
 
+It will create a **new folder** with the identifier as a name. In this demo it has created the **folder Alhambra-II** and inside it a new folder called **Blinky**
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-03.png)
