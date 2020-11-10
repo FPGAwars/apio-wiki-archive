@@ -28,5 +28,13 @@ You will have to scroll up to see all the examples
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/examples-02.png)
 
-The names consist of two parts separated by the '/' symbol. The first is the board name and the second is the example name. For this demo we will use the example **Alhambra-II/Blinky**
+Each example has an **identifier** in blue, consisting of of two parts separated by the '/' symbol. The first is the **board name** and the second is the **example name**. For this demo we will use the example **Alhambra-II/Blinky**
+
+## 3. **Getting the example**
+
+Execute the command **apio example -d** followed by the example identifier (previous step)
+
+```
+apio examples -d Alhambra-II/Blinky
+```
 
