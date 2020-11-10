@@ -2,7 +2,12 @@ The apio package with **all the examples** is called **apio-examples** and it is
 
 For **adding new examples** follow these steps:
 
-1. **Fork** the [apio-examples](https://github.com/FPGAwars/apio-examples) repo and then **clone** it
+## Fork the apio-examples github repo
+
+**Fork** the [apio-examples](https://github.com/FPGAwars/apio-examples) repo and then **clone** it
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-01.png)
+
 2. Enter in the board folder. If the board does not exist yet, create a new folder named as the board
 3. Create a new folder for the example
 4. Every example should have at least 4 files:
