@@ -1,5 +1,7 @@
 The apio package with **all the examples** is called **apio-examples** and it is located in this repo: [apio-examples](https://github.com/FPGAwars/apio-examples). This package can be **installed** by means of the **apio install examples** command
 
+# How to add new examples
+
 For **adding new examples** follow these steps:
 
 ## Fork the apio-examples github repo
@@ -40,3 +42,13 @@ Inside the **example folder** there should be at least **four files**:
 ## 5. Emiting a pull request
 
 Once your example is ready **emit a pull request** for merging it with the upstream examples. In the next release cycle a new apio-exemples package will be ready with your new shiny example
+
+# Releasing a new package version
+
+This operation can only be done for those developers with **enough permissions** granted  
+Once a **new version** of the apio-example package is **released** it could be installed easily from apio with the command apio install  
+examples  
+For releasing a new version follow these steps:
+
+## 1. Create a new release
+
