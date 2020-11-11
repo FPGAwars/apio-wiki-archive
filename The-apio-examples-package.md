@@ -65,9 +65,21 @@ Click on the source code (zip) link for downloading the packages
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-07.png)
 
-You should get the file apio-examples-x.y.z.zip in your download folder
+You should get the file **apio-examples-x.y.z.zip** in your download folder
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-08.png)
 
 ## 3. Upload the file to the new release
+
+Press the **Edit release** button and attach the release file (apio-examples-x.y.z.zip). Make sure that it has exactly that format
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-09.png)
+
+Press the **Update release** button
+
+This is how the new release should look like. Make sure that the new file appers as part of the release, with the correct format:
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-10.png)
+
+## 4. Check: Install the new apio-example package from apio
 
