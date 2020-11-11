@@ -83,3 +83,16 @@ This is how the new release should look like. Make sure that the new file appers
 
 ## 4. Check: Install the new apio-example package from apio
 
+If you execute the **apio examples -l** command, you will see the list of current installed packages. In my case, i have the previous apio-examples version intalled
+
+Type the **apio install examples** command and the new version will be automatically downloaded and installed. Ready for use
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-11.png)
+
+Once installed, you can check it with the **apio examples -l**. It should display the new package verion:
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-12.png)
+
+## 5. Test the new example
+
+Now that the examples are installed, you can use them with the **apio example** commands. You can read more information in this section: [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
