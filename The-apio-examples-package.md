@@ -46,8 +46,7 @@ Once your example is ready **emit a pull request** for merging it with the upstr
 # Releasing a new package version
 
 This operation can only be done for those developers with **enough permissions** granted  
-Once a **new version** of the apio-example package is **released** it could be installed easily from apio with the command apio install  
-examples  
+Once a **new version** of the apio-example package is **released** it could be installed easily from apio with the command *apio install examples*  
 For releasing a new version follow these steps:
 
 ## 1. Create a new release
