@@ -59,3 +59,15 @@ Then press the new release button. You will get something like this:
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-06.png)
 
+## 2. Download the Source .zip file
+
+Click on the source code (zip) link for downloading the packages
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-07.png)
+
+You should get the file apio-examples-x.y.z.zip in your download folder
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-08.png)
+
+## 3. Upload the file to the new release
+
