@@ -57,3 +57,5 @@ Choose a tag of the form x.y.z, where x,y and z are numbers. For example 0.0.18.
 
 Then press the new release button. You will get something like this:
 
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-06.png)
+
