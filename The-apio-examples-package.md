@@ -51,3 +51,9 @@ For releasing a new version follow these steps:
 
 ## 1. Create a new release
 
+Choose a tag of the form x.y.z, where x,y and z are numbers. For example 0.0.18. Use the same tag as the number and add the description explaining what is new in this release
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/apio-examples-pkg-05.png)
+
+Then press the new release button. You will get something like this:
+
