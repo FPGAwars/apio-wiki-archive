@@ -17,5 +17,15 @@ You need [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), a
 
 If you want to help with the develpment of apio and test your new features added follow these steps:
 
+### Fork the apio repo in your account
+
+
 ### Install virtual-env
 
+```
+sudo apt install python3-venv
+```
+
+
+
+### Create the APIO virtual env
