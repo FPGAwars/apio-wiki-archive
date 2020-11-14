@@ -6,7 +6,7 @@ The **development version** is **unstable** as it contains the latest features
 
 ## Installation
 
-You can installing the latest development version with the following command
+You can install the **latest development version** with the following command
 
 ```
 pip3 install -U git+https://github.com/FPGAwars/apio.git@develop#egg=apio
