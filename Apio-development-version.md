@@ -8,6 +8,7 @@
   * [Enter the apio folder](#enter-the-apio-folder)  
   * [Install virtual-env](#install-virtual-env)  
   * [Create the APIO virtual-env](#create-the-apio-virtual-env)  
+  * [Activate the virtual environment](#activate-the-virtual-environment)  
 
 ## Introduction
 
