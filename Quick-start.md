@@ -86,9 +86,7 @@ apio upload
 
 The LED is blinking!!
 
-![]()
-
-
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-go-board-01.gif)
 
 # Workflow
 
