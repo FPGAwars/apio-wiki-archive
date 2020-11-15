@@ -6,6 +6,7 @@
   * [Fork the apio repo in your account](#fork-the-apio-repo-in-your-account)  
   * [Clone the repo](#clone-the-repo)  
   * [Enter the apio folder](#enter-the-apio-folder)  
+  * [Install virtual-env](#install-virtual-env)  
 
 ## Introduction
 
