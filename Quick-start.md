@@ -21,16 +21,13 @@ sudo pip3 install apio
 ```
 apio install -a
 ```
+### Testing the Alhambra II board
 
-### Driver configuration
-
-* Enable the **drivers** for the board:
+* Enable the **drivers** for this board:
 
 ```
 apio drivers --ftdi-enable
 ```
-
-### Testing an example
 
 * **Download** the Blinky example for the **Alhambra-II** FPGA board:
 
