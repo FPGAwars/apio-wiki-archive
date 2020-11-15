@@ -154,3 +154,7 @@ _______________________ summary __________________________________
   congratulations :)
 ```
 
+### Emit a pull request
+
+Now you are ready to do a pull request to apio. Thanks for your contribution!
+
