@@ -2,7 +2,7 @@ Example on how to go **from scratch** to the **Blinky LED** on an **FPGA board**
 
 # Index
   * [Ubuntu 20.04](https://github.com/FPGAwars/apio/wiki/Quick-start#ubuntu-2004)
-    * Installation
+    * [Installation](https://github.com/FPGAwars/apio/wiki/Quick-start#installation)
     * Testing the Alhambra II board
 
 ## Ubuntu 20.04
