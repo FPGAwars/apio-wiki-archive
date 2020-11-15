@@ -2,6 +2,7 @@
 
 * [Introduction](#introduction)  
 * [Installation](#installation)  
+* [Development workflow](#development-workflow)  
 
 ## Introduction
 
