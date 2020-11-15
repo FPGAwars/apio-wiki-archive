@@ -1,6 +1,7 @@
 [Home page](https://github.com/FPGAwars/apio/wiki)  
 
 ## Getting started
+* [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)  
 * [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
 
 ## Development
