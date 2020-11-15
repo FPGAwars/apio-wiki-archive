@@ -38,7 +38,7 @@ apio drivers --ftdi-enable
 * **Download** the Blinky example for the **Alhambra-II** FPGA board:
 
 ```
-apio examples -d Alhambra-II/Blinky**
+apio examples -d Alhambra-II/Blinky
 ```
 
 * Enter the example folder
