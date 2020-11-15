@@ -51,7 +51,7 @@ The LED is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
 
-### Workflow
+# Workflow
 
 Once apio is installed, the **workflow** is rather easy:
 
