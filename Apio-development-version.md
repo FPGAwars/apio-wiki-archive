@@ -11,6 +11,7 @@
   * [Activate the virtual environment](#activate-the-virtual-environment)  
   * [Install the Apio development version](#install-the-apio-development-version)  
   * [You are ready for developing!](#you-are-ready-for-developing)  
+  * [Testing your contributions](#testing-your-contributions)  
 
 ## Introduction
 
