@@ -4,19 +4,19 @@ Example on how to go **from scratch** to the **Blinky LED** on an **FPGA board**
 
 ### Installation
 
-* Install python3:
+* Install **python3**:
 
 ```
 sudo apt install python3
 ```
 
-* Install apio:
+* Install **apio**:
 
 ```
 sudo pip3 install apio
 ```
 
-* Install all the available apio packages
+* Install all the available **apio packages**
 
 ```
 apio install -a
@@ -24,7 +24,7 @@ apio install -a
 
 ### Driver configuration
 
-* Enable the drivers for the board:
+* Enable the **drivers** for the board:
 
 ```
 apio drivers --ftdi-enable
@@ -32,10 +32,10 @@ apio drivers --ftdi-enable
 
 ### Testing an example
 
-* Download the Blinky example for the Alhambra-II FPGA board:
+* **Download** the Blinky example for the **Alhambra-II** FPGA board:
 
 ```
-apio examples -d Alhambra-II/Blinky
+apio examples -d Alhambra-II/Blinky**
 ```
 
 * Enter the example folder
@@ -44,7 +44,7 @@ apio examples -d Alhambra-II/Blinky
 cd Alhambra-II/Blinky
 ```
 
-* Synthesize and upload the bitstream to the board
+* **Synthesize** and **upload** the bitstream to the board
 
 ```
 apio upload
@@ -56,9 +56,9 @@ The LED is blinking!!
 
 ### Workflow
 
-Once apio is installed, the workflow is rather easy:
+Once apio is installed, the **workflow** is rather easy:
 
-* Edit the verilog files
+* Edit the verilog files using your favorite IDE
 * Synthesize and upload the bitstream just by executing the command:
 
 ```
