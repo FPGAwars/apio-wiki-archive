@@ -57,6 +57,17 @@ The LED is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
 
+### Testing the Nandland Go-Board
+
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+TODO
+
+
+
 # Workflow
 
 Once apio is installed, the **workflow** is rather easy:
