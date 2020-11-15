@@ -88,6 +88,10 @@ The LED is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-go-board-01.gif)
 
+### Testing the TinyFPGA-Bx Board
+
+TODO
+
 # Workflow
 
 Once apio is installed, the **workflow** is rather easy:
