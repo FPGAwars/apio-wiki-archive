@@ -1,6 +1,14 @@
 ![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio.jpg)  
 ![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio-logo-mini.png) 
 
+# Introduction
+
+Apio is a **multiplatform** toolbox, with **static** pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs into the supported FPGA boads
+
+Apio is used by [Icestudio](https://github.com/FPGAwars/icestudio)
+
+# Contents
+
 * Development
 * Adding examples
   * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)  
