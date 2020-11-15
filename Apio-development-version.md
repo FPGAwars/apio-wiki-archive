@@ -13,6 +13,7 @@
   * [You are ready for developing!](#you-are-ready-for-developing)  
   * [Testing your contributions](#testing-your-contributions)  
   * [Emit a pull request](#emit-a-pull-request)  
+  * [Deactivating the virtual environment](#deactivating-the-virtual-environment)
 
 ## Introduction
 
