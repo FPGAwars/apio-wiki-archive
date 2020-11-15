@@ -9,7 +9,7 @@
   * [Install virtual-env](#install-virtual-env)  
   * [Create the APIO virtual-env](#create-the-apio-virtual-env)  
   * [Activate the virtual environment](#activate-the-virtual-environment)  
-  * [Apio development](#install-the-apio-development-version)  
+  * [Install the Apio development version](#install-the-apio-development-version)  
 
 ## Introduction
 
