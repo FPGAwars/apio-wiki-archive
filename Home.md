@@ -3,7 +3,7 @@
 
 # Introduction
 
-Apio is a **multiplatform** toolbox, with **static** pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs into the supported FPGA boads
+Apio is a **multiplatform** toolbox, with **static** pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs into the supported **FPGA boards**
 
 Apio is used by [Icestudio](https://github.com/FPGAwars/icestudio)
 
