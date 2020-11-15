@@ -4,6 +4,7 @@ Example on how to go **from scratch** to the **Blinky LED** on an **FPGA board**
   * [Ubuntu 20.04](#ubuntu-2004)
     * [Apio installation](#apio-installation)
     * [Testing the Alhambra II board](#testing-the-alhambra-ii-board)  
+    * [Testing the NandLand Go board](#testing-the-nandland-go-board)  
   * [Workflow](#workflow)  
 
 ## Ubuntu 20.04
