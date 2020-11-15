@@ -126,5 +126,5 @@ Everytime you want to test something, just execute this command from the apio to
 (APIO)$ pip install -U .
 ```
 
-and execute the apio commands/actions you want to test
+and then execute the apio commands/actions you want to test
 
