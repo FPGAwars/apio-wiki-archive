@@ -21,7 +21,12 @@ As the user **gh02t** said in this post on [Hacker-news](https://news.ycombinato
 
 Apio has a **command line interface** (CLI). It is the **building block** for other **higher level tools**, like [Icestudio](https://icestudio.io/), [Apio-IDE](https://github.com/FPGAwars/apio-ide) or working with FPGAs from IDEs such as [Visual Studio Code](https://code.visualstudio.com/)
 
-(Icestudio screenshot)  
+
+### A circuit in Icestdio
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Introduction/icestudio-example.png)
+
+
 (Apio ide screenshot)  
 (Visual studio code screenshot)  
 
