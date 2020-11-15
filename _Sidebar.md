@@ -1,5 +1,8 @@
 [Home page](https://github.com/FPGAwars/apio/wiki)  
 
+## Getting started
+* [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
+
 ## Development
 
 * [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)
