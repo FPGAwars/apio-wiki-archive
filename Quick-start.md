@@ -8,7 +8,7 @@ Example on how to go **from scratch** to the **Blinky LED** on an **FPGA board**
 
 ## Ubuntu 20.04
 
-### Installation
+### Apio installation
 
 * Install **python3**:
 
