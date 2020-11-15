@@ -93,5 +93,24 @@ Your terminal prompt will be changed. The APIO will apear at the begining:
 (APIO) $ 
 ```
 
-All the python packages installed from now on will be installed only on this virtual environment and not in the system or user environment
+All the **python packages** installed from now on will be installed only on this **virtual environment** and not in the system or user environment
+
+### Install the apio development version
+
+Just execute this command. It will install the apio version you have previously cloned
+
+```
+(APIO)$ pip install -U .
+```
+
+You can check that everything was ok executing this command:
+
+```
+(APIO)$ apio --version
+apio, version 0.5.5
+```
+
+It will display the development version
+
+Everytime you change something in the apio sources and you want to test it you have to "pip install -U ." it 
 
