@@ -30,6 +30,9 @@ Apio has a **command line interface** (CLI). It is the **building block** for ot
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Introduction/apio-ide-example.jpg)
 
-(Visual studio code screenshot)  
+### A verilog circuit in VSCode
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Introduction/vscode-example.png)
+
 
 
