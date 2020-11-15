@@ -65,7 +65,28 @@ The LED is blinking!!
 ```
 apio drivers --ftdi-enable
 ```
-TODO
+
+* **Download** the Blinky example for the **NandLand Go-Board** FPGA board:
+
+```
+apio examples -d go-board/Blinky
+```
+
+* Enter the example folder
+
+```
+cd go-board/Blinky/
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The LED is blinking!!
+
+![]()
 
 
 
