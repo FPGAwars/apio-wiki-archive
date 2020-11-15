@@ -96,6 +96,12 @@ The LED is blinking!!
 apio drivers --serial-enable
 ```
 
+* Installing the tinyprog programmer:
+
+```
+sudo pip3 install tinyprog
+```
+
 TODO
 
 # Workflow
