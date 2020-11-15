@@ -120,7 +120,7 @@ Everytime you change something in the apio sources and you want to test it you h
 In addition, you should install the [tox python package](https://tox.readthedocs.io/en/latest/):
 
 ```
-pip install tox
+pip install tox pytest-mccabe pytest pytest-flakes
 ```
 It is used for performing test, and making sure that the new apio package will install correctly on different environments
 
