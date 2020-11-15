@@ -28,7 +28,7 @@ apio install -a
 apio drivers --ftdi-enable
 ```
 
-### Testing and example
+### Testing an example
 
 * Download the Blinky example for the Alhambra-II FPGA board:
 
@@ -47,6 +47,11 @@ cd Alhambra-II/Blinky
 ```
 apio upload
 ```
+
+The LED is blinking!!
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
+
 ### Workflow
 
 Once apio is installed, the workflow is rather easy:
