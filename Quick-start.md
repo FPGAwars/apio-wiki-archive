@@ -96,13 +96,35 @@ The LED is blinking!!
 apio drivers --serial-enable
 ```
 
-* Installing the tinyprog programmer:
+* Install the **tinyprog** programmer:
 
 ```
 sudo pip3 install tinyprog
 ```
 
-TODO
+* **Download** the Blinky example for the **TinyFPGA-BX** board:
+
+```
+apio examples -d TinyFPGA-BX/Blinky
+```
+
+* Enter the example folder
+
+```
+cd TinyFPGA-BX/Blinky/
+```
+* Make sure the Board is in boot mode: Press the Button. The LED will be flashing
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The LED is blinking!! It is blinking in a different way than previously when it was in the boot mode
+
+![]()
+
 
 # Workflow
 
