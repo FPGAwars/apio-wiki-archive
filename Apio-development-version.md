@@ -25,7 +25,27 @@ Just fork the project by pressin on the **fork button** located in the top right
 
 ### Clone the repo
 
+Clone the forked repo in your local computer. For example, as I am the user Obijuan, I should type this command:
 
+```
+$ git clone https://github.com/Obijuan/apio.git
+```
+
+### Enter the apio folder
+
+Once it is cloned, enter into the apio diretory
+
+```
+cd apio
+```
+
+These are the files and folders under apio:
+
+```
+$ ls 
+apio          docs    LICENSE    setup.py  tox.ini
+CHANGELOG.md  FAQ.md  README.md  test      wiki
+```
 
 ### Install virtual-env
 
