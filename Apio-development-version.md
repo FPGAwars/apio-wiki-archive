@@ -123,7 +123,7 @@ pip install tox
 ```
 It is used for performing test, and making sure that the new apio package will install correctly on different environments
 
-## You are ready for developing!
+### You are ready for developing!
 
 Now you can start adding features to apio: new boards, new documentation,  bug fixing... Just edit the python files with your favorite IDE
 
