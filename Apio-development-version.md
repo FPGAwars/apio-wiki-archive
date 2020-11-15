@@ -77,3 +77,20 @@ python3 -m venv APIO
 ```
 
 It will create the APIO folder, with the virtual environment. All the python packages will be installed there
+
+### Activate the virtual environment
+
+Execute the following command to access to the virtual environment:
+
+```
+$ source APIO/bin/activate
+```
+
+Your terminal prompt will be changed. The APIO will apear at the begining:
+
+```
+(APIO) $ 
+```
+
+All the python packages installed from now on will be installed only on this virtual environment and not in the system or user environment
+
