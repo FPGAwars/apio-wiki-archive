@@ -10,7 +10,7 @@
   * [Create the APIO virtual-env](#create-the-apio-virtual-env)  
   * [Activate the virtual environment](#activate-the-virtual-environment)  
   * [Install the Apio development version](#install-the-apio-development-version)  
-  * [You are ready for developing!](#you-are-ready-for-developing)
+  * [You are ready for developing!](#you-are-ready-for-developing)  
 
 ## Introduction
 
@@ -135,4 +135,5 @@ Everytime you want to test something, just execute this command from the apio to
 
 and then execute the apio commands/actions you want to test
 
+### Testing your contributions
 
