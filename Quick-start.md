@@ -1,3 +1,5 @@
+Example on how to go from scratch to the Blinky LED on an FPGA board in a few minutes!
+
 ## Ubuntu 20.04
 
 ### Installation
