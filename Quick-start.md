@@ -126,6 +126,16 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-tinyFPGA-01.gif)
 
+### TODO
+
+* icesbreaker
+* Blackice
+* ULX3S-12F
+* icestick
+* icezum Alhambra
+* Lattice HX8k Breakout board
+* Lattice UP5K Breakout board
+
 
 # Workflow
 
