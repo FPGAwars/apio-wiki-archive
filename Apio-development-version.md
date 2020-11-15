@@ -58,3 +58,11 @@ sudo apt install python3-venv
 ```
 
 ### Create the APIO virtual env
+
+You should create the APIO virtual env the first time. Just type this command
+
+```
+python3 -m venv APIO
+```
+
+It will create the APIO folder, with the virtual environment. All the python packages will be installed there
