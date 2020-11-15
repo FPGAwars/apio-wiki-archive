@@ -116,6 +116,13 @@ It will display the current development version
 
 Everytime you change something in the apio sources and you want to test it you have to "pip install -U ." it 
 
+In addition, you should install the [tox python package](https://tox.readthedocs.io/en/latest/):
+
+```
+pip install tox
+```
+It is used for performing test, and making sure that the new apio package will install correctly on different environments
+
 ## You are ready for developing!
 
 Now you can start adding features to apio: new boards, new documentation,  bug fixing... Just edit the python files with your favorite IDE
@@ -127,4 +134,5 @@ Everytime you want to test something, just execute this command from the apio to
 ```
 
 and then execute the apio commands/actions you want to test
+
 
