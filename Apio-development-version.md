@@ -1,5 +1,6 @@
 ## Contents
 
+* [Introduction](#introduction)
 
 ## Introduction
 
