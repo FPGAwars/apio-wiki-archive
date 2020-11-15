@@ -97,7 +97,7 @@ The LED is blinking!!
 apio drivers --serial-enable
 ```
 
-* Install the **tinyprog** programmer:
+* Install the **tinyprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
 
 ```
 sudo pip3 install tinyprog
