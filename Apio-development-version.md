@@ -111,7 +111,7 @@ You can check that everything was ok executing this command:
 apio, version 0.5.5
 ```
 
-It will display the development version
+It will display the current development version
 
 Everytime you change something in the apio sources and you want to test it you have to "pip install -U ." it 
 
