@@ -33,7 +33,7 @@ $ git clone https://github.com/Obijuan/apio.git
 
 ### Enter the apio folder
 
-Once it is cloned, enter into the apio diretory
+Once it is cloned, enter into the apio directory
 
 ```
 cd apio
@@ -49,10 +49,12 @@ CHANGELOG.md  FAQ.md  README.md  test      wiki
 
 ### Install virtual-env
 
+For developing apio it is better to use a **virtual python environment**, so that you are sure that there are no conflicts with the python packages in your system
+
+You can install it very easily with these command on Linux:
+
 ```
 sudo apt install python3-venv
 ```
-
-
 
 ### Create the APIO virtual env
