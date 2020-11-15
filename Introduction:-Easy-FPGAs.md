@@ -4,7 +4,7 @@ Apio is a **multiplatform** toolbox with **static** pre-built packages to verify
 
 ## What??????
 
-Apio makes extremelly easy the process of working with FPGAs. Go from **scratch** to having a **blinky LED** in your FPGA board in minutes! This is because it is based only on **Free/Libre Open Source Software** (FLOSS). Just install it and use it as you want
+Apio makes **extremelly easy** the process of working with **FPGAs**. Go from **scratch** to having a **blinky LED** in your FPGA board in minutes! This is because it is based only on **Free/Libre Open Source Software** (FLOSS). Just install it and use it as you want
 
 Think of Apio as a small **FPGA distribution**, which **collects** and **packages** **FLOSS toolchains for FPGAs**. You can install packages in **Linux**, **Mac** and **Windows** for synthesizing hardware, verifying and simulating from verilog files
 
