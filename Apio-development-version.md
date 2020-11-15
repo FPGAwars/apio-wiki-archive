@@ -138,3 +138,4 @@ and then execute the apio commands/actions you want to test
 
 ### Testing your contributions
 
+Once you have finished your contribution (a bug fixed, a feature or whatever) you should test that everything is ok. You can do that executing these two commands: 
