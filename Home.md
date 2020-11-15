@@ -9,7 +9,9 @@ Apio is used by [Icestudio](https://github.com/FPGAwars/icestudio)
 
 # Contents
 
-* Quick start
+* **Getting started**
+  * [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)
+  * Quick start
 * Development
 * Adding examples
   * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)  
