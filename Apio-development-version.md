@@ -1,6 +1,7 @@
 ## Contents
 
-* [Introduction](#introduction)
+* [Introduction](#introduction)  
+* [Installation](#installation)  
 
 ## Introduction
 
