@@ -123,7 +123,7 @@ apio upload
 
 The LED is blinking!! It is blinking in a different way than previously when it was in the boot mode
 
-![]()
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-tinyFPGA-01.gif)
 
 
 # Workflow
