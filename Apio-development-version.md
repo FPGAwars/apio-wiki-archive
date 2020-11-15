@@ -12,6 +12,7 @@
   * [Install the Apio development version](#install-the-apio-development-version)  
   * [You are ready for developing!](#you-are-ready-for-developing)  
   * [Testing your contributions](#testing-your-contributions)  
+  * [Emit a pull request](#emit-a-pull-request)  
 
 ## Introduction
 
