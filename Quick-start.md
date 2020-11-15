@@ -90,6 +90,12 @@ The LED is blinking!!
 
 ### Testing the TinyFPGA-Bx Board
 
+* Enable the **drivers** for this board:
+
+```
+apio drivers --serial-enable
+```
+
 TODO
 
 # Workflow
