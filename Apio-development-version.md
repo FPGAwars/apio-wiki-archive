@@ -138,4 +138,19 @@ and then execute the apio commands/actions you want to test
 
 ### Testing your contributions
 
-Once you have finished your contribution (a bug fixed, a feature or whatever) you should test that everything is ok. You can do that executing these two commands: 
+Once you have finished your contribution (a bug fixed, a feature or whatever) you should test that everything is ok. You can do that executing this commands: 
+
+```
+(APIO) $ tox
+```
+
+After some time, it will finish and you will see this information on the console:
+
+```
+[...]
+============= 166 passed, 38 warnings in 6.89s ===================
+_______________________ summary __________________________________
+  py38: commands succeeded
+  congratulations :)
+```
+
