@@ -115,4 +115,15 @@ It will display the current development version
 
 Everytime you change something in the apio sources and you want to test it you have to "pip install -U ." it 
 
+## You are ready for developing!
+
+Now you can start adding features to apio: new boards, new documentation,  bug fixing... Just edit the python files with your favorite IDE
+
+Everytime you want to test something, just execute this command from the apio top folder:
+
+```
+(APIO)$ pip install -U .
+```
+
+and execute the apio commands/actions you want to test
 
