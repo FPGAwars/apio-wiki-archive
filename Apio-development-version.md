@@ -159,3 +159,14 @@ _______________________ summary __________________________________
 
 Now you are ready to do a pull request to apio. Thanks for your contribution!
 
+### Deactivating the virtual environment
+
+You can leave the virtual environment anytime executing this command:
+
+```
+(APIO) $ deactivate
+$
+```
+
+Notice how the APIO prefix is no longer printed
+
