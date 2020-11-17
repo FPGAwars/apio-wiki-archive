@@ -258,9 +258,38 @@ The LED1 is blinking!!
 apio drivers --serial-enable
 ```
 
-It will execute the application for installing the drivers. Once it is done, just click on the **Done** button. It is very likely that the drivers have been already installed by windows when the board was pluged
+It will execute the application for installing the drivers. Once it is done, just click on the **Done** button. It is very likely that the drivers have been already installed by windows when the board was plugged
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
+
+* Install the **tinyprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
+
+```
+pip install tinyprog
+```
+
+* **Download** the Blinky example for the **TinyFPGA-BX** board:
+
+```
+apio examples -d TinyFPGA-BX/Blinky
+```
+
+* Enter the example folder
+
+```
+cd TinyFPGA-BX/Blinky/
+```
+* Make sure the Board is in boot mode: Press the Button. The LED will be flashing
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-TinyFPGA-BX-02.png)
+
+The LED is blinking!! It is blinking in a different way than previously when it was in the boot mode
 
 ## TODO
 
@@ -272,7 +301,6 @@ It will execute the application for installing the drivers. Once it is done, jus
 * Lattice HX8k Breakout board
 * Lattice UP5K Breakout board
 * Operating System: MACos
-* Operating System: Windows 10
 
 
 # Workflow
