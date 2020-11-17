@@ -145,7 +145,7 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ### Apio installation
 
-* Install **python3.8** or **higher**. You can install it directly from the **Microsoft Store** or [downloading the installer from this site](https://www.python.org/downloads/)
+* Install **python3.6** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**
 
 * **Open the command prompt** 
 
