@@ -163,6 +163,13 @@ All the following commands should be typed in the windows command prompt:
 pip install apio
 ```
 
+* Install all the available **apio packages**
+
+```
+apio install -a
+```
+
+### Testing the Alhambra II board
 
 ## TODO
 
