@@ -8,6 +8,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Testing the TinyFPGA-BX board](#testing-the-tinyfpga-bx-board)  
   * [Window 10](#windows-10)  
     * [Apio installation](#apio-installation-1)  
+    * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-1)  
   * [Workflow](#workflow)  
 
 ## Ubuntu 20.04
@@ -63,7 +64,7 @@ cd Alhambra-II/Blinky
 apio upload
 ```
 
-The LED is blinking!!
+The LED7 is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
 
@@ -204,6 +205,8 @@ cd Alhambra-II/Blinky
 ```
 apio upload
 ```
+
+The LED7 is blinking!!
 
 ## TODO
 
