@@ -145,7 +145,7 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ### Apio installation
 
-* Install **python3.6** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**
+* Install **python3.6** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**. Click on **Install Now**
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-apio-00.png)
 
