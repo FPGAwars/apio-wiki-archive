@@ -247,6 +247,8 @@ apio upload
 
 The LED1 is blinking!!
 
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-NandLand-go-board-02.png)
+
 ## TODO
 
 * icesbreaker
