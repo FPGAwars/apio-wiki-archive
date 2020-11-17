@@ -157,6 +157,10 @@ All the following commands should be typed in the windows command prompt:
 
 * Install **apio**:
 
+```
+pip install apio
+```
+
 
 ## TODO
 
