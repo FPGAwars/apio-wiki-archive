@@ -103,6 +103,13 @@ The LED is blinking!!
 apio drivers --serial-enable
 ```
 
+* Give permission for accessing the serial port. Execute these two commands:
+
+```
+sudo usermod -a -G dialout $USER
+exec su -l $USER
+```
+
 * Install the **tinyprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
 
 ```
