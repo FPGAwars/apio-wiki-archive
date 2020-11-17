@@ -148,6 +148,8 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 * icezum Alhambra
 * Lattice HX8k Breakout board
 * Lattice UP5K Breakout board
+* Operating System: MACos
+* Operating System: Windows 10
 
 
 # Workflow
