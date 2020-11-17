@@ -18,6 +18,12 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
 sudo apt install python3
 ```
 
+* Install **pip3**:
+
+```
+sudo apt install python3-pip
+```
+
 * Install **apio**:
 
 ```
