@@ -94,7 +94,7 @@ cd go-board/Blinky/
 apio upload
 ```
 
-The LED is blinking!!
+The LED1 is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-go-board-01.gif)
 
@@ -209,6 +209,15 @@ apio upload
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Alhambra-II-02.png)
 
 The LED7 is blinking!!
+
+### Testing the Nandland Go-Board
+
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
 
 ## TODO
 
