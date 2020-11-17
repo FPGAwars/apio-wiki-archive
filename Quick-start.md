@@ -223,6 +223,12 @@ It will execute the **Zadig driver installation**. Select the **RS232-HS(Interfa
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-NandLand-go-board-01.png)
 
+When finished close the Zadig Windows
+
+* **Unplug** the NandLand Go-board and **Plug** it again
+
+* **Download** the Blinky example for the **Go-board** FPGA board:
+
 ## TODO
 
 * icesbreaker
