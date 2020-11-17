@@ -151,7 +151,9 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-apio-01.png)
 
-All the following commands should be typed in the windows command line:
+All the following commands should be typed in the windows command prompt:
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-apio-02.png)
 
 * Install **apio**:
 
