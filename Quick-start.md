@@ -139,7 +139,14 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-tinyFPGA-01.gif)
 
-### TODO
+## Windows 10
+
+### Apio installation
+
+* Install python3.8 or higher. You can install it directly from the Microsoft Store or [downloading the installer from this site](https://www.python.org/downloads/)
+
+
+## TODO
 
 * icesbreaker
 * Blackice
