@@ -10,6 +10,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Apio installation](#apio-installation-1)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-1)  
     * [Testing the NandLand Go board](#testing-the-nandland-go-board-1)  
+    * [Testing the TinyFPGA-BX board](#testing-the-tinyfpga-bx-board-1)
   * [Workflow](#workflow)  
 
 ## Ubuntu 20.04
