@@ -183,6 +183,28 @@ It will execute the **Zadig driver installation**. Select the **Alhambra-II-(Int
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Alhambra-II-01.png)
 
+When finished close the Zadig Windows
+
+* **Unplug** the Alhambra II board and **Plug** it again
+
+* **Download** the Blinky example for the **Alhambra-II** FPGA board:
+
+```
+apio examples -d Alhambra-II/Blinky
+```
+
+* Enter the example folder
+
+```
+cd Alhambra-II/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
 ## TODO
 
 * icesbreaker
