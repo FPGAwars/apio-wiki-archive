@@ -361,15 +361,14 @@ cd Alhambra-II/Blinky
 apio upload
 ```
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Alhambra-II-02.png)
+The LED G (Green) is blinking!!
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-icebreaker-02.png)
 
 The LED7 is blinking!!
 
-TODO
-
 ## TODO
 
-* icesbreaker
 * Blackice
 * ULX3S-12F
 * icestick
