@@ -322,6 +322,10 @@ apio upload
 
 The LED is blinking!! It is blinking in a different way than previously when it was in the boot mode
 
+### Testing the icebreaker Board
+
+TODO
+
 ## TODO
 
 * icesbreaker
