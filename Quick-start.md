@@ -409,6 +409,10 @@ The LED G (Green) is blinking!!
 
 The LED7 is blinking!!
 
+## MacOS Catalina (10.15.7)
+
+TODO
+
 ## TODO
 
 * Blackice
