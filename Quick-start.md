@@ -325,6 +325,14 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ### Testing the icebreaker Board
 
+* Plug the IceBreaker board to the PC
+
+* Install the drivers for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
 TODO
 
 ## TODO
