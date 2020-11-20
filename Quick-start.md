@@ -461,7 +461,27 @@ apio install -a
 apio drivers --ftdi-enable
 ```
 
-TODO
+* **Download** the Blinky example for the **Alhambra-II** FPGA board:
+
+```
+apio examples -d Alhambra-II/Blinky
+```
+
+* Enter the example folder
+
+```
+cd Alhambra-II/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The LED7 is blinking!!
+
+![]()
 
 ## TODO
 
