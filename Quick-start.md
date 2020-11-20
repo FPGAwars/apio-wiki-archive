@@ -179,6 +179,19 @@ The LED G (Green) is blinking!!
 
 ### Testing the Mystorm BlackIce board
 
+* Enable the **drivers** for this board:
+
+```
+apio drivers --serial-enable
+```
+
+* Give permission for accessing the serial port. Execute these two commands:
+
+```
+sudo usermod -a -G dialout $USER
+exec su -l $USER
+```
+
 TODO
 
 ## Windows 10
@@ -337,8 +350,6 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 ```
 apio drivers --ftdi-enable
 ```
-
-
 
 It will execute the **Zadig driver installation**. Select the **icebreaker-(Interface 0)** option on the top and then click on **Replace Driver**
 
