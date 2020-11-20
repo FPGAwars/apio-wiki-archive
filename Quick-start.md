@@ -198,7 +198,27 @@ exec su -l $USER
 sudo pip3 install blackiceprog
 ```
 
-TODO
+* **Download** the Blinky example for the **Mystorm Blackice** board:
+
+```
+apio examples -d blackice/Blinky
+```
+
+* Enter the example folder
+
+```
+cd blackice/Blinky/
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The blue LED (LED1) is blinking!!
+
+![]()
 
 ## Windows 10
 
