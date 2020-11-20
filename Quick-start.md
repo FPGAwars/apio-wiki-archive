@@ -429,6 +429,26 @@ Python 3.8.2
 pip 19.2.3 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/site-packages/pip (python 3.8)
 ```
 
+* Install **apio**:
+
+```
+sudo pip3 install apio
+```
+
+* Install all the available **apio packages**
+
+```
+apio install -a
+```
+
+### Testing the Alhambra II board
+
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
 TODO
 
 ## TODO
