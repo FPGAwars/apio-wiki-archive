@@ -428,7 +428,17 @@ The LED7 is blinking!!
 Homebrew 2.5.11
 ```
 
-* Install **python3**
+* Install **python3**. Execute the following commands:
+
+```
+% brew update        
+```
+
+and
+
+```
+% brew install python
+```
 
 * **Check** that you have **python3** and **pip3** installed. Open a terminal and execute the following commands:
 
