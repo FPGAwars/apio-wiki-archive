@@ -192,6 +192,12 @@ sudo usermod -a -G dialout $USER
 exec su -l $USER
 ```
 
+* Install the **blackiceprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
+
+```
+sudo pip3 install blackiceprog
+```
+
 TODO
 
 ## Windows 10
