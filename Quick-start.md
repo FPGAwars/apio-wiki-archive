@@ -173,7 +173,7 @@ apio upload
 
 The LED G (Green) is blinking!!
 
-![]()
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-icebreaker-01.gif)
 
 ## Windows 10
 
