@@ -333,6 +333,38 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 apio drivers --ftdi-enable
 ```
 
+
+
+It will execute the **Zadig driver installation**. Select the **icebreaker-(Interface 0)** option on the top and then click on **Replace Driver**
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-icebreaker-01.png)
+
+When finished close the Zadig Windows
+
+* **Unplug** the Icebreaker board and **Plug** it again
+
+* **Download** the Blinky example for the **icebreaker** FPGA board:
+
+```
+apio examples -d Alhambra-II/Blinky
+```
+
+* Enter the example folder
+
+```
+cd Alhambra-II/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Alhambra-II-02.png)
+
+The LED7 is blinking!!
+
 TODO
 
 ## TODO
