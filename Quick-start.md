@@ -412,6 +412,28 @@ The LED7 is blinking!!
 
 ## MacOS Catalina (10.15.7)
 
+### Apio installation
+
+* Install **python3**
+
+* Check that you have python3 and pip3 installed. Open a terminal and execute the following commands:
+
+```
+
+```
+
+* Install **python3**:
+
+```
+sudo apt install python3
+```
+
+* Install **pip3**:
+
+```
+sudo apt install python3-pip
+```
+
 TODO
 
 ## TODO
