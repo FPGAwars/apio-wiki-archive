@@ -6,6 +6,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Testing the Alhambra II board](#testing-the-alhambra-ii-board)  
     * [Testing the NandLand Go board](#testing-the-nandland-go-board)  
     * [Testing the TinyFPGA-BX board](#testing-the-tinyfpga-bx-board)  
+    * [Testing the IceBreaker board](#testing-the-icebreaker-board)  
   * [Window 10](#windows-10)  
     * [Apio installation](#apio-installation-1)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-1)  
