@@ -218,7 +218,7 @@ apio upload
 
 The blue LED (LED1) is blinking!!
 
-![]()
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-blackice-01.gif)
 
 ## Windows 10
 
