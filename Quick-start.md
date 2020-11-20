@@ -144,6 +144,16 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-tinyFPGA-01.gif)
 
+### Testing the icebreaker Board
+
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
+TODO
+
 ## Windows 10
 
 ### Apio installation
