@@ -415,6 +415,18 @@ The LED7 is blinking!!
 
 ### Apio installation
 
+* Install [homebrew](https://brew.sh/). Just open the macOS Terminal and paste this command:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+* **Check** that homebrew has been correctly installed. Type this command:
+
+```
+% brew --version
+Homebrew 2.5.11
+```
+
 * Install **python3**
 
 * **Check** that you have **python3** and **pip3** installed. Open a terminal and execute the following commands:
