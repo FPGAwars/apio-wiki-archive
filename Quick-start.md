@@ -416,22 +416,16 @@ The LED7 is blinking!!
 
 * Install **python3**
 
-* Check that you have python3 and pip3 installed. Open a terminal and execute the following commands:
+* **Check** that you have **python3** and **pip3** installed. Open a terminal and execute the following commands:
 
+```
+% python3 --version
+Python 3.8.2
 ```
 
 ```
-
-* Install **python3**:
-
-```
-sudo apt install python3
-```
-
-* Install **pip3**:
-
-```
-sudo apt install python3-pip
+% pip3 --version
+pip 19.2.3 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/site-packages/pip (python 3.8)
 ```
 
 TODO
