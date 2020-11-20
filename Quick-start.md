@@ -153,7 +153,27 @@ The LED is blinking!! It is blinking in a different way than previously when it 
 apio drivers --ftdi-enable
 ```
 
-TODO
+* **Download** the Blinky example for the **IceBreaker** FPGA board:
+
+```
+apio examples -d iCEBreaker/Blinky/
+```
+
+* Enter the example folder
+
+```
+cd iCEBreaker/Blinky/
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The LED G (Green) is blinking!!
+
+![]()
 
 ## Windows 10
 
