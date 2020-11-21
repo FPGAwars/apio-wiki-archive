@@ -467,8 +467,7 @@ apio upload
 
 The blue LED (LED1) is blinking!!
 
-![]()
-
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Blackice-01.png)
 
 ## MacOS Catalina (10.15.7)
 
