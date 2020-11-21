@@ -441,6 +441,35 @@ Description: Dispositivo serie USB (COM8)
 Hardware info: USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-7.1.2
 ```
 
+* Install the **blackiceprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
+
+```
+pip install blackiceprog
+```
+
+* **Download** the Blinky example for the **Mystorm Blackice** board:
+
+```
+apio examples -d blackice/Blinky
+```
+
+* Enter the example folder
+
+```
+cd blackice/Blinky/
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The blue LED (LED1) is blinking!!
+
+![]()
+
+
 ## MacOS Catalina (10.15.7)
 
 ### Apio installation
