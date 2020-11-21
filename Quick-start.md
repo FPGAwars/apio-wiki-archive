@@ -412,6 +412,34 @@ The LED G (Green) is blinking!!
 
 The LED7 is blinking!!
 
+### Testing the Mystorm BlackIce board
+
+* Enable the **drivers** for this board: Connect the board and execute this command
+
+```
+apio drivers --serial-enable
+```
+
+It will execute the application for installing the drivers. Once it is done, just click on the **Done** button. It is very likely that the drivers have been already installed by windows when the board was plugged
+
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
+
+* Check that the drivers are ok. Execute this command:
+
+```
+apio system --lsserial
+```
+
+You should get an output like this:
+
+```
+Number of Serial devices found: 1
+
+COM8
+Description: Dispositivo serie USB (COM8)
+Hardware info: USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-7.1.2
+```
+
 ## MacOS Catalina (10.15.7)
 
 ### Apio installation
@@ -491,8 +519,6 @@ apio upload
 ```
 
 The LED7 is blinking!!
-
-![]()
 
 ## TODO
 
