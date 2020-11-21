@@ -14,7 +14,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Testing the NandLand Go board](#testing-the-nandland-go-board-1)  
     * [Testing the TinyFPGA-BX board](#testing-the-tinyfpga-bx-board-1)
     * [Testing the IceBreaker board](#testing-the-icebreaker-board-1)
-  * [MacOS Catalina (10.15.7](#macos-catalina-10157)
+  * [MacOS Catalina (10.15.7)](#macos-catalina-10157)
     * [Apio Installation](https://github.com/FPGAwars/apio/wiki/Quick-start#apio-installation-2)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-2)  
   * [Workflow](#workflow)  
