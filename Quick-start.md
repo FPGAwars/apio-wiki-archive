@@ -549,9 +549,12 @@ apio upload
 
 The LED7 is blinking!!
 
+## Credits
+
+* Many Thanks to **Antonio Pascual** for his help on testing apio in MacOS
+
 ## TODO
 
-* Blackice
 * ULX3S-12F
 * icestick
 * icezum Alhambra
