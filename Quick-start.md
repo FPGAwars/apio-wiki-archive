@@ -441,10 +441,10 @@ Description: Dispositivo serie USB (COM8)
 Hardware info: USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-7.1.2
 ```
 
-* Install the **blackiceprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
+* Install the **blackiceprog** programmer
 
 ```
-pip install blackiceprog
+pip install -U apio[blackiceprog]
 ```
 
 * **Download** the Blinky example for the **Mystorm Blackice** board:
