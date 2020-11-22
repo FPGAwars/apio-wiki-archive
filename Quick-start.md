@@ -565,7 +565,27 @@ Description: USB Serial Port (COM12)
 Hardware info: USB VID:PID=0403:6015 SER=K00102A
 ```
 
-TODO
+* **Download** the Blinky example for the **ULX3S-12F** board:
+
+```
+apio examples -d ulx3s-12f\blinky
+```
+
+* Enter the example folder
+
+```
+cd ulx3s-12f\blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The blue LED (LED7) is blinking!!
+
+![]()
 
 ## MacOS Catalina (10.15.7)
 
