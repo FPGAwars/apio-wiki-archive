@@ -25,9 +25,16 @@ The **development version** is **unstable** as it contains the latest features
 
 You can install the **latest development version** with the following command. Use it if you want to play with an FPGA board that is not yet supported in the stable version but it has experimental support in development
 
+* **Linux** and **Mac**:
+
+```
+sudo pip3 install -U git+https://github.com/FPGAwars/apio.git@develop#egg=apio
+```
+* **Windows**:
 ```
 pip3 install -U git+https://github.com/FPGAwars/apio.git@develop#egg=apio
 ```
+
 You need [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), as this command will clone the github repository and install it. Make sure you have it installed
 
 ## Development workflow
