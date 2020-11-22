@@ -511,6 +511,10 @@ The blue LED (LED1) is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Blackice-01.png)
 
+### Testing the Radiona ULX3S-12F board
+
+TODO
+
 ## MacOS Catalina (10.15.7)
 
 ### Apio installation
