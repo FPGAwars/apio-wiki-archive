@@ -224,6 +224,16 @@ The blue LED (LED1) is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-blackice-01.gif)
 
+### Testing the Radiona ULX3S-12F board
+
+* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
+
+* Install the programmer for the ULX3S board:
+
+```
+apio install fujprog
+```
+
 ## Windows 10
 
 ### Apio installation
