@@ -252,7 +252,7 @@ apio examples -d ulx3s-12f/Blinky
 * Enter the example folder
 
 ```
-cd cd ulx3s-12f/Blinky
+cd ulx3s-12f/Blinky
 ```
 
 * **Synthesize** and **upload** the bitstream to the board
