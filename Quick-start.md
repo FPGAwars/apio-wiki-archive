@@ -229,6 +229,8 @@ The blue LED (LED1) is blinking!!
 
 * **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
 
+* **Note**: This example is for ULX3S-12F. Nevertheless all these steps can be applied to the other models just by **changing** the **12F sufix** for **85F** or **45F**
+
 * Install the programmer for the ULX3S board:
 
 ```
@@ -258,6 +260,11 @@ cd cd ulx3s-12f/Blinky
 ```
 apio upload
 ```
+
+The LED7 (Blue) is blinking!!
+
+![]()
+
 
 ## Windows 10
 
