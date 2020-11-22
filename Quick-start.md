@@ -263,7 +263,7 @@ apio upload
 
 The LED7 (Blue) is blinking!!
 
-![]()
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-ulx3-01.gif)
 
 
 ## Windows 10
