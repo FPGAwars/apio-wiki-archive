@@ -451,13 +451,13 @@ When finished close the Zadig Windows
 * **Download** the Blinky example for the **icebreaker** FPGA board:
 
 ```
-apio examples -d Alhambra-II/Blinky
+apio examples -d iCEBreaker\Blinky
 ```
 
 * Enter the example folder
 
 ```
-cd Alhambra-II/Blinky
+cd cd iCEBreaker\Blinky
 ```
 
 * **Synthesize** and **upload** the bitstream to the board
