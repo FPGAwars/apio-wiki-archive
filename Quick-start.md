@@ -583,9 +583,11 @@ cd ulx3s-12f\blinky
 apio upload
 ```
 
-The blue LED (LED7) is blinking!!
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-ulx3s-12F-02.png)
 
-![]()
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-ulx3s-12F-03.png)
+
+The blue LED (LED7) is blinking!!
 
 ## MacOS Catalina (10.15.7)
 
