@@ -235,6 +235,30 @@ The blue LED (LED1) is blinking!!
 apio install fujprog
 ```
 
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
+* **Download** the Blinky example for the **ULX3S-12F** FPGA board:
+
+```
+apio examples -d ulx3s-12f/Blinky
+```
+
+* Enter the example folder
+
+```
+cd cd ulx3s-12f/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
 ## Windows 10
 
 ### Apio installation
