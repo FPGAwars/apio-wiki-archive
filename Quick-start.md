@@ -533,6 +533,22 @@ It will execute the application for installing the drivers. Once it is done, jus
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
 
+* Check that the drivers are ok. Execute this command:
+
+```
+apio system --lsserial
+```
+
+You should get an output similar to this (the COMx number may vary):
+
+```
+Number of Serial devices found: 1
+
+COM12
+Description: USB Serial Port (COM12)
+Hardware info: USB VID:PID=0403:6015 SER=K00102A
+```
+
 TODO
 
 ## MacOS Catalina (10.15.7)
