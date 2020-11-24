@@ -280,8 +280,24 @@ apio drivers --ftdi-enable
 * **Download** the Blinky example for the **fomu** FPGA board:
 
 ```
+apio examples -d fomu/Blinky
+```
+
+* Enter the example folder
 
 ```
+cd fomu/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The RGB LED should be blinking!!
+
+TODO: animated gif with the result
 
 ## Windows 10
 
