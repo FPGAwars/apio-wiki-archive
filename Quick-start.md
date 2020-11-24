@@ -266,6 +266,21 @@ The LED7 (Blue) is blinking!!
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-ulx3-01.gif)
 
+### Testing the fomu board
+
+* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
+
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
+* **Download** the Blinky example for the **fomu** FPGA board:
+
+```
+
+```
 
 ## Windows 10
 
