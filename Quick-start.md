@@ -627,6 +627,18 @@ apio upload
 
 The blue LED (LED7) is blinking!!
 
+### Testing the Fomu board
+
+* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
+
+* **Install the programmer** for the Fomu board:
+
+```
+apio install dfu
+```
+
+TODO
+
 ## MacOS Catalina (10.15.7)
 
 ### Apio installation
