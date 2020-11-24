@@ -271,6 +271,12 @@ The LED7 (Blue) is blinking!!
 
 * **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
 
+* **Install the programmer** for the Fomu board:
+
+```
+apio install dfu
+```
+
 * Enable the **drivers** for this board:
 
 ```
