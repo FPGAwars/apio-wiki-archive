@@ -638,7 +638,35 @@ The blue LED (LED7) is blinking!!
 apio install dfu
 ```
 
-TODO
+* You do not need to install any driver if you in Windows 10 or later. For checking that the board is detected, plug it and execute this command:
+
+```
+apio raw "dfu-util -l"
+```
+
+**TODO**: Screenshot with the output when the fomu is connected
+
+* **Download** the Blinky example for the **fomu** FPGA board:
+
+```
+apio examples -d fomu/Blinky
+```
+
+* Enter the example folder
+
+```
+cd fomu/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The RGB LED should be blinking!!
+
+TODO: animated gif with the result
 
 ## MacOS Catalina (10.15.7)
 
