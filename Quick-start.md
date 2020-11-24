@@ -9,6 +9,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Testing the IceBreaker board](#testing-the-icebreaker-board)  
     * [Testing the Mystorm BlackIce board](#testing-the-mystorm-blackice-board)  
     * [Testing the Radiona ULX3S board](#testing-the-radiona-ulx3s-12f-board) (Apio 0.5.5, development version)
+    * [Testing the fomu board](#testing-the-fomu-board) (Apio 0.5.5, development version)  
   * [Window 10](#windows-10)  
     * [Apio installation](#apio-installation-1)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-1)  
