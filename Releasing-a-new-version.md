@@ -13,4 +13,10 @@ VERSION = (0, 5, "6rc1")
 python3 setup.py sdist bdist_wheel
 ```
 
+* Upload the new package:
+
+```
+python3 -m twine upload dist/*
+```
+
 TODO
