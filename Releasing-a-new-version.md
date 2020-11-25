@@ -31,7 +31,7 @@ python3 setup.py sdist bdist_wheel
 python3 -m twine upload dist/*
 ```
 
-* You have to introduce "__token__" as the username and then paste your token
+* You have to type "__token__" as the username and then paste your token
 
 ```
 Uploading distributions to https://upload.pypi.org/legacy/
@@ -47,5 +47,16 @@ https://pypi.org/project/apio/0.6rc2/
 ```
 You will see your new packages in this URL: https://pypi.org/project/apio/0.6rc2/ (for this example)
 
+* Install the new package in your system (globaly):
 
-TODO
+```
+$ sudo pip3 install apio==0.6rc2
+```
+
+* Check the new version:
+
+```
+$  apio --version
+apio, version 0.6rc2
+```
+
