@@ -14,3 +14,5 @@
 * [The apio-examples package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package)  
 
 ## Stable releases
+
+* [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
