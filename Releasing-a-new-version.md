@@ -7,7 +7,7 @@ For releasing a new stable apio version, follow these steps:
 ```python
 VERSION = (0, 6, "rc2")
 ```
-* Open a terminal at the project top foler (where the setup.py file is locate)
+* Open a terminal at the project top folder (where the setup.py file is locate)
 
 ```
 obijuan@corellia:~/Develop/FPGAwars/apio$
