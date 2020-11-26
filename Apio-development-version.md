@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Apio is being develop in [this github repo](https://github.com/FPGAwars/apio). There are two branches: **master** and **develop**. The stable version is locate in master. This is the versión that installed when you invoke the *pip install apio* command
+Apio is being develop in [this github repo](https://github.com/FPGAwars/apio). There are two branches: **master** and **develop**. The stable version is located in master. This is the versión that installed when you invoke the *pip install apio* command
 
 The **development version** is **unstable** as it contains the latest features
 
