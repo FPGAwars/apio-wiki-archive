@@ -8,8 +8,8 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Testing the TinyFPGA-BX board](#testing-the-tinyfpga-bx-board)  
     * [Testing the IceBreaker board](#testing-the-icebreaker-board)  
     * [Testing the Mystorm BlackIce board](#testing-the-mystorm-blackice-board)  
-    * [Testing the Radiona ULX3S board](#testing-the-radiona-ulx3s-12f-board) (Apio 0.5.5, development version)
-    * [Testing the Fomu board](#testing-the-Fomu-board) (Apio 0.5.5, development version)  
+    * [Testing the Radiona ULX3S board](#testing-the-radiona-ulx3s-12f-board) 
+    * [Testing the Fomu board](#testing-the-Fomu-board)  
   * [Window 10](#windows-10)  
     * [Apio installation](#apio-installation-1)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-1)  
@@ -17,8 +17,8 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Testing the TinyFPGA-BX board](#testing-the-tinyfpga-bx-board-1)
     * [Testing the IceBreaker board](#testing-the-icebreaker-board-1)  
     * [Testing the mystorm Blackice board](#testing-the-mystorm-blackice-board-1)  
-    * [Testing the Radiona ULX3S-12F board](#testing-the-radiona-ulx3s-12f-board-1) (Apio 0.5.5, development version)
-    * [Testing the Fomu board](#testing-the-fomu-board-1) (Apio 0.5.5, development version)
+    * [Testing the Radiona ULX3S-12F board](#testing-the-radiona-ulx3s-12f-board-1) 
+    * [Testing the Fomu board](#testing-the-fomu-board-1) 
   * [MacOS Catalina (10.15.7)](#macos-catalina-10157)
     * [Apio Installation](https://github.com/FPGAwars/apio/wiki/Quick-start#apio-installation-2)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-2)  
@@ -230,8 +230,6 @@ The blue LED (LED1) is blinking!!
 
 ### Testing the Radiona ULX3S-12F board
 
-* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
-
 * **Note**: This example is for ULX3S-12F. Nevertheless all these steps can be applied to the other models just by **changing** the **12F sufix** for **85F** or **45F**
 
 * Install the programmer for the ULX3S board:
@@ -269,8 +267,6 @@ The LED7 (Blue) is blinking!!
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-ulx3-01.gif)
 
 ### Testing the Fomu board
-
-* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
 
 * **Install the programmer** for the Fomu board:
 
@@ -569,8 +565,6 @@ The blue LED (LED1) is blinking!!
 
 ### Testing the Radiona ULX3S-12F board
 
-* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
-
 * **Note**: This example is for ULX3S-12F. Nevertheless all these steps can be applied to the other models just by **changing** the **12F sufix** for **85F** or **45F**
 
 * Install the programmer for the ULX3S board:
@@ -629,8 +623,6 @@ apio upload
 The blue LED (LED7) is blinking!!
 
 ### Testing the Fomu board
-
-* **Note**: You should install apio 0.5.5 or higher (currently apio 0.5.5 is the [development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version))
 
 * **Install the programmer** for the Fomu board:
 
