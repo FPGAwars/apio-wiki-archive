@@ -623,6 +623,8 @@ apio upload
 
 The blue LED (LED7) is blinking!!
 
+**NOTE**: If you get the error `Cannot find JTAG cable`, please check this [troubleshooting section for ulx3s on Windows 10](https://github.com/FPGAwars/apio/wiki/Quick-start#i-get-the-error-cannot-find-jtag-cable)
+
 ### Testing the Fomu board
 
 * **Install the programmer** for the Fomu board:
