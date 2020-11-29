@@ -27,6 +27,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Windows 10](#windows-10-1)
       * [Radiona ULX3S board](#radiona-ulx3s-board)  
         * [I get the error cannot find JTAGA cable](#i-get-the-error-cannot-find-jtag-cable)  
+  * [Credits](#credits)  
 
 ## Ubuntu 20.04
 
