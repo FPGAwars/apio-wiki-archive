@@ -746,10 +746,6 @@ apio upload
 
 The LED7 is blinking!!
 
-## Credits
-
-* Many Thanks to **Antonio Pascual** for his help on testing apio in MacOS
-
 ## TODO
 
 * fomu
@@ -793,3 +789,7 @@ If you have been using another FPGA board with apio it is likely that you alread
 2. Unplug the ulx3s board, for 30 seconds
 3. Plug it again. Windows 10 will install automatically the standar FTDI driver
 
+## Credits
+
+* Thanks to **Antonio Pascual** for his help on testing apio in MacOS
+* Thanks to **Sergio Cuenta** for the Troubleshooting for the ULX3S board
