@@ -23,6 +23,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
     * [Apio Installation](https://github.com/FPGAwars/apio/wiki/Quick-start#apio-installation-2)  
     * [Testing the Alhambra-II board](#testing-the-alhambra-ii-board-2)  
   * [Workflow](#workflow)  
+  * [Troubleshooting](#troubleshooting)
 
 ## Ubuntu 20.04
 
