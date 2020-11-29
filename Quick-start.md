@@ -754,6 +754,17 @@ The LED7 is blinking!!
 * Lattice UP5K Breakout board
 * Operating System: MACos
 
+# Workflow
+
+Once apio is installed, the **workflow** is rather easy:
+
+* Edit the verilog files using your favorite IDE
+* Synthesize and upload the bitstream just by executing the command:
+
+```
+apio upload
+```
+
 ## Troubleshooting
 
 ### Windows 10
@@ -776,15 +787,4 @@ If you have been using another FPGA board with apio it is likely that you alread
 1. Uninstall the libusbK driver. Follow the instructions given on this link: https://github.com/kost/fujprog#change-ulx3s-driver-to-ftdi
 2. Unplug the ulx3s board, for 30 seconds
 3. Plug it again. Windows 10 will install automatically the standar FTDI driver
-
-# Workflow
-
-Once apio is installed, the **workflow** is rather easy:
-
-* Edit the verilog files using your favorite IDE
-* Synthesize and upload the bitstream just by executing the command:
-
-```
-apio upload
-```
 
