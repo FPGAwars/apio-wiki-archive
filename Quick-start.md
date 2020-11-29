@@ -787,7 +787,7 @@ scons: *** [upload] Error  1
 
 * Solution:
 
-If you have been using another FPGA board with apio it is likely that you already **have installed the libusbK drivers**. In order to make ulx3s works in Windows with apio, you should **uninstall** that driver and uses the **standard ftdi drivers** that windows 10 install by default
+If you have been using another FPGA board with apio it is likely that you already **have installed the libusbK drivers**. In order to make ulx3s works in Windows with apio, you should **uninstall** that driver and uses the **standard ftdi drivers** that windows 10 install by default. Follow these steps:
 
 1. Uninstall the libusbK driver. Follow the instructions given on this link: https://github.com/kost/fujprog#change-ulx3s-driver-to-ftdi
 2. Unplug the ulx3s board, for 30 seconds
