@@ -746,13 +746,33 @@ The LED7 is blinking!!
 
 ## TODO
 
-* ULX3S-12F
+* fomu
 * icestick
 * icezum Alhambra
 * Lattice HX8k Breakout board
 * Lattice UP5K Breakout board
 * Operating System: MACos
 
+## Troubleshooting
+
+### Windows 10
+
+#### Radiona ULX3S board
+
+* Error messages: 
+
+```
+Cannot find JTAG cable
+scons: *** [upload] Error  1
+```
+
+* Solution:
+
+If you have been using another FPGA board with apio it is likely that you already **have installed the libusbK drivers**. In order to make ulx3s works in Windows with apio, you should **uninstall** that driver and uses the **standard ftdi drivers** that windows 10 install by default
+
+1. Uninstall the libusbK driver. Follow the instructions given on this link: https://github.com/kost/fujprog#change-ulx3s-driver-to-ftdi
+2. Unplug the ulx3s board, for 30 seconds
+3. Plug it again. Windows 10 will install automatically the standar FTDI driver
 
 # Workflow
 
