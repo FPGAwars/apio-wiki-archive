@@ -760,6 +760,8 @@ The LED7 is blinking!!
 
 #### Radiona ULX3S board
 
+##### I get the error "Cannot find JTAG cable"
+
 * Error messages: 
 
 ```
