@@ -25,6 +25,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
   * [Workflow](#workflow)  
   * [Troubleshooting](#troubleshooting)  
     * [Windows 10](#windows-10-1)
+      * [Radiona ULX3S board](#radiona-ulx3s-board)
 
 ## Ubuntu 20.04
 
