@@ -10,6 +10,7 @@
 * Adding examples
   * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)  
   * [The apio-example package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package)
-
+* Stable release
+  * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 
 
