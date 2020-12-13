@@ -59,4 +59,6 @@ $ sudo pip3 install apio==0.6rc2
 $  apio --version
 apio, version 0.6rc2
 ```
+* If everything was ok, create a **release on github**, using the tab v0.6rc2
+* Merge the **Master** branch into **develop**. The development will continue on that branch
 
