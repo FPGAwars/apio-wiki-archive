@@ -48,7 +48,7 @@ sudo apt install python3-pip
 * Install **apio**:
 
 ```
-sudo pip3 install apio
+sudo pip3 install -U apio
 ```
 
 * Install all the available **apio packages**
