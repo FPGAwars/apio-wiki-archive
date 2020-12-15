@@ -137,6 +137,12 @@ exec su -l $USER
 sudo pip3 install tinyprog
 ```
 
+* Connect the board to USB port, turn it into bootloader mode, and check whether it is being detected as an USB device with VID:PID equal to 1d50:6130. There are boards that report different identifiers (e.g. 1209:2100). If you have this case with your board, update the bootloader with:
+
+```
+tinyprog --update-bootloader
+```
+
 * **Download** the Blinky example for the **TinyFPGA-BX** board:
 
 ```
