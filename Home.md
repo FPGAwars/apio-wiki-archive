@@ -13,4 +13,5 @@
 * Stable release
   * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 
+* [More information!](http://apiodoc.readthedocs.io/)
 
