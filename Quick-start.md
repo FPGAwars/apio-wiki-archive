@@ -1,5 +1,9 @@
 ![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
 
+------
+
+![](https://github.com/FPGAwars/iceK/raw/main/wiki/images/intro-00.jpg)  
+
 Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA boards** in a few minutes!
 
 # Index
