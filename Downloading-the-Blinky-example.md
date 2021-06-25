@@ -1,4 +1,4 @@
-![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
+[![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
 The best way to **test** that everything is working ok with a board is to download a **blinky hello world example**, synthesize it and upload it into your board. These are the **steps**:
 
