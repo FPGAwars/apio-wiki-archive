@@ -1,3 +1,5 @@
+![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
+
 ## Contents
 
 * [Introduction](#introduction)  
@@ -186,3 +188,5 @@ $
 
 Notice how the APIO prefix is no longer printed
 
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
