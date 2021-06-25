@@ -1,3 +1,5 @@
+[![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
+
 The apio package with **all the examples** is called **apio-examples** and it is located in this repo: [apio-examples](https://github.com/FPGAwars/apio-examples). This package can be **installed** by means of the **apio install examples** command
 
 # How to add new examples
@@ -96,3 +98,6 @@ Once installed, you can check it with the **apio examples -l**. It should displa
 ## 5. Test the new example
 
 Now that the examples are installed, you can use them with the **apio example** commands. You can read more information in this section: [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
+
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
