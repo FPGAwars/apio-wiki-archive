@@ -1,4 +1,8 @@
-[Home page](https://github.com/FPGAwars/apio/wiki)  
+### [Home page](https://github.com/FPGAwars/apio/wiki)  
+
+### [ICESTUDIO](https://github.com/FPGAwars/icestudio/wiki)  
+
+# Apio
 
 ## Getting started
 * [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)  
