@@ -1,4 +1,4 @@
-![](https://github.com/FPGAwars/apio/raw/develop/docs/resources/images/apio-logo-mini.png) 
+![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/Apio-github.png) 
 
 # Contents
 
