@@ -1,4 +1,4 @@
-![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
+[![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
 ## What is Apio?
 
