@@ -1,4 +1,4 @@
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio.jpg)
+![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
 
 ## What is Apio?
 
@@ -35,4 +35,6 @@ Apio has a **command line interface** (CLI). It is the **building block** for ot
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Introduction/vscode-example.png)
 
 
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
 
