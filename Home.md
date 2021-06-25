@@ -15,3 +15,5 @@
 
 * [More information!](http://apiodoc.readthedocs.io/)
 
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
