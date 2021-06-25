@@ -1,3 +1,5 @@
+![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
+
 Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA boards** in a few minutes!
 
 # Index
@@ -800,3 +802,6 @@ If you have been using another FPGA board with apio it is likely that you alread
 
 * Thanks to **Antonio Pascual** for his help on testing apio in MacOS
 * Thanks to **Sergio Cuenta** for the Troubleshooting for the ULX3S board
+
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
