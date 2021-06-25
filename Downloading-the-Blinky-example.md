@@ -1,3 +1,5 @@
+![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)
+
 The best way to **test** that everything is working ok with a board is to download a **blinky hello world example**, synthesize it and upload it into your board. These are the **steps**:
 
 ## 1. **Install the latest example apio package**
@@ -64,3 +66,5 @@ You will see the **blinking LED** on the board:
 
 ![](https://github.com/FPGAwars/apio/raw/develop/wiki/Adding-examples/example-06.gif)
 
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
