@@ -13,6 +13,9 @@
 * Stable release
   * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 
+* Apio Packages
+  * [Tools-system](https://github.com/FPGAwars/tools-system/wiki): Listing the usb devices and retrieving information from the ftdi chips
+
 * [More information!](http://apiodoc.readthedocs.io/)
 
 -------
