@@ -10,6 +10,7 @@
 
 ## Apio packages
 * [Tools-system](https://github.com/FPGAwars/tools-system/wiki)  
+* [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)  
 
 ## Development
 
