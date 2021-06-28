@@ -15,6 +15,7 @@
 
 * Apio Packages
   * [Tools-system](https://github.com/FPGAwars/tools-system/wiki): Listing the usb devices and retrieving information from the ftdi chips
+  * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki): All the opensource tools fro the [YosysHQ/oss cad suite](https://github.com/YosysHQ/oss-cad-suite-build) project
 
 * [More information!](http://apiodoc.readthedocs.io/)
 
