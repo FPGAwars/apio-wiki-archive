@@ -319,6 +319,10 @@ The RGB LED should be blinking!!
 
 TODO: animated gif with the result
 
+### Testing the icesugar-1.5 board
+
+TODO
+
 ## Windows 10
 
 ### Apio installation
