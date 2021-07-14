@@ -322,7 +322,33 @@ TODO: animated gif with the result
 
 ### Testing the icesugar-1.5 board
 
-TODO
+* Enable the **drivers** for this board:
+
+```
+apio drivers --ftdi-enable
+```
+
+* **Download** the Blinky example for the **iCESugar 1.5** FPGA board:
+
+```
+apio examples -d iCESugar_1_5/Blinky
+```
+
+* Enter the example folder
+
+```
+cd iCESugar_1_5/Blinky
+```
+
+* **Synthesize** and **upload** the bitstream to the board
+
+```
+apio upload
+```
+
+The RGB LED should be changing its color!!
+
+TODO: animated gif with the result
 
 ## Windows 10
 
