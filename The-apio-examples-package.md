@@ -1,6 +1,6 @@
 [![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
-The apio package with **all the examples** is called **apio-examples** and it is located in this repo: [apio-examples](https://github.com/FPGAwars/apio-examples). This package can be **installed** by means of the **apio install examples** command
+The apio package with **all the examples** is called **apio-examples** and it is located in this repo: [apio-examples](https://github.com/FPGAwars/apio-examples). This package can be **installed** by means of the `apio install examples` command
 
 # How to add new examples
 
