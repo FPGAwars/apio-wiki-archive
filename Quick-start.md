@@ -322,9 +322,9 @@ When the fomu is connected the first time, it is in boot mode. The RBG led will 
 apio upload
 ```
 
-The RGB LED should be blinking!!
+The RGB LED should be changing its color!!
 
-TODO: animated gif with the result
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-fomu-upload.gif)
 
 ### Testing the icesugar-1.5 board
 
