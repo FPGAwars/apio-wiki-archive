@@ -354,7 +354,7 @@ apio upload
 
 The RGB LED should be changing its color!!
 
-TODO: animated gif with the result
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-icesugar.gif)
 
 ## Windows 10
 
