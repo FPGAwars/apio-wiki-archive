@@ -310,6 +310,12 @@ apio examples -d fomu/Blinky
 cd fomu/Blinky
 ```
 
+* Check that the fomu is in booloader mode
+
+When the fomu is connected the first time, it is in boot mode. The RBG led will fade in and out, in a cyan color
+
+(Animation)
+
 * **Synthesize** and **upload** the bitstream to the board
 
 ```
