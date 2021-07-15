@@ -798,7 +798,8 @@ The LED7 is blinking!!
 
 ## TODO
 
-* fomu
+* fomu (Windows/Mac)
+* icesugar (Linux/Windows/Mac)
 * icestick
 * icezum Alhambra
 * Lattice HX8k Breakout board
