@@ -314,7 +314,7 @@ cd fomu/Blinky
 
 When the fomu is connected the first time, it is in boot mode. The RBG led will fade in and out, in a cyan color
 
-(Animation)
+![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-fomu-bootmode.gif)
 
 * **Synthesize** and **upload** the bitstream to the board
 
