@@ -5,7 +5,7 @@ Information for developers
 For releasing a new stable apio version, follow these steps:
 
 * **Merge** the Apio **develop** branch into **Master**
-* Change the version in the file apio/__init__.py
+* Change the version in the file `apio/__init__.py`
 ```python
 VERSION = (0, 6, "rc2")
 ```
