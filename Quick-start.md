@@ -1,4 +1,4 @@
-[![](https://github.com/FPGAwars/apio/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
+[![](https://github.com/FPGAwars/Apio-wiki/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
 ------
 
@@ -91,7 +91,7 @@ apio upload
 
 The LED7 is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
 
 ### Testing the Nandland Go-Board
 
@@ -121,7 +121,7 @@ apio upload
 
 The LED1 is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-go-board-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-go-board-01.gif)
 
 ### Testing the TinyFPGA-Bx Board
 
@@ -171,7 +171,7 @@ apio upload
 
 The LED is blinking!! It is blinking in a different way than previously when it was in the boot mode
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-tinyFPGA-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-tinyFPGA-01.gif)
 
 ### Testing the icebreaker Board
 
@@ -201,7 +201,7 @@ apio upload
 
 The LED G (Green) is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-icebreaker-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-icebreaker-01.gif)
 
 ### Testing the Mystorm BlackIce board
 
@@ -244,7 +244,7 @@ apio upload
 
 The blue LED (LED1) is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-blackice-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-blackice-01.gif)
 
 ### Testing the Radiona ULX3S-12F board
 
@@ -282,7 +282,7 @@ apio upload
 
 The LED7 (Blue) is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-ulx3-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-ulx3-01.gif)
 
 ### Testing the Fomu board
 
@@ -314,7 +314,7 @@ cd fomu/Blinky
 
 When the fomu is connected the first time, it is in boot mode. The RBG led will fade in and out, in a cyan color
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-fomu-bootmode.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-fomu-bootmode.gif)
 
 * **Synthesize** and **upload** the bitstream to the board
 
@@ -324,7 +324,7 @@ apio upload
 
 The RGB LED should be changing its color!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-fomu-upload.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-fomu-upload.gif)
 
 ### Testing the icesugar-1.5 board
 
@@ -354,7 +354,7 @@ apio upload
 
 The RGB LED should be changing its color!!
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/apio-icesugar.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-icesugar.gif)
 
 ## Windows 10
 
@@ -362,15 +362,15 @@ The RGB LED should be changing its color!!
 
 * Install **python3.6** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**  checkbox. Click on **Install Now**
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-apio-00.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/win10-apio-00.png)
 
 * **Open the command prompt** 
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-apio-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/win10-apio-01.png)
 
 All the following commands should be typed in the windows command prompt:
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-apio-02.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/win10-apio-02.png)
 
 * Install **apio**:
 
@@ -396,7 +396,7 @@ apio drivers --ftdi-enable
 
 It will execute the **Zadig driver installation**. Select the **Alhambra-II-(Interface 0)** option on the top and then click on **Replace Driver**
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Quick-start/win10-Alhambra-II-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/win10-Alhambra-II-01.png)
 
 When finished close the Zadig Windows
 
