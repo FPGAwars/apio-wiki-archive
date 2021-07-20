@@ -420,7 +420,7 @@ cd Alhambra-II/Blinky
 apio upload
 ```
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-Alhambra-II-02.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-Alhambra-II-02.png)
 
 The LED7 is blinking!!
 
@@ -434,7 +434,7 @@ apio drivers --ftdi-enable
 
 It will execute the **Zadig driver installation**. Select the **RS232-HS(Interface 0)** option on the top. Select the libusbK driver and then click on **Replace Driver**
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-NandLand-go-board-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-NandLand-go-board-01.png)
 
 When finished close the Zadig Windows
 
@@ -458,7 +458,7 @@ cd go-board/Blinky/
 apio upload
 ```
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-NandLand-go-board-02.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-NandLand-go-board-02.png)
 
 The LED1 is blinking!!
 
@@ -472,7 +472,7 @@ apio drivers --serial-enable
 
 It will execute the application for installing the drivers. Once it is done, just click on the **Done** button. It is very likely that the drivers have been already installed by windows when the board was plugged
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
 
 * Check that the drivers are ok. Execute this command:
 
@@ -515,7 +515,7 @@ cd TinyFPGA-BX/Blinky/
 apio upload
 ```
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-02.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-02.png)
 
 The LED is blinking!! It is blinking in a different way than previously when it was in the boot mode
 
@@ -531,7 +531,7 @@ apio drivers --ftdi-enable
 
 It will execute the **Zadig driver installation**. Select the **icebreaker-(Interface 0)** option on the top and then click on **Replace Driver**
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-icebreaker-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-icebreaker-01.png)
 
 When finished close the Zadig Windows
 
@@ -557,7 +557,7 @@ apio upload
 
 The LED G (Green) is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-icebreaker-02.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-icebreaker-02.png)
 
 The LED7 is blinking!!
 
@@ -571,7 +571,7 @@ apio drivers --serial-enable
 
 It will execute the application for installing the drivers. Once it is done, just click on the **Done** button. It is very likely that the drivers have been already installed by windows when the board was plugged
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
 
 * Check that the drivers are ok. Execute this command:
 
@@ -615,7 +615,7 @@ apio upload
 
 The blue LED (LED1) is blinking!!
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-Blackice-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-Blackice-01.png)
 
 ### Testing the Radiona ULX3S-12F board
 
@@ -634,7 +634,7 @@ apio drivers --serial-enable
 ```
 It will execute the application for installing the drivers. Once it is done, just click on the **Done** button. It is very likely that the drivers have been already installed by windows when the board was plugged
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-TinyFPGA-BX-01.png)
 
 * Check that the drivers are ok. Execute this command:
 
@@ -670,9 +670,9 @@ cd ulx3s-12f\blinky
 apio upload
 ```
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-ulx3s-12F-02.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-ulx3s-12F-02.png)
 
-![](https://github.com/FPGAwars/apio/raw/main/wiki/Quick-start/win10-ulx3s-12F-03.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-ulx3s-12F-03.png)
 
 The blue LED (LED7) is blinking!!
 
