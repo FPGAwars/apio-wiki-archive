@@ -1,4 +1,4 @@
-[![](https://github.com/FPGAwars/Apio-wiki/raw/master/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
+[![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
 ## What is Apio?
 
@@ -11,7 +11,7 @@ Apio makes **extremelly easy** the process of working with **FPGAs**. Go from **
 
 In this animation you can see the whole process of testing the Blinky led circuit: Just type one command and the circuit will be synthesized, and uploaded into the FPGA
 
-![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Quick-start/apio-alhambra-II-01.gif)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/apio-alhambra-II-01.gif)
 
 Think of Apio as a small **FPGA distribution**, which **collects** and **packages** **FLOSS toolchains for FPGAs**. You can install packages in **Linux**, **Mac** and **Windows** for synthesizing hardware, verifying and simulating from verilog files
 
@@ -27,15 +27,15 @@ Apio has a **command line interface** (CLI). It is the **building block** for ot
 
 ### A circuit in Icestdio
 
-![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Introduction/icestudio-example.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Introduction/icestudio-example.png)
 
 ### A verilog circuit in Apio-IDE
 
-![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Introduction/apio-ide-example.jpg)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Introduction/apio-ide-example.jpg)
 
 ### A verilog circuit in VSCode
 
-![](https://github.com/FPGAwars/Apio-wiki/raw/develop/wiki/Introduction/vscode-example.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Introduction/vscode-example.png)
 
 
 -------

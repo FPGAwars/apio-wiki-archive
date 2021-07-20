@@ -47,7 +47,8 @@ If you want to help with the develpment of apio and test your new features added
 
 Just fork the project by pressin on the **fork button** located in the top right corner
 
-![](https://github.com/FPGAwars/apio/raw/develop/wiki/Apio-Development/development-01.png)
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Apio-Development/development-01.png)
+
 
 ### Clone the repo
 
