@@ -25,3 +25,4 @@
 
 ## Help
 
+* [Release history](https://github.com/FPGAwars/apio/wiki/Release-history)  
