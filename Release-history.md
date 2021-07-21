@@ -8,6 +8,8 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.7.5](#version-075) | Bug fixed. System package is obsolete |
+| [Version 0.7.4](#version-074) | Documentation moved to the wiki |
 | [Version 0.7.3](#version-073) | OpenFPGALoader added, oss-cad-suite package (0.0.3), refactoring |
 | [Version 0.6.7](#version-067) | Bug fixed |
 | [Version 0.6.3](#version-063) | New boards, Bug fixed, Github actions |
@@ -24,7 +26,18 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
+## Version 0.7.5
+* **Date**: 2021-07-21
+* Tools-system package is no longer installed with `apio install -a` (as it is considered obsolete)  
+* Security vulnerability fixed. Thanks to @Xesxen. No token used for accesing the github api: Currently only 60 petitions per hour can be made, but it should be enough by the moment (as it is only used for installing packages)
+* Fixed a bug in the tests. Thanks to @Luflosi
+
+## Version 0.7.4
+* **Date**: 2021-07-20
+* All the images used in the documentation wiki have been moved to the repo [Apio-wiki](https://github.com/FPGAwars/Apio-wiki) and no longer are included in the pypi apio package (so it is faster to download and to install)
+
 ## Version 0.7.3
+* **Date**: 2021-07-20
 * [Toolchain ECP5](https://github.com/FPGAwars/toolchain-ecp5):
   * **OpenFPGALoader** tool added for programing the ECP5 FPGAs (Thanks to [Fernando Mosquera](https://github.com/benitoss) (@benitoss)) 
 * New apio package: [oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)
@@ -33,6 +46,7 @@ Here you can find the **release notes** for the different versions of Apio
 * Refactoring and documentation of the code
 
 ## Version 0.6.7
+* **Date**: 2021-06-26
 * Bug fixed: Extra packages are separated, so that they can be installed individually
   * blackiceprog
   * litterbox
@@ -42,6 +56,7 @@ Here you can find the **release notes** for the different versions of Apio
 * More bug fixed
 
 ## Version 0.6.3
+* **Date**: 2021-06-26
 * Add OK-iCE40Pro to boards.json
 * Support iCESugar-nano board
 * Initial support for the Colorlight boards
