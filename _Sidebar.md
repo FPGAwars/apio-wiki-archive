@@ -22,3 +22,6 @@
 ## Stable releases
 
 * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
+
+## Help
+
