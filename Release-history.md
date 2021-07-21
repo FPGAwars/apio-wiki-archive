@@ -8,7 +8,8 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
-| [Version 0.4.1](#version-041) | Support new boards: Alchitry-Cu, Fomu (#182) |
+| [Version 0.5.0](#version-050) | New board: Blackice-MX. Toolchain updated. Bug fixed |
+| [Version 0.4.1](#version-041) | Support new boards: Alchitry-Cu, Fomu  |
 | [Version 0.4.0](#version-040) | New command: raw. Support new boards: UPDuino, iCEBreaker |
 | [Version 0.3.6](#version-036) | Improved TinyFPGA BX integration |
 | [Version 0.3.4](#version-034) | New boards: TinyFPGA BX, iCEblink40-HX1K. New command: lint |
@@ -17,6 +18,13 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.2.0](#version-020) | New commands. New boards |
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
+
+## Version 0.5.0
+
+* **Date**: 2020-02-21
+* New board: Blackice-MX
+* Bug Fixed
+* Toolchains updated
 
 ## Version 0.4.1
 
