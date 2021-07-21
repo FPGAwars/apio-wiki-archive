@@ -8,6 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.6.3](#version-063) | New boards, Bug fixed, Github actions |
 | [Version 0.6.0](#version-060) | New boards: Orange Crab, Olimex, EDU-CIAA-FPGA... |
 | [Version 0.5.4](#version-054) | Bug fixed |
 | [Version 0.5.0](#version-050) | New board: Blackice-MX. Toolchain updated. Bug fixed |
@@ -20,6 +21,16 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.2.0](#version-020) | New commands. New boards |
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
+
+## Version 0.6.3
+* Add OK-iCE40Pro to boards.json
+* Support iCESugar-nano board
+* Initial support for the Colorlight boards
+* Bug fixed
+* Migration to flit
+* Migration to Github actions
+* Automatic publishing of version in pypi for every release
+* Bug Fixed: Environment variables with quoted paths are allowed
 
 ## Version 0.6.0
 * **Date**: 2020-12-13
