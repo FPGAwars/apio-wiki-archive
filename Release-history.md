@@ -8,12 +8,20 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.3.6](#version-036) | Improved TinyFPGA BX integration |
 | [Version 0.3.4](#version-034) | New boards: TinyFPGA BX, iCEblink40-HX1K. New command: lint |
 | [Version 0.3.3](#version-033) | New board: Alhambra II |
 | [Version 0.3.0](#version-030) | New commands. Updated apio drivers command |
 | [Version 0.2.0](#version-020) | New commands. New boards |
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
+
+## Version 0.3.6
+
+* **Date**: 2018-09-16
+
+### Changed
+- Improve TinyFPGA BX integration
 
 ## Version 0.3.4
 
