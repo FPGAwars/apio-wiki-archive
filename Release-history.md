@@ -8,6 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.7.3](#version-073) | OpenFPGALoader added, oss-cad-suite package (0.0.3), refactoring |
 | [Version 0.6.7](#version-067) | Bug fixed |
 | [Version 0.6.3](#version-063) | New boards, Bug fixed, Github actions |
 | [Version 0.6.0](#version-060) | New boards: Orange Crab, Olimex, EDU-CIAA-FPGA... |
@@ -22,6 +23,14 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.2.0](#version-020) | New commands. New boards |
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
+
+## Version 0.7.3
+* [Toolchain ECP5](https://github.com/FPGAwars/toolchain-ecp5):
+  * **OpenFPGALoader** tool added for programing the ECP5 FPGAs (Thanks to [Fernando Mosquera](https://github.com/benitoss) (@benitoss)) 
+* New apio package: [oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)
+  * Currently only with the system tools: lsusb, lsftdi, ftdi_eeprom  
+* Apio [system package](https://github.com/FPGAwars/tools-system/wiki) marked as obsolete (although it can still be installed and used). Use the oss-cad-suite apio package instead
+* Refactoring and documentation of the code
 
 ## Version 0.6.7
 * Bug fixed: Extra packages are separated, so that they can be installed individually
