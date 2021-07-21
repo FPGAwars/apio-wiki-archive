@@ -20,6 +20,21 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
+## Version 0.6.0
+* **Date**: 2020-12-13
+* New board: OrangeCrab
+* New board: olimex board
+* New board: IceFun
+* New board: Upduino v3.0
+* New board: EDU-CIAA-FPGA
+* Many Bugs fixed
+* New package: fujprog
+* New board: Radiona ULX3S
+* New board: iCESugar v1.5
+* Documentation added
+* New package: dfu
+
+
 ## Version 0.5.4
 * **Date**: 2020-02-26
 * Fix ecp5 and ice40 definitions
