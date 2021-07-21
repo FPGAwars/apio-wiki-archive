@@ -26,3 +26,5 @@
 ## Help
 
 * [Release history](https://github.com/FPGAwars/apio/wiki/Release-history)  
+* [FAQs and troubleshooting](https://github.com/FPGAwars/apio/wiki/FAQs-and-troubleshooting)  
+
