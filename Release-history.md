@@ -8,7 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
-|  |  |
+| [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
 ## Version xxx
 
