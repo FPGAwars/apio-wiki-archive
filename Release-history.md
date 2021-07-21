@@ -13,6 +13,14 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
+## Version 0.3.3
+
+* **Date**: 2018-05-10
+
+### Added
+- Support new boards:
+  - Alhambra II
+
 ## Version: 0.3.0
 
 * **Date**: 2018-02-01
