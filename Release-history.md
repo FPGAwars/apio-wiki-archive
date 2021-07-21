@@ -8,6 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.5.4](#version-054) | Bug fixed |
 | [Version 0.5.0](#version-050) | New board: Blackice-MX. Toolchain updated. Bug fixed |
 | [Version 0.4.1](#version-041) | Support new boards: Alchitry-Cu, Fomu  |
 | [Version 0.4.0](#version-040) | New command: raw. Support new boards: UPDuino, iCEBreaker |
@@ -18,6 +19,11 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.2.0](#version-020) | New commands. New boards |
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
+
+## Version 0.5.4
+* **Date**: 2020-02-26
+* Fix ecp5 and ice40 definitions
+* Bug Fixed
 
 ## Version 0.5.0
 
