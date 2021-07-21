@@ -121,11 +121,11 @@ Yes. Apio IDE and Icestudio.
 
 * **[Apio-IDE](https://github.com/FPGAwars/apio-ide)** is an IDE that integrates Atom and Apio.
 
- <img src="https://github.com/FPGAwars/apio-ide/raw/master/doc/apio-ide-screenshot-1.png" width="600">
+ ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/apio-ide-screenshot-1.png)
 
 * **[Icestudio](https://github.com/FPGAwars/icestudio)** is a visual editor for open FPGA boards built with web technologies.
 
- <img src="https://github.com/FPGAwars/icestudio/raw/develop/docs/resources/images/demo/main.png" width="600">
+ ![](https://raw.githubusercontent.com/FPGAwars/icestudio-wiki/main/Readme/screenshot-03-icemem.png)
 
  [apio-pio]: docs/resources/images/apio-pio-min.png
  [apio-pio-development]: docs/resources/images/apio-pio-development-min.png
