@@ -8,6 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.4.0](#version-040) | New command: raw. Support new boards: UPDuino, iCEBreaker, FPGA 101 Workshop Badge, iCE40 UltraPlus Breakout |
 | [Version 0.3.6](#version-036) | Improved TinyFPGA BX integration |
 | [Version 0.3.4](#version-034) | New boards: TinyFPGA BX, iCEblink40-HX1K. New command: lint |
 | [Version 0.3.3](#version-033) | New board: Alhambra II |
@@ -15,6 +16,20 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.2.0](#version-020) | New commands. New boards |
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
+
+## Version 0.4.0
+
+* **Date**: 2018-11-07
+
+### Added
+- New command: raw.
+- Support new boards:
+  - UPDuino v1.0
+  - UPDuino v2.0
+  - iCEBreaker
+  - iCEBreaker bitsy
+  - FPGA 101 Workshop Badge Board
+  - iCE40 UltraPlus Breakout Board
 
 ## Version 0.3.6
 
