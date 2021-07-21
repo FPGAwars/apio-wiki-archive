@@ -8,6 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
+| [Version 0.6.0](#version-060) | New boards: Orange Crab, Olimex, EDU-CIAA-FPGA... |
 | [Version 0.5.4](#version-054) | Bug fixed |
 | [Version 0.5.0](#version-050) | New board: Blackice-MX. Toolchain updated. Bug fixed |
 | [Version 0.4.1](#version-041) | Support new boards: Alchitry-Cu, Fomu  |
