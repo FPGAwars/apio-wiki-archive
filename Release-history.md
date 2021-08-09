@@ -26,6 +26,21 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
+## Latest changes
+
+* ECP5: Bug fixed: Bitstream regenerated when the .lpf is changed
+* Support for the FleaFPGA-Ohm Board added (thanks to [Fernando mosquera](https://github.com/benitoss) (@benitoss))
+* lib folder included in the path
+* ice40 package: no longer needed for building
+* Package ice40 marked as obsolete
+* yosys: included in the obsolete package list
+* build: package oss-cad-suite used instead of yosys 
+
+## Version 0.7.6
+* **Date**: 2021-07-26
+* Bug Fixed: The checking of the installed packages was not correctly done if  they are installed in another folder different than the default 
+* Now it should work ok with Icestudio >=0.6.1
+
 ## Version 0.7.5
 * **Date**: 2021-07-21
 * Tools-system package is no longer installed with `apio install -a` (as it is considered obsolete)  
