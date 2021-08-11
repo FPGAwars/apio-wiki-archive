@@ -30,6 +30,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Latest changes
 
+* Bug fixed: trellis and icebox environment variables fixed
 * ECP5: Bug fixed: Bitstream regenerated when the .lpf is changed
 * Support for the FleaFPGA-Ohm Board added (thanks to [Fernando mosquera](https://github.com/benitoss) (@benitoss))
 * lib folder included in the path
