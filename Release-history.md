@@ -30,6 +30,9 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Latest changes
 
+* scons upgraded to the latest version: 4.2.0
+* scons is no longer an independent apio package. It is installed as a python package
+* scons apio package is now obsolete and not installed with apio install -a
 * Bug fixed: trellis and icebox environment variables fixed
 * ECP5: Bug fixed: Bitstream regenerated when the .lpf is changed
 * Support for the FleaFPGA-Ohm Board added (thanks to [Fernando mosquera](https://github.com/benitoss) (@benitoss))
