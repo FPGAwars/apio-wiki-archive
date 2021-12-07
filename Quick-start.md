@@ -40,7 +40,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
 
 ### Apio installation
 
-* Install **python3**:
+* Install **python3** (Python 3.7 or Higher):
 
 ```
 sudo apt install python3
@@ -360,7 +360,7 @@ The RGB LED should be changing its color!!
 
 ### Apio installation
 
-* Install **python3.6** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**  checkbox. Click on **Install Now**
+* Install **python3.7** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**  checkbox. Click on **Install Now**
 
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-apio-00.png)
 
