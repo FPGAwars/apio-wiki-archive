@@ -734,6 +734,8 @@ Homebrew 2.5.11
 
 * Install **python3**. Execute the following commands:
 
+(You need **python 3.7** or Higher!)
+
 ```
 % brew update        
 ```
