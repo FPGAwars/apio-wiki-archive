@@ -34,9 +34,9 @@ Here you can find the **release notes** for the different versions of Apio
 ## Version 0.8.0
 
 * **Date**: 2021-12-27
-* **NOTE**: Transitional version. All the old apio packages are being replaced by the oss-cad-suite. Many things can be broken, so use it with caution and fill issues with the problems found. 
-* USE WITH ICESTUDIO >= 8.1 (It will NOT work with icestudio <=8.0)
-* Bumped to version 0.8.0 ([Obijuan](https://github.com/Obijuan))
+* **NOTE**: Transitional version. All the old apio packages are being replaced by the **oss-cad-suite**. Many things can be broken, so use it with caution and fill issues with the problems found. 
+* USE WITH **ICESTUDIO >= 8.1** (It will NOT work with icestudio <=8.0)
+* Bumped to version 0.8.0 ([Obijuan](https://github.com/Obijuan) @Obijuan)
 * Synthesis of bitstream for ECP5 12K finally solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
 * Recover the support of iCESugar-nano ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
 * Synthesis for ECP5 12K solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
