@@ -28,10 +28,9 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
-## Latest changes
+## Version 0.8.0
 
 * **Date**: 2021-12-27
-
 * Bumped to version 0.8.0 ([Obijuan](https://github.com/Obijuan))
 * Synthesis of bitstream for ECP5 12K finally solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
 * Recover the support of iCESugar-nano ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
