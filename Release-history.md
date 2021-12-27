@@ -30,6 +30,18 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Latest changes
 
+* Synthesis of bitstream for ECP5 12K finally solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
+* Recover the support of iCESugar-nano ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
+* Synthesis for ECP5 12K solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
+* Making distinction between a v0 and v1 board (Thanks to [seanybaggins](https://github.com/seanybaggins) @seanybaggins)
+* Solution for all ECP5 models (thanks to [Fernando mosquera](https://github.com/benitoss) (@benitoss))
+* Support for the ECP5-Evaluation-Board (thanks to [Fernando mosquera](https://github.com/benitoss) (@benitoss))
+* Fixed call to non-existant function (Thanks to [seanybaggins](https://github.com/seanybaggins) @seanybaggins)
+* Update iCEBreaker-bitsy board support (Thanks to [suzuki-naoto](https://github.com/suzuki-naoto) @suzuki-naoto)
+* apio lint now depends only on the oss-cad-suite package
+* test: apio verify passed
+* Bug fixed: apio verify error in ice40
+* iverilog is run from the oss-cad-suite package 
 * scons upgraded to the latest version: 4.2.0
 * scons is no longer an independent apio package. It is installed as a python package instead
 * scons apio package is now obsolete and not installed with apio install -a
