@@ -30,6 +30,9 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Latest changes
 
+* **Date**: 2021-12-27
+
+* Bumped to version 0.8.0 ([Obijuan](https://github.com/Obijuan))
 * Synthesis of bitstream for ECP5 12K finally solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
 * Recover the support of iCESugar-nano ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
 * Synthesis for ECP5 12K solved ([Fernando mosquera](https://github.com/benitoss) (@benitoss))
