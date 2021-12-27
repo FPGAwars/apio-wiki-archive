@@ -28,6 +28,8 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.1.0](#version-010) | New commands: examples, init, system |
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
+## Latest changes
+
 ## Version 0.8.0
 
 * **Date**: 2021-12-27
