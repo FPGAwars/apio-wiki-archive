@@ -835,6 +835,8 @@ WinError 740 - The requested operation requires elevation
 
 You have to run the command `apio drivers --ftdi-enable` as an Administrator. The windows command line (cmd) is executed as a normal user (no privileges). In order to execute it as an administrator search for "cmd" and click on the "Run as Administrator" area. The you can run the command with no errors
 
+#### Radiona ULX3S
+
 ##### I get the error "Cannot find JTAG cable"
 
 * Error messages: 
