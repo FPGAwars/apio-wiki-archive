@@ -823,7 +823,9 @@ apio upload
 
 ### Windows 10
 
-#### I get the error "The requested operation requires elevation" when installing drivers
+#### FTDI Driver installation
+
+##### I get the error "The requested operation requires elevation" when installing drivers
 
 * Error message:
 
