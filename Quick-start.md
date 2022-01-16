@@ -390,7 +390,7 @@ apio install -a
 
 * Plug the Alhambra-II board to the PC
 
-* Install the drivers for this board:
+* Install the drivers for this board. Execute this command **as an Administrator** 
 
 ```
 apio drivers --ftdi-enable
