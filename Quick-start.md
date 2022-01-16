@@ -33,6 +33,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
   * [Troubleshooting](#troubleshooting)  
     * [Windows 10](#windows-10-1)
       * [FTDI Driver installation](#ftdi-driver-installation)  
+        * [I get the error: "WinError 740! The-requested operation requires elevation"](#i-get-the-error-the-requested-operation-requires-elevation-when-installing-drivers)
       * [Radiona ULX3S board](#radiona-ulx3s-board)  
         * [I get the error cannot find JTAGA cable](#i-get-the-error-cannot-find-jtag-cable)  
   * [Credits](#credits)  
