@@ -823,7 +823,17 @@ apio upload
 
 ### Windows 10
 
-#### Radiona ULX3S board
+#### I get the error "The requested operation requires elevation" when installing drivers
+
+* Error message:
+
+```
+WinError 740 - The requested operation requires elevation
+```
+
+* Solution:
+
+You have to run the command `apio drivers --ftdi-enable` as an Administrator. The windows command line (cmd) is executed as a normal user (no privileges). In order to execute it as an administrator search for "cmd" and click on the "Run as Administrator" area. The you can run the command with no errors
 
 ##### I get the error "Cannot find JTAG cable"
 
@@ -846,6 +856,7 @@ If you have been using another FPGA board with apio it is likely that you alread
 
 * Thanks to **Antonio Pascual** for his help on testing apio in MacOS
 * Thanks to **Sergio Cuenta** for the Troubleshooting for the ULX3S board
+* Thanks to **Wm** ([FPGAwars group thread](https://groups.google.com/g/fpga-wars-explorando-el-lado-libre/c/uvhaE3vVB4I/m/3OpUejAlAQAJ))
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
