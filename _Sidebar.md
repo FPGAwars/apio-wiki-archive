@@ -12,7 +12,8 @@
 
 ## Development
 
-* [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)
+* [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)  
+* [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
 
 ## Adding examples
 
