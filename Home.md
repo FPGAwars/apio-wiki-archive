@@ -19,5 +19,12 @@
 
 * [More information!](http://apiodoc.readthedocs.io/)
 
+# Tutorial: Introduction to FPGA
+
+Checkout this Tutorial, by [Shawn Hymel](https://shawnhymel.com/). **Apio** is used for building and simulating the designs on the Icestick board
+
+[![Introduction to FPGA YouTube Series](https://raw.githubusercontent.com/ShawnHymel/introduction-to-fpga/main/images/Intro%20to%20FPGA%20Part%201_Thumbnail.png)](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
+
+
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
