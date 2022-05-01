@@ -9,6 +9,7 @@ Here you can find the **release notes** for the different versions of Apio
 | Version                   | Comments           |
 | --------------------------|--------------------|
 | [Latest changes](#latest-changes) |   | 
+| []()  | |
 | [Version 0.8.0](#version-080) | Transitional version. Migration to oss-cad-suite in progress|
 | [Version 0.7.6](#version-076) | Bugs fixed. It works ok with icestudio >= 0.6.1  |
 | [Version 0.7.5](#version-075) | Bug fixed. System package is obsolete |
