@@ -8,7 +8,7 @@ Here you can find the **release notes** for the different versions of Apio
 
 | Version                   | Comments           |
 | --------------------------|--------------------|
-| [Latest changes](#latest-changes) |   | 
+| [Latest changes](#latest-changes) | [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)  | 
 | [Version 0.8.1](#version-081) | Transition to the **oss-cad-suite** complete! |
 | [Version 0.8.0.post1](#version-080post1)  | Apio dependencies fixed |
 | [Version 0.8.0](#version-080) | Transitional version. Migration to oss-cad-suite in progress|
@@ -32,6 +32,8 @@ Here you can find the **release notes** for the different versions of Apio
 | [Version 0.0.4](#version-004) | New commandos. Boards: IceZum Alhambra, iCEstick |
 
 ## Latest changes
+
+* [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
 ## Version 0.8.1
 
