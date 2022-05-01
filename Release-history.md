@@ -31,6 +31,16 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Latest changes
 
+## Version 0.8.1
+
+
+## Version 0.8.0.post1
+
+* **Date**: 2022-April-2
+* Apio dependencies fixed
+* Bug fixed: It fixed the "get_terminal_size" error that appears because click version 0.8.1 was automaticaly installed (since March-28-2022)
+* The click version has been change to 0.7.2 temporaly for fixing the problem (it will be upgraded to 0.8.1 in the comming releases)  
+
 ## Version 0.8.0
 
 * **Date**: 2021-12-27
