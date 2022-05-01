@@ -9,7 +9,7 @@ Here you can find the **release notes** for the different versions of Apio
 | Version                   | Comments           |
 | --------------------------|--------------------|
 | [Latest changes](#latest-changes) |   | 
-| [Version 0.8.1]() | |
+| [Version 0.8.1](#version-081) | |
 | [Version 0.8.0.post1](#version-080post1)  | Apio dependencies fixed |
 | [Version 0.8.0](#version-080) | Transitional version. Migration to oss-cad-suite in progress|
 | [Version 0.7.6](#version-076) | Bugs fixed. It works ok with icestudio >= 0.6.1  |
@@ -35,7 +35,37 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Version 0.8.1
 
-
+* **Date**: 2022-April-28
+* **NOTE**: Transition to the **oss-cad-suite** complete! The old packages are obsolete, but can still be installed. In the next release they will be fully removed
+* Support for the iceWerx board added ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Examples added ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Test-examples: alhambra-II. Testbenches added] ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* ECP5: SConstruct: message: no time analysis] ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* ecp5: iverilog: scons: added missing " " ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* ice40: Sconstruct. Iverilog: added missing " " ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Bug fixed: apio time only depends on the oss-cad-suite package ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Bug fixed: apio sim no longer requires the iverilog package] ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* fixed: get_terminal_size() ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Added upduino v3.1 ([vr2045](https://github.com/vr2045) (@vr2045))
+* The Alchitry Cu board fixes ([goodney](https://github.com/goodney) (@goodney))
+* dfu, fujprog,icesprog and ecp5 packages declared as obsoletes ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Verilator declared as obsolete package ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Package iverilog is now declared obsolete ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Readme: Update OrangeCrab/ButterStick ([@gregdavill](https://github.com/gregdavill) (@gregdavill))
+* Test examples for different boards: ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+  * Icesugar-1.5
+  * Radiona ULX3S-12F
+  * Icebreaker
+  * TinyFPGA-BX
+  * Fomu
+  * ICE40UP
+  * Blackice
+  * ICE40-BreakBoard
+  * Go-board
+  * Alhambra II
+  * Icezum Alhambra
+* Add butterstick support (and fix small orangecrab typo) (Andrew Goodney)
+  
 ## Version 0.8.0.post1
 
 * **Date**: 2022-April-2
