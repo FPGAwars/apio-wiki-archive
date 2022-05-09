@@ -32,6 +32,8 @@ These apio packages are no longer used. They all have been substituyed by the os
 | Package | Installation   | Description   |
 |---------|----------------|---------------|
 | [system](https://github.com/FPGAwars/tools-system) | apio install system | Tools for listing the USB devices and retrieving information from the FTDI chips |
+| [dfu-utils](https://github.com/FPGAwars/toolchain-dfu) | apio install dfu |  Device Firmware Upgrade Utilities |
+
 
 
 -------
