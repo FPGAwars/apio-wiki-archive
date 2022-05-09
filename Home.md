@@ -25,6 +25,14 @@ Checkout this Tutorial, by [Shawn Hymel](https://shawnhymel.com/). **Apio** is u
 
 [![Introduction to FPGA YouTube Series](https://raw.githubusercontent.com/ShawnHymel/introduction-to-fpga/main/images/Intro%20to%20FPGA%20Part%201_Thumbnail.png)](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 
+# Obsolete apio packages
+
+These apio packages are no longer used. They all have been substituyed by the oss-cad-suite package. They are documented here for historical reasons
+
+| Package | Installation   | Description   |
+|---------|----------------|---------------|
+| [system](https://github.com/FPGAwars/tools-system) | apio install system | Tools for listing the USB devices and retrieving information from the FTDI chips |
+
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
