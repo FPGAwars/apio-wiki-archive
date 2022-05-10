@@ -27,7 +27,7 @@ Checkout this Tutorial, by [Shawn Hymel](https://shawnhymel.com/). **Apio** is u
 
 # Obsolete apio packages
 
-These apio packages are no longer used. They all have been substituyed by the oss-cad-suite package. They are documented here for historical reasons
+These apio packages are **no longer used**. They all have been substituted by the **oss-cad-suite package**. They are documented here for **historical reasons**
 
 | Package | Installation   | Description   |
 |---------|----------------|---------------|
