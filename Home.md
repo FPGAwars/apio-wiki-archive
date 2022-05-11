@@ -17,6 +17,7 @@
   * [Apio examples](https://github.com/FPGAwars/apio-examples): Examples for the different boards supported in Apio
   * **Only Windows**:
     * [Tools-drivers](https://github.com/FPGAwars/tools-drivers): FPGA drivers for windows (Zadig and Virtual Serial)
+    * [Gtkwave](https://github.com/FPGAwars/tool-gtkwave): Wave viewer. Package for windows  
 
 * [More information!](http://apiodoc.readthedocs.io/)
 
