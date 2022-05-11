@@ -83,6 +83,15 @@ This is how the new release should look like. Make sure that the new file appers
 
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Adding-examples/apio-examples-pkg-10.png)
 
+## 4. Update the VERSION file
+Place the latest version number in the VERSION file, located in the main folder. An example of the cotent of this file is:
+
+```
+0.0.33
+```
+
+This file tells Apio whish is the latest version to download
+
 ## 4. Check: Install the new apio-example package from apio
 
 If you execute the **apio examples -l** command, you will see the list of current installed packages. In my case, i have the previous apio-examples version intalled
