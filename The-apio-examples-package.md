@@ -84,7 +84,7 @@ This is how the new release should look like. Make sure that the new file appers
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Adding-examples/apio-examples-pkg-10.png)
 
 ## 4. Update the VERSION file
-Place the latest version number in the VERSION file, located in the main folder. An example of the cotent of this file is:
+Place the latest version number in the **VERSION** file, located in the main folder. An example of the cotent of this file is:
 
 ```
 0.0.33
