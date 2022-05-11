@@ -12,11 +12,11 @@
   * [The apio-example package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package)
 * Stable release
   * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
-
 * Apio Packages
-  * [Tools-system](https://github.com/FPGAwars/tools-system/wiki): Listing the usb devices and retrieving information from the ftdi chips
   * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki): All the opensource tools fro the [YosysHQ/oss cad suite](https://github.com/YosysHQ/oss-cad-suite-build) project
   * [Apio examples](https://github.com/FPGAwars/apio-examples): Examples for the different boards supported in Apio
+  * **Only Windows**:
+    * [Tools-drivers](https://github.com/FPGAwars/tools-drivers): FPGA drivers for windows (Zadig and Virtual Serial)
 
 * [More information!](http://apiodoc.readthedocs.io/)
 
@@ -34,7 +34,7 @@ These apio packages are **no longer used**. They all have been substituted by th
 |---------|----------------|---------------|
 | [system](https://github.com/FPGAwars/tools-system) | apio install system | Tools for listing the USB devices and retrieving information from the FTDI chips |
 | [dfu-utils](https://github.com/FPGAwars/toolchain-dfu) | apio install dfu |  Device Firmware Upgrade Utilities |
-
+| [Tools-system](https://github.com/FPGAwars/tools-system/wiki) | Listing the usb devices and retrieving information from the ftdi chips |
 
 
 -------
