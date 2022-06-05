@@ -548,7 +548,7 @@ apio examples -d iCEBreaker\Blinky
 * Enter the example folder
 
 ```
-cd cd iCEBreaker\Blinky
+cd iCEBreaker\Blinky
 ```
 
 * **Synthesize** and **upload** the bitstream to the board
