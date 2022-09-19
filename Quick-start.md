@@ -396,11 +396,11 @@ apio install -a
 apio drivers --ftdi-enable
 ```
 
-It will execute the [**Zadig driver installation**](https://yip.su/2RX8P8). Select the **Alhambra-II-(Interface 0)** option on the top and then click on **Replace Driver**
+It will execute the **Zadig driver installation**. Select the **Alhambra-II-(Interface 0)** option on the top and then click on **Replace Driver**
 
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-Alhambra-II-01.png)
 
-When finished close the [Zadig](https://yip.su/2RX8P8) Windows
+When finished close the Zadig Windows
 
 * **Unplug** the Alhambra II board and **Plug** it again
 
@@ -434,11 +434,11 @@ The LED7 is blinking!!
 apio drivers --ftdi-enable
 ```
 
-It will execute the [**Zadig driver installation**](https://yip.su/2RX8P8). Select the **RS232-HS(Interface 0)** option on the top. Select the libusbK driver and then click on **Replace Driver**
+It will execute the **Zadig driver installation**. Select the **RS232-HS(Interface 0)** option on the top. Select the libusbK driver and then click on **Replace Driver**
 
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-NandLand-go-board-01.png)
 
-When finished close the [Zadig](https://yip.su/2RX8P8) Windows
+When finished close the Zadig Windows
 
 * **Unplug** the NandLand Go-board and **Plug** it again
 
