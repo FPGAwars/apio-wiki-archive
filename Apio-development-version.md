@@ -106,7 +106,7 @@ All the apio development **must** be done inside the virtual environment. Before
 Execute the following command to access to the virtual environment:
 
 ```
-$ . venv/bin/activate
+. venv/bin/activate
 ```
 
 Your terminal prompt will be changed. The `venv` word will apear at the begining:
