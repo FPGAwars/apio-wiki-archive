@@ -35,6 +35,11 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.8.2
+* **Date**: Not yet released
+
+
+
 ## Version 0.8.1
 
 * **Date**: 2022-April-28
