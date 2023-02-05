@@ -125,9 +125,15 @@ Inside the virtual environment execute these commands:
 python -m pip install --upgrade pip
 ```
 
+It will upgrade the `pip` tool to the latest version
+
 ```
-pip install black flake8 flit pylint tox tox-gh-actions semantic_version polib
+pip install flit
 ```
+
+* [Flit](https://pypi.org/project/flit/): Create pypi packages easily
+
+
 
 ### Install the apio development version
 
