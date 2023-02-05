@@ -37,10 +37,13 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Version 0.8.2
 * **Date**: Not yet released
-* New FT232H programer for the ColorLight i9  
+* Bug fixed in iCESugar-Pro ([ahaberlach](https://github.com/ahaberlach))  
+* New board: Pico-Ice ([benitoss](https://github.com/benitoss))  
+* Newer Icestick boards supported ([himarcarmona](https://github.com/himarcarmona))  
+* New FT232H programer for the ColorLight i9  ([jojo535275](https://github.com/jojo535275))  
 * New USB-Blaster programer for the colorlight i9 ([jojo535275](https://github.com/jojo535275))  
 * Bug fixed in Colorlight 5A-75B V6.1 ([benitoss](https://github.com/benitoss))  
-* New Lattice iCE40UP5K Breakout boards are supported ([Kevin Lutzer](https://github.com/kevinlutzer))
+* Newer Lattice iCE40UP5K Breakout boards are supported ([Kevin Lutzer](https://github.com/kevinlutzer))
 * New board: ColorLight-i9-v7.2_(FT2232H) ([jojo535275](https://github.com/jojo535275))
 * Old functions removed ([Obijuan](https://github.com/Obijuan))  
 * Code refactoring ([Obijuan](https://github.com/Obijuan))  
