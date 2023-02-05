@@ -44,18 +44,7 @@ Here you can find the **release notes** for the different versions of Apio
 * Code clean: Lint score 10/10 ([Obijuan](https://github.com/Obijuan) (@Obijuan))
 * **Github API not accessed anymore**. The latest version of the apio packages is shown in the VERSION file
 * Obsolete packages no longer shown with apio install -l ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-* Obsolete Apio packages removed: ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-  * Scons
-  * Dfu
-  * icesprog
-  * fujprog
-  * Yosys
-  * ecp5
-  * iverilator
-  * Verilator
-  * System-tools
-  
-
+* Obsolete Apio packages removed: Scons, dfu, icesprog, fujprog, Yosys, ecp5, iverilator, Verilator, System-tools ([Obijuan](https://github.com/Obijuan))
 
 ## Version 0.8.1
 
