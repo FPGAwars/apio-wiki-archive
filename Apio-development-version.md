@@ -69,9 +69,8 @@ cd apio
 These are the files and folders under apio:
 
 ```
-$ ls 
-apio          docs    LICENSE    setup.py  tox.ini
-CHANGELOG.md  FAQ.md  README.md  test      wiki
+apio  LICENSE   pyproject.toml  test           tox.ini
+docs  Makefile  README.md       test-examples
 ```
 
 ### Install virtual-env
