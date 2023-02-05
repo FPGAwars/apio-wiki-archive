@@ -37,8 +37,9 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Version 0.8.2
 * **Date**: Not yet released
-* New board: ColorLight-i9-v7.2_(FT2232H) 
-* old function removed (@Obijuan)) ([jojo535275](https://github.com/jojo535275) (@jojo535275))
+* New Lattice iCE40UP5K Breakout boards are supported ([Kevin Lutzer](https://github.com/kevinlutzer) (@kevinlutzer))
+* New board: ColorLight-i9-v7.2_(FT2232H) ([jojo535275](https://github.com/jojo535275) (@jojo535275))
+* Old functions removed ([Obijuan](https://github.com/Obijuan) (@Obijuan))
 * Code refactoring ([Obijuan](https://github.com/Obijuan) (@Obijuan))
 * Code clean: Lint score 10/10 ([Obijuan](https://github.com/Obijuan) (@Obijuan))
 * **Github API not accessed anymore**. The latest version of the apio packages is shown in the VERSION file
