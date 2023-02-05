@@ -63,8 +63,8 @@ Here you can find the **release notes** for the different versions of Apio
 * **NOTE**: Transition to the **oss-cad-suite** complete! The old packages are obsolete, but can still be installed. In the next release they will be fully removed
 * Support for the iceWerx board added ([Obijuan](https://github.com/Obijuan)) 
 * Examples added ([Obijuan](https://github.com/Obijuan)) 
-* Test-examples: alhambra-II. Testbenches added] ([Obijuan](https://github.com/Obijuan)) 
-* ECP5: SConstruct: message: no time analysis] ([Obijuan](https://github.com/Obijuan)) 
+* Test-examples: alhambra-II. Testbenches added ([Obijuan](https://github.com/Obijuan)) 
+* ECP5: SConstruct: message: no time analysis ([Obijuan](https://github.com/Obijuan)) 
 * ecp5: iverilog: scons: added missing " " ([Obijuan](https://github.com/Obijuan)) 
 * ice40: Sconstruct. Iverilog: added missing " " ([Obijuan](https://github.com/Obijuan)) 
 * Bug fixed: apio time only depends on the oss-cad-suite package ([Obijuan](https://github.com/Obijuan)) 
