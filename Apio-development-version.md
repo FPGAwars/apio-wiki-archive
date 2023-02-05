@@ -127,50 +127,38 @@ python -m pip install --upgrade pip
 
 It will upgrade the `pip` tool to the latest version
 
+Install all the required tools:
+
 ```
-pip install flit black flake8
+pip install flit black flake8 pylint pytest
 ```
 
-* [Flit](https://pypi.org/project/flit/): Create pypi packages easily
+* [Flit](https://pypi.org/project/flit/): Create pypi packages easely
 * [Black](https://pypi.org/project/black/): Python code formatter  
-* [Flake8](https://pypi.org/project/flake8/): Lint tool  
-  
+* [Flake8](https://pypi.org/project/flake8/): Lint 
+* [Pylint](https://pypi.org/project/pylint/): Another lint  
+* [Pytest](https://pypi.org/project/pytest/): Environment for executing the tests   
 
+### Executing apio development version
 
-### Install the apio development version
-
-Just execute this command. It will install the apio version you have previously cloned
-
-```
-(APIO)$ pip install -U .
-```
-
-You can check that everything was ok executing this command:
+For running `apio` just execute this command:
 
 ```
-(APIO)$ apio --version
-apio, version 0.5.5
+flit install
 ```
 
-It will display the current development version
+It will create a **local apio package** from the sources and **install** it in your virtual environment
 
-Everytime you change something in the apio sources and you want to test it you have to "pip install -U ." it 
-
-In addition, you should install the [tox python package](https://tox.readthedocs.io/en/latest/):
-
-```
-pip install tox pytest-mccabe pytest pytest-flakes pytest-cov
-```
-It is used for performing test, and making sure that the new apio package will install correctly on different environments
+Now you can invoke `apio` normally
 
 ### You are ready for developing!
 
 Now you can start adding features to apio: new boards, new documentation,  bug fixing... Just edit the python files with your favorite IDE
 
-Everytime you want to test something, just execute this command from the apio top folder:
+Everytime you want to test something, just execute this command from the apio top folder, inside the virtual env:
 
 ```
-(APIO)$ pip install -U .
+flit install
 ```
 
 and then execute the apio commands/actions you want to test
@@ -179,27 +167,30 @@ and then execute the apio commands/actions you want to test
 
 Once you have finished your contribution (a bug fixed, a feature or whatever) you should test that everything is ok.
 
-* Install tox:
+Execute the following commands:
 
 ```
-pip install tox
+black apio
 ```
 
-* Check your code: 
+It will automatically format the files you've changed, so that the code always maintan the same style (regardless of the contributor)
 
 ```
-(APIO) $ tox
+flake8 apio
+```
+This is a linter, for static analysis of your code
+
+```
+pylint apio
+```
+Another linter that assign a code score to your code. Make sure your score is 10/10!
+
+```
+pytest apio test
 ```
 
-After some time, it will finish and you will see this information on the console:
+It run a battery of tests, for checking that your contribution has not broken Apio behaviour
 
-```
-[...]
-============= 166 passed, 38 warnings in 6.89s ===================
-_______________________ summary __________________________________
-  py38: commands succeeded
-  congratulations :)
-```
 
 ### Emit a pull request
 
@@ -210,11 +201,8 @@ Now you are ready to do a pull request to apio. Thanks for your contribution!
 You can leave the virtual environment anytime executing this command:
 
 ```
-(APIO) $ deactivate
-$
+deactivate
 ```
-
-Notice how the APIO prefix is no longer printed
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
