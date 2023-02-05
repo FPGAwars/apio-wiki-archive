@@ -69,14 +69,14 @@ Here you can find the **release notes** for the different versions of Apio
 * ice40: Sconstruct. Iverilog: added missing " " ([Obijuan](https://github.com/Obijuan) (@Obijuan))
 * Bug fixed: apio time only depends on the oss-cad-suite package ([Obijuan](https://github.com/Obijuan) (@Obijuan))
 * Bug fixed: apio sim no longer requires the iverilog package] ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-* fixed: get_terminal_size() ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-* Added upduino v3.1 ([vr2045](https://github.com/vr2045) (@vr2045))
-* The Alchitry Cu board fixes ([goodney](https://github.com/goodney) (@goodney))
-* dfu, fujprog,icesprog and ecp5 packages declared as obsoletes ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-* Verilator declared as obsolete package ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-* Package iverilog is now declared obsolete ([Obijuan](https://github.com/Obijuan) (@Obijuan))
-* Readme: Update OrangeCrab/ButterStick ([@gregdavill](https://github.com/gregdavill) (@gregdavill))
-* Test examples for different boards: ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* fixed: get_terminal_size() [Obijuan](https://github.com/Obijuan) (@Obijuan)
+* Added upduino v3.1 [vr2045](https://github.com/vr2045) (@vr2045)
+* The Alchitry Cu board fixes [goodney](https://github.com/goodney) (@goodney)
+* dfu, fujprog,icesprog and ecp5 packages declared as obsoletes [Obijuan](https://github.com/Obijuan) (@Obijuan)
+* Verilator declared as obsolete package [Obijuan](https://github.com/Obijuan) (@Obijuan)
+* Package iverilog is now declared obsolete [Obijuan](https://github.com/Obijuan) (@Obijuan)
+* Readme: Update OrangeCrab/ButterStick [@gregdavill](https://github.com/gregdavill) (@gregdavill)
+* Test examples for different boards: [Obijuan](https://github.com/Obijuan) (@Obijuan)
   * Icesugar-1.5
   * Radiona ULX3S-12F
   * Icebreaker
