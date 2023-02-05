@@ -41,7 +41,7 @@ Here you can find the **release notes** for the different versions of Apio
 * New board: ColorLight-i9-v7.2_(FT2232H) ([jojo535275](https://github.com/jojo535275))
 * Old functions removed ([Obijuan](https://github.com/Obijuan))  
 * Code refactoring ([Obijuan](https://github.com/Obijuan))  
-* Code clean: Lint score 10/10 ([Obijuan](https://github.com/Obijuan) (@Obijuan))([Obijuan](https://github.com/Obijuan))  
+* Code clean: Lint score 10/10 ([Obijuan](https://github.com/Obijuan)) 
 * **Github API not accessed anymore**. The latest version of the apio packages is shown in the `VERSION` file ([Obijuan](https://github.com/Obijuan))  
 * Obsolete packages no longer shown with `apio install -l` ([Obijuan](https://github.com/Obijuan))  
 * Obsolete Apio packages removed: Scons, dfu, icesprog, fujprog, Yosys, ecp5, iverilator, Verilator, System-tools ([Obijuan](https://github.com/Obijuan))
