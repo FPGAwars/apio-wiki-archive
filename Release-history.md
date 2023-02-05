@@ -72,11 +72,11 @@ Here you can find the **release notes** for the different versions of Apio
 * fixed: get_terminal_size() [Obijuan](https://github.com/Obijuan) 
 * Added upduino v3.1 [vr2045](https://github.com/vr2045) 
 * The Alchitry Cu board fixes [goodney](https://github.com/goodney) 
-* dfu, fujprog,icesprog and ecp5 packages declared as obsoletes [Obijuan](https://github.com/Obijuan) 
-* Verilator declared as obsolete package [Obijuan](https://github.com/Obijuan) 
-* Package iverilog is now declared obsolete [Obijuan](https://github.com/Obijuan) 
-* Readme: Update OrangeCrab/ButterStick [@gregdavill](https://github.com/gregdavill) 
-* Test examples for different boards: [Obijuan](https://github.com/Obijuan) 
+* dfu, fujprog,icesprog and ecp5 packages declared as obsoletes ([Obijuan](https://github.com/Obijuan)) 
+* Verilator declared as obsolete package ([Obijuan](https://github.com/Obijuan)) 
+* Package iverilog is now declared obsolete ([Obijuan](https://github.com/Obijuan)) 
+* Readme: Update OrangeCrab/ButterStick ([gregdavill](https://github.com/gregdavill)) 
+* Test examples for different boards: ([Obijuan](https://github.com/Obijuan)) 
   * Icesugar-1.5
   * Radiona ULX3S-12F
   * Icebreaker
