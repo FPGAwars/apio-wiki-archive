@@ -11,7 +11,7 @@
   * [Install virtual-env](#install-virtual-env)  
   * [Create the APIO virtual-env](#create-the-apio-virtual-env)  
   * [Activate the virtual environment](#activate-the-virtual-environment)  
-  * [Install the Apio development version](#install-the-apio-development-version)  
+  * [Executing Apio development version](#executing-apio-development-version)   
   * [You are ready for developing!](#you-are-ready-for-developing)  
   * [Testing your contributions](#testing-your-contributions)  
   * [Emit a pull request](#emit-a-pull-request)  
