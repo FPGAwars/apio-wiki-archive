@@ -117,6 +117,15 @@ Your terminal prompt will be changed. The `venv` word will apear at the begining
 
 All the **python packages** installed from now on will be installed only on this **virtual environment** and not in the system or user environment
 
+### Install the dependencies for developing apio
+
+Inside the virtual environment execute these commands:
+
+```
+python -m pip install --upgrade pip
+python -m pip install black flake8 flit pylint tox tox-gh-actions semantic_version polib
+```
+
 ### Install the apio development version
 
 Just execute this command. It will install the apio version you have previously cloned
