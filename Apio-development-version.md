@@ -85,26 +85,34 @@ sudo apt install python3-venv
 
 ### Create the APIO virtual env
 
-You should create the APIO virtual env the first time. Just type this command
+You should create the APIO virtual env the **first time**. Just type this command
 
 ```
-python3 -m venv APIO
+python3 -m venv venv 
 ```
 
-It will create the APIO folder, with the virtual environment. All the python packages will be installed there
+It will create the `venv` folder, with the virtual environment. All the python packages will be installed there
+
+Make sure to upgrade all the python dependencies. Execute this command:
+
+```
+python3 -m venv venv --upgrade
+```
 
 ### Activate the virtual environment
+
+All the apio development **must** be done inside the virtual environment. Before executing apio we have to enter to this virtual environment
 
 Execute the following command to access to the virtual environment:
 
 ```
-$ source APIO/bin/activate
+$ . venv/bin/activate
 ```
 
-Your terminal prompt will be changed. The APIO will apear at the begining:
+Your terminal prompt will be changed. The `venv` word will apear at the begining:
 
 ```
-(APIO) $ 
+(venv) $ 
 ```
 
 All the **python packages** installed from now on will be installed only on this **virtual environment** and not in the system or user environment
