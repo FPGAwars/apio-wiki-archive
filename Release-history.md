@@ -37,7 +37,8 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Version 0.8.2
 * **Date**: Not yet released
-* New colorlight i9 usb-blaster ([jojo535275](https://github.com/jojo535275))  
+* New FT232H programer for the ColorLight i9  
+* New USB-Blaster programer for the colorlight i9 ([jojo535275](https://github.com/jojo535275))  
 * Bug fixed in Colorlight 5A-75B V6.1 ([benitoss](https://github.com/benitoss))  
 * New Lattice iCE40UP5K Breakout boards are supported ([Kevin Lutzer](https://github.com/kevinlutzer))
 * New board: ColorLight-i9-v7.2_(FT2232H) ([jojo535275](https://github.com/jojo535275))
