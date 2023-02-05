@@ -37,7 +37,18 @@ Here you can find the **release notes** for the different versions of Apio
 
 ## Version 0.8.2
 * **Date**: Not yet released
-
+* Obsolete packages no longer shown with apio install -l ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+* Obsolete Apio packages removed: ([Obijuan](https://github.com/Obijuan) (@Obijuan))
+  * Scons
+  * Dfu
+  * icesprog
+  * fujprog
+  * Yosys
+  * ecp5
+  * iverilator
+  * Verilator
+  * System-tools
+  
 
 
 ## Version 0.8.1
