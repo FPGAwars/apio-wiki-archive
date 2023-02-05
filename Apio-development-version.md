@@ -128,11 +128,13 @@ python -m pip install --upgrade pip
 It will upgrade the `pip` tool to the latest version
 
 ```
-pip install flit
+pip install flit black flake8
 ```
 
 * [Flit](https://pypi.org/project/flit/): Create pypi packages easily
-
+* [Black](https://pypi.org/project/black/): Python code formatter  
+* [Flake8](https://pypi.org/project/flake8/): Lint tool  
+  
 
 
 ### Install the apio development version
