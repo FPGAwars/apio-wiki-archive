@@ -36,7 +36,17 @@ Here you can find the **release notes** for the different versions of Apio
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
 ## Version 0.8.2
-* **Date**: Not yet released
+* **Date**: 2023-September-29
+* **NOTE**: old apio packages fully removed
+* Adding documentation about apio build --top-module ([luongb](https://github.com/luongb))
+* Apio build parameter for top-lvl module ([luongb](https://github.com/luongb))
+* Apio build -v(verbose) fix ([luongb](https://github.com/luongb))
+* Bug fixed: wrong type of quotes used. Caused JSON decoder error ([luongb](https://github.com/luongb))
+* Add fpga for iCE40-UL1K-CM36A ([Kirk Clendinning](https://github.com/kirk-clendinning))
+* Adding the iCE UltraLite Breakout Board ([Kirk Clendinning](https://github.com/kirk-clendinning))
+* github actions improved ([Obijuan](https://github.com/Obijuan))
+* Newer iCE40-HX8K and ECP5 Versa boards supported ([Obijuan](https://github.com/Obijuan))
+* Python packages upgraded (request 2.28.2, click 8.1.3, colorama 0.4.6) ([Obijuan](https://github.com/Obijuan)) 
 * Bug fixed in iCESugar-Pro ([ahaberlach](https://github.com/ahaberlach))  
 * New board: Pico-Ice ([benitoss](https://github.com/benitoss))  
 * Newer Icestick boards supported ([himarcarmona](https://github.com/himarcarmona))  
