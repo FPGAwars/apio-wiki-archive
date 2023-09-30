@@ -7,11 +7,10 @@
   * [Quick start](https://github.com/FPGAwars/apio/wiki/Quick-start)  
 * Development
   * [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)  
+ * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 * Adding examples
   * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)  
   * [The apio-example package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package)
-* Stable release
-  * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 * Apio Packages
   * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki): All the opensource tools fro the [YosysHQ/oss cad suite](https://github.com/YosysHQ/oss-cad-suite-build) project
   * [Apio examples](https://github.com/FPGAwars/apio-examples): Examples for the different boards supported in Apio
