@@ -8,6 +8,10 @@
 
 ## Apio packages 
 * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)  
+* [Apio examples](https://github.com/FPGAwars/apio-examples)  
+* **Only Windows**:
+  * [Tools-drivers](https://github.com/FPGAwars/tools-drivers)
+  * [Gtkwave](https://github.com/FPGAwars/tool-gtkwave) 
 
 ## Development
 
