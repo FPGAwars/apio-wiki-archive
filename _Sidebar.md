@@ -26,4 +26,4 @@
 * [FAQs and troubleshooting](https://github.com/FPGAwars/apio/wiki/FAQs-and-troubleshooting)  
 
 ## Legacy
-* [Tools-system](https://github.com/FPGAwars/tools-system/wiki)  
+* [Tools-system package](https://github.com/FPGAwars/tools-system/wiki)  
