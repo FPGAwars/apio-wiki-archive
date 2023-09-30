@@ -31,3 +31,4 @@
 
 ## Legacy
 * [Tools-system package](https://github.com/FPGAwars/tools-system/wiki)  
+* [dfu-utils package](https://github.com/FPGAwars/toolchain-dfu) 
