@@ -30,5 +30,9 @@
 * [FAQs and troubleshooting](https://github.com/FPGAwars/apio/wiki/FAQs-and-troubleshooting)  
 
 ## Legacy
+* [Old documentation](http://apiodoc.readthedocs.io/)  
+
+### Apio packages
 * [Tools-system package](https://github.com/FPGAwars/tools-system/wiki)  
 * [dfu-utils package](https://github.com/FPGAwars/toolchain-dfu) 
+
