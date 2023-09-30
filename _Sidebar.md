@@ -32,6 +32,10 @@
 ## Legacy
 * [Old documentation](http://apiodoc.readthedocs.io/)  
 * Apio packages:
-  * [Tools-system package](https://github.com/FPGAwars/tools-system/wiki)  
-  * [dfu-utils package](https://github.com/FPGAwars/toolchain-dfu) 
+  * [Tools-system](https://github.com/FPGAwars/tools-system/wiki)
+  * [Icestorm](https://github.com/FPGAwars/toolchain-icestorm)  
+  * [Iverilog](https://github.com/FPGAwars/toolchain-iverilog)  
+  * [Fujprog](https://github.com/FPGAwars/toolchain-fujprog)  
+  * [Icesprog](https://github.com/FPGAwars/toolchain-icesprog)  
+  * [dfu-utils](https://github.com/FPGAwars/toolchain-dfu) 
 
