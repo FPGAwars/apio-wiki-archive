@@ -31,8 +31,7 @@
 
 ## Legacy
 * [Old documentation](http://apiodoc.readthedocs.io/)  
-
-### Apio packages
-* [Tools-system package](https://github.com/FPGAwars/tools-system/wiki)  
-* [dfu-utils package](https://github.com/FPGAwars/toolchain-dfu) 
+* Apio packages:
+  * [Tools-system package](https://github.com/FPGAwars/tools-system/wiki)  
+  * [dfu-utils package](https://github.com/FPGAwars/toolchain-dfu) 
 
