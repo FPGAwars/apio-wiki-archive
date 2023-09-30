@@ -18,8 +18,6 @@
     * [Tools-drivers](https://github.com/FPGAwars/tools-drivers): FPGA drivers for windows (Zadig and Virtual Serial)
     * [Gtkwave](https://github.com/FPGAwars/tool-gtkwave): Wave viewer. Package for windows  
 
-* [More information!](http://apiodoc.readthedocs.io/)
-
 # Tutorial: Introduction to FPGA
 
 Checkout this Tutorial, by [Shawn Hymel](https://shawnhymel.com/). **Apio** is used for building and simulating the designs on the Icestick board
