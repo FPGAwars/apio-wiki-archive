@@ -36,6 +36,14 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.8.3
+* **Date**: 2023-Oct-1
+* **NOTE**: Bug fixes release
+* Fix duplicate execution for deprecated tools ([Cavearr](https://github.com/cavearr))
+  * It solves two bugs in icestudio
+    * Bitstream uploaded twice
+    * No FPGA resources shown
+
 ## Version 0.8.2
 * **Date**: 2023-September-29
 * **NOTE**: old apio packages fully removed
