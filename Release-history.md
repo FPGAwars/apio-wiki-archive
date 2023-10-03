@@ -9,6 +9,7 @@ Here you can find the **release notes** for the different versions of Apio
 | Version                   | Comments           |
 | --------------------------|--------------------|
 | [Latest changes](#latest-changes) | [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)  | 
+| [Version 0.8.4](#version-084) | Quick update release: New boards orangecrab, ButerSticr1.0 |
 | [Version 0.8.3](#version-083) | Bug fixes release |
 | [Version 0.8.2](#version-082) | Obsolete apio packages removed. Github api no longer used. New boards. Many Bug fixed |
 | [Version 0.8.1](#version-081) | Transition to the **oss-cad-suite** complete! |
