@@ -37,6 +37,13 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.8.4
+* **Date**: 2023-Oct-3
+* **NOTE**: Quick update release
+* New board: orangecrab-r02-85f ([benitoss](https://github.com/benitoss)) 
+* New board: ButerSticr1.0 DFU & FT2232H ([benitoss](https://github.com/benitoss)) 
+* ECP5 FPGAs: compress bitstream generation (Add flag --compress) ([benitoss](https://github.com/benitoss)) 
+
 ## Version 0.8.3
 * **Date**: 2023-Oct-1
 * **NOTE**: Bug fixes release
