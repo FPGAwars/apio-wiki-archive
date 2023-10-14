@@ -11,7 +11,7 @@ VERSION = (0, 7, 4)
 ```
 * Change the `packages.json` file. Make sure it has the `VERSION` file in the `url_version` attribute:  
 ```
-"url_version": "https://github.com/FPGAwars/tools-oss-cad-suite/raw/main/VERSION_DEV"
+"url_version": "https://github.com/FPGAwars/tools-oss-cad-suite/raw/main/VERSION"
 ```
 * Create a new Release from Github. It should start with the letter `v` followed by the version number. Add the changes from the previous release
 
