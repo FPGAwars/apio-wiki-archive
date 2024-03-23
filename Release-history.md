@@ -51,7 +51,7 @@ Here you can find the **release notes** for the different versions of Apio
 * apio install -l: Package listing improved ([Obijuan](https://github.com/Obijuan))
 * apio examples -l: examples listing improved ([Obijuan](https://github.com/Obijuan))
 * apio boards -l: board listing improved ([Obijuan](https://github.com/Obijuan))
-* Add suport for the Theta Machines ETH4K board by @will-hut in https://github.com/FPGAwars/apio/pull/339
+* Add suport for the **Theta Machines ETH4K board** by ([will-hut](https://github.com/will-hut)) in https://github.com/FPGAwars/apio/pull/339
 * Added to the apio sim an optional -testbench flag  by @zapta in https://github.com/FPGAwars/apio/pull/341
 * Extended the apio clean command to delete all the .out and .vcd files. by @zapta in https://github.com/FPGAwars/apio/pull/342
 * Changed the behavior of the sim command to require --testbench flag if more than once benchmark is found. by @zapta in https://github.com/FPGAwars/apio/pull/343
