@@ -43,6 +43,28 @@ Here you can find the **release notes** for the different versions of Apio
 * **Date**: 2024-March-22
 * **NOTE**: The top module name is now mandatory. It should be configured in the apio.ini file (or pass as an argument). The default module name used is `main`. Apio projects created with apio < 0.9.1 may not work unless the top-module is configured
 * **OSS-CAD-SUITE**: [Version 0.0.9](https://github.com/FPGAwars/tools-oss-cad-suite/releases/tag/v0.0.9). 3-Oct-2023. Yosys: 0.33+103. Nextpnr: 0.6-118. OpenFPGALoader: 0.11.0
+* Code cleaning, documentation and refactoring ([Obijuan](https://github.com/Obijuan))
+* Add top-module parameter to the apio.ini file ([Obijuan](https://github.com/Obijuan))
+* apio init now includes the option parameter top-module ([Obijuan](https://github.com/Obijuan))
+* TinyFPGA-BX upload messages improved ([Obijuan](https://github.com/Obijuan))
+* iceprog upload messages improved ([Obijuan](https://github.com/Obijuan))
+* apio install -l: Package listing improved ([Obijuan](https://github.com/Obijuan))
+* apio examples -l: examples listing improved ([Obijuan](https://github.com/Obijuan))
+* apio boards -l: board listing improved ([Obijuan](https://github.com/Obijuan))
+* Add suport for the Theta Machines ETH4K board by @will-hut in https://github.com/FPGAwars/apio/pull/339
+* Added to the apio sim an optional -testbench flag  by @zapta in https://github.com/FPGAwars/apio/pull/341
+* Extended the apio clean command to delete all the .out and .vcd files. by @zapta in https://github.com/FPGAwars/apio/pull/342
+* Changed the behavior of the sim command to require --testbench flag if more than once benchmark is found. by @zapta in https://github.com/FPGAwars/apio/pull/343
+* Apio verify/lint commands now process also all the testbench files. by @zapta in https://github.com/FPGAwars/apio/pull/344
+* Added to the gtkwave command a flag to disable the spalsh screen. by @zapta in https://github.com/FPGAwars/apio/pull/347
+* Fixing the apio time command. by @zapta in https://github.com/FPGAwars/apio/pull/349
+* Changed the default zoom of gtkwave from min to max. by @zapta in https://github.com/FPGAwars/apio/pull/350
+* Added an apio test command.  by @zapta in https://github.com/FPGAwars/apio/pull/352
+* Tweaking the verify command warnings. by @zapta in https://github.com/FPGAwars/apio/pull/353
+* Added the alias -h to the existing --help flag. by @zapta in https://github.com/FPGAwars/apio/pull/355
+* Added the 'apio graph' command which generates a svg graph of the verilog code. by @zapta in https://github.com/FPGAwars/apio/pull/356
+* Two minor fixes. Click command metavar and yosys graph command. by @zapta in https://github.com/FPGAwars/apio/pull/359
+* Undoing a previous change in the yosys graph generation command that was apparently unnecessary.  by @zapta in https://github.com/FPGAwars/apio/pull/360
 
 ## Version 0.8.4
 * **Date**: 2023-Oct-3
