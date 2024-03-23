@@ -38,6 +38,10 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.9.1
+* **Date**: 2024-March-22
+* **NOTE**: The top module name is now mandatory. It should be configured in the apio.ini file (or pass as an argument). The default module name used is `main`. Apio projects created with apio < 0.9.1 may not work unless the top-module is configured
+
 ## Version 0.8.4
 * **Date**: 2023-Oct-3
 * **NOTE**: Quick update release
