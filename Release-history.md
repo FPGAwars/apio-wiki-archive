@@ -42,6 +42,7 @@ Here you can find the **release notes** for the different versions of Apio
 ## Version 0.9.1
 * **Date**: 2024-March-22
 * **NOTE**: The top module name is now mandatory. It should be configured in the apio.ini file (or pass as an argument). The default module name used is `main`. Apio projects created with apio < 0.9.1 may not work unless the top-module is configured
+* **OSS-CAD-SUITE**: [Version 0.0.9](https://github.com/FPGAwars/tools-oss-cad-suite/releases/tag/v0.0.9). 3-Oct-2023. Yosys: 0.33+103. Nextpnr: 0.6-118. OpenFPGALoader: 0.11.0
 
 ## Version 0.8.4
 * **Date**: 2023-Oct-3
