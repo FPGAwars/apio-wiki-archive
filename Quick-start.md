@@ -366,7 +366,7 @@ The RGB LED should be changing its color!!
 
 ### Apio installation
 
-* Install **python3.7** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**  checkbox. Click on **Install Now**
+* Install **python3.9** or **higher** from here: [https://www.python.org/downloads/](https://www.python.org/downloads/). Download the installer, execute it. Check the **Add Python 3.9 to PATH**  checkbox. Click on **Install Now**
 
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-apio-00.png)
 
