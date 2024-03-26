@@ -40,19 +40,21 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
 
 ## Ubuntu 20.04
 
+### Requirements
+
+Apio needs **Python 3.9** or Higuer:
+
+```bash
+sudo apt install python3 python3-pip
+```
+Check the python version:
+
+```bash
+$ python3 --version
+Python 3.10.12
+```
+
 ### Apio installation
-
-* Install **python3** (Python 3.7 or Higher):
-
-```
-sudo apt install python3
-```
-
-* Install **pip3**:
-
-```
-sudo apt install python3-pip
-```
 
 * Install **apio**:
 
@@ -65,6 +67,7 @@ sudo pip3 install -U apio
 ```
 apio install -a
 ```
+
 ### Testing the Alhambra II board
 
 * Enable the **drivers** for this board:
