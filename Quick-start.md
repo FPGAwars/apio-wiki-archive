@@ -42,12 +42,13 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
 
 ### Requirements
 
-Apio needs **Python 3.9** or Higuer:
+* Install the dependencies
 
 ```
 sudo apt install python3 python3-pip
 ```
-Check the python version:
+
+Apio needs **Python 3.9** or Higuer. Check the python version:
 
 ```
 $ python3 --version
