@@ -48,7 +48,7 @@ Examples on how to go **from scratch** to the **Blinky LED** on different **FPGA
 sudo apt install python3 python3-pip
 ```
 
-Apio needs **Python 3.9** or Higuer. Check the python version:
+Apio needs **Python 3.9** or Higher. Check the python version:
 
 ```
 $ python3 --version
