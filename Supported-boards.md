@@ -1,4 +1,7 @@
-• Alchitry-Cu  (FPGA:iCE40-HX8K-CB132, ice40, hx, 8k, cb132)  
+| Board name | FPGA |Interface |
+|------------|------|----------|
+| • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
+  
 • Butterstick-r10-2g-85k  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)  
 • Butterstick-r10-2g-85k_(FT2232H)  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)  
 • Butterstick-r10-2g-85k_(FT232H)  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)  
@@ -94,7 +97,7 @@
 | [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) | GPIO RPi |
 | [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) | FTDI |
 | [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) | FTDI |
-| [Alchitry Cu](https://alchitry.com/boards/cu) | FTDI |
+|  | FTDI |
 | [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | Serial |
 | [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) | Serial |
 
