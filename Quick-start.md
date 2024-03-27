@@ -587,14 +587,14 @@ It will execute the application for installing the drivers. Once it is done, jus
 apio system --lsserial
 ```
 
-You should get an output similar to this (the COM8 may vary):
+You should get an output similar to this (the COM5 may vary):
 
 ```
-Number of Serial devices found: 1
+Number of Serial devices found: [{'port': 'COM5', 'description': 'Dispositivo serie USB (COM5)', 'hwid': 'USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-1'}]
 
-COM8
-Description: Dispositivo serie USB (COM8)
-Hardware info: USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-7.1.2
+COM5
+Description: Dispositivo serie USB (COM5)
+Hardware info: USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-1
 ```
 
 * Install the **blackiceprog** programmer
