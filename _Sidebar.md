@@ -6,7 +6,7 @@
 * [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)  
 * [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
 
-## Apio packages 
+## Features 
 * [Apio packages](https://github.com/FPGAwars/apio/wiki/Apio-packages)  
   * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)  
   * [Apio examples](https://github.com/FPGAwars/apio-examples)  
