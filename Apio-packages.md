@@ -17,7 +17,15 @@ These are the available packages
 | [drivers](https://github.com/FPGAwars/tools-drivers) | apio install drivers | Drivers tools (only for Windows)
 | [gtkwave](https://github.com/FPGAwars/tool-gtkwave) | apio install gtkwave | Simulation viewer. [GTKWave project](http://gtkwave.sourceforge.net) (only for Windows) 
 
-# The OSS-CAD-SUITE package
+# Listing all the packages
+
+All the available/installed packages are shown with this command:
+
+```
+apio install -l
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-packages/apio-install-list.png)  
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
