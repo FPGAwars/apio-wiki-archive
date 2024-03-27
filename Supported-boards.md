@@ -1,10 +1,9 @@
 | Board name | FPGA |Interface |
 |------------|------|----------|
 | • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
-  
-• Butterstick-r10-2g-85k  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)  
-• Butterstick-r10-2g-85k_(FT2232H)  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)  
-• Butterstick-r10-2g-85k_(FT232H)  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)  
+| • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
+
+
 • Cat-board  (FPGA:iCE40-HX8K-CT256, ice40, hx, 8k, ct256)  
 • ColorLight-5A-75B-V61  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)  
 • ColorLight-5A-75B-V7  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)  
@@ -130,7 +129,7 @@
 | Board name | Interface |
 |:-|:-:|
 | [OrangeCrab r0.2](https://github.com/orangecrab-fpga/orangecrab-hardware) | DFU |
-| [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | DFU |
+|  | DFU |
 | [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX) | Serial |
 | [TinyFPGA-EX-rev2](https://www.crowdsupply.com/tinyfpga/tinyfpga-ex) | Serial |
 | [ULX3S-12F](https://radiona.org/ulx3s/) | Ujprog |
