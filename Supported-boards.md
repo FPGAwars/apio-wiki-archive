@@ -17,8 +17,8 @@
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 | • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
+| • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 
-• TinyFPGA-BX  (FPGA:iCE40-LP8K-CM81, ice40, lp, 8k, cm81)
 • TinyFPGA-EX-rev1  (FPGA:ECP5-LFE5U-85F-CSFBGA285, ecp5, 85k, 85k, CSFBGA285)
 • TinyFPGA-EX-rev2  (FPGA:ECP5-LFE5UM5G-85F-CSFBGA285, ecp5, um5g-85k, 85k, CSFBGA285)
 • alhambra-ii  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
