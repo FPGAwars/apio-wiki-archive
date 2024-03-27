@@ -655,6 +655,7 @@ COM12
 Description: USB Serial Port (COM12)
 Hardware info: USB VID:PID=0403:6015 SER=K00102A
 ```
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Quick-start/win10-ulx3s-12F-01.png)  
 
 * **Download** the Blinky example for the **ULX3S-12F** board:
 
