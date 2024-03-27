@@ -14,10 +14,9 @@
 | • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-12F-CABGA256 | FT2232H |  
 | • [ECP5-Mini-25](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-25F-CABGA256 | FT2232H |
 | • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
+| • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 
 
-
-• OK-iCE40Pro  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • ThetaMachines-ETH4K  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
 • TinyFPGA-B2  (FPGA:iCE40-LP8K-CM81, ice40, lp, 8k, cm81)
 • TinyFPGA-BX  (FPGA:iCE40-LP8K-CM81, ice40, lp, 8k, cm81)
@@ -115,7 +114,7 @@
 | [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | FTDI |
 | [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | FTDI |
 | [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md)  | FTDI |
-| [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro)  | FTDI |
+|   | FTDI |
 | [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice)  | DFU |
 
 # ECP5
