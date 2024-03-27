@@ -12,12 +12,11 @@
 | • [ColorLight-i9-v7.2](https://github.com/wuxx/Colorlight-FPGA-Projects) |  ECP5-LFE5U-45F-CABGA381 | FT2232H, FT232H,  USB-Blaster |
 | • [ECP5-Evaluation-Board](https://www.latticesemi.com/products/developmentboardsandkits/ecp5evaluationboard)  | ECP5-LFE5UM5G-85F-CABGA381 |  FT2232H |
 | • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-12F-CABGA256 | FT2232H |  
+| • [ECP5-Mini-25](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-25F-CABGA256 | FT2232H |
+| • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 
 
-• ECP5-Mini-25  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
-• FleaFPGA-Ohm_(FT2232H)  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
-• FleaFPGA-Ohm_(FT232H)  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
-• FleaFPGA-Ohm_(USB-Blaster)  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
+
 • OK-iCE40Pro  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • ThetaMachines-ETH4K  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
 • TinyFPGA-B2  (FPGA:iCE40-LP8K-CM81, ice40, lp, 8k, cm81)
