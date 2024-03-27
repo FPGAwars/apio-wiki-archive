@@ -496,6 +496,8 @@ Description: Dispositivo serie USB (COM3)
 Hardware info: USB VID:PID=1D50:6130 SER= LOCATION=1-1
 ```
 
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Quick-start/win10-TinyFPGA-BX-03.png)  
+
 * Install the **tinyprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
 
 ```
