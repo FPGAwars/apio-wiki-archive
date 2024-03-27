@@ -671,7 +671,7 @@ The blue LED (LED7) is blinking!!
 
 ### Testing the Fomu board
 
-* You do not need to install any driver if you in Windows 10 or later. For checking that the board is detected, plug it and execute this command:
+* You do not need to install any driver if you are in Windows 10 or later. For checking that the board is detected, plug it and execute this command:
 
 ```
 apio raw "dfu-util -l"
