@@ -677,8 +677,6 @@ apio upload
 
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-ulx3s-12F-02.png)
 
-![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/win10-ulx3s-12F-03.png)
-
 The blue LED (LED7) is blinking!!
 
 **NOTE**: If you get the error `Cannot find JTAG cable`, please check this [troubleshooting section for ulx3s on Windows 10](https://github.com/FPGAwars/apio/wiki/Quick-start#i-get-the-error-cannot-find-jtag-cable)
