@@ -7,6 +7,7 @@
 * [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
 
 ## Features 
+* [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
 * [Apio packages](https://github.com/FPGAwars/apio/wiki/Apio-packages)  
   * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)  
   * [Apio examples](https://github.com/FPGAwars/apio-examples)  
