@@ -7,7 +7,7 @@
 | [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) | FTDI |
 | [iCEblink40-HX1K](http://www.latticesemi.com/iCEblink40-HX1K) | Digilent Adept |
 
-#### HX8K
+# HX8K
 
 | Board name | Interface |
 |:-|:-:|
@@ -23,14 +23,14 @@
 | [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | Serial |
 | [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) | Serial |
 
-#### LP8K
+# LP8K
 
 | Board name | Interface |
 |:-|:-:|
 | [TinyFPGA B2](https://tinyfpga.com/b-series-guide.html) | Serial |
 | [TinyFPGA BX](https://tinyfpga.com/bx/guide.html) | Serial |
 
-#### UP5K
+# UP5K
 
 | Board name | Interface |
 |:-|:-:|
@@ -48,7 +48,7 @@
 | [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro)  | FTDI |
 | [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice)  | DFU |
 
-#### ECP5
+# ECP5
 | Board name | Interface |
 |:-|:-:|
 | [OrangeCrab r0.2](https://github.com/orangecrab-fpga/orangecrab-hardware) | DFU |
@@ -70,7 +70,7 @@
 | [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 | [ECP5-Evaluation-Board](https://www.latticesemi.com/products/developmentboardsandkits/ecp5evaluationboard)| FT2232H |
 
-#### LP1K
+# LP1K
 
 | Board name | Interface |
 |:-|:-:|
