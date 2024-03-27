@@ -597,6 +597,8 @@ Description: Dispositivo serie USB (COM5)
 Hardware info: USB VID:PID=0483:5740 SER=00000000001A LOCATION=1-1
 ```
 
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Quick-start/win10-Blackice-02.png)  
+
 * Install the **blackiceprog** programmer
 
 ```
