@@ -256,12 +256,6 @@ The blue LED (LED1) is blinking!!
 
 * **Note**: This example is for ULX3S-12F. Nevertheless all these steps can be applied to the other models just by **changing** the **12F sufix** for **85F** or **45F**
 
-* Install the programmer for the ULX3S board:
-
-```
-apio install fujprog
-```
-
 * Enable the **drivers** for this board:
 
 ```
@@ -291,12 +285,6 @@ The LED7 (Blue) is blinking!!
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/apio-ulx3-01.gif)
 
 ### Testing the Fomu board
-
-* **Install the programmer** for the Fomu board:
-
-```
-apio install dfu
-```
 
 * Enable the **drivers** for this board:
 
@@ -682,12 +670,6 @@ The blue LED (LED7) is blinking!!
 **NOTE**: If you get the error `Cannot find JTAG cable`, please check this [troubleshooting section for ulx3s on Windows 10](https://github.com/FPGAwars/apio/wiki/Quick-start#i-get-the-error-cannot-find-jtag-cable)
 
 ### Testing the Fomu board
-
-* **Install the programmer** for the Fomu board:
-
-```
-apio install dfu
-```
 
 * You do not need to install any driver if you in Windows 10 or later. For checking that the board is detected, plug it and execute this command:
 
