@@ -4,10 +4,9 @@
 | • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
 | • [CAT Board](https://hackaday.io/project/7982-cat-board) |  iCE40-HX8K-CT256 | GPIO RPi |
 | • [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)  | ECP5-LFE5U-25F-CABGA381 | FT2232H |
-  
-• ColorLight-5A-75B-V7  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)  
-• ColorLight-5A-75B-V8  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)  
-• ColorLight-5A-75E-V6  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)  
+| • [ColorLight-5A-75B-V7](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
+| • [ColorLight-5A-75B-V8](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
+| • [ColorLight-5A-75E-V6](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 • ColorLight-5A-75E-V71_(FT2232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
 • ColorLight-5A-75E-V71_(FT232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
 • ColorLight-5A-75E-V71_(USB-Blaster)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
@@ -137,9 +136,9 @@
 | [ULX3S-85F](https://radiona.org/ulx3s/) | Ujprog |
 | [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
 | [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)| FT2232H |
-| [ColorLight-5A-75B-V7](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md)| FT2232H |
-| [ColorLight-5A-75B-V8](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md)| FT2232H |
-| [ColorLight-5A-75E-V6](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md)| FT2232H |
+| | FT2232H |
+| | FT2232H |
+| | FT2232H |
 | [ColorLight-5A-75E-V71](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md)| FT2232H, FT232H or USB-Blaster |
 | [ColorLight-i5-v7.0](https://github.com/wuxx/Colorlight-FPGA-Projects)| FT2232H, FT232H or USB-Blaster |
 | [iCESugar-Pro](https://github.com/wuxx/icesugar-pro)| FT2232H, FT232H or USB-Blaster |
