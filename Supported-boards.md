@@ -2,9 +2,10 @@
 |------------|------|----------|
 | • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
 | • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
+| • [CAT Board](https://hackaday.io/project/7982-cat-board) |  iCE40-HX8K-CT256 | GPIO RPi |
 
 
-• Cat-board  (FPGA:iCE40-HX8K-CT256, ice40, hx, 8k, ct256)  
+  
 • ColorLight-5A-75B-V61  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)  
 • ColorLight-5A-75B-V7  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)  
 • ColorLight-5A-75B-V8  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)  
@@ -92,7 +93,7 @@
 | [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) | Serial |
 | [BlackIce II](https://github.com/mystorm-org/BlackIce-II) | Serial |
 | [Blackice-mx](https://www.tindie.com/products/Folknology/blackice-mx/) | Serial |
-| [CAT Board](https://hackaday.io/project/7982-cat-board) | GPIO RPi |
+|  | GPIO RPi |
 | [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) | GPIO RPi |
 | [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) | FTDI |
 | [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) | FTDI |
