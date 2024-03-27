@@ -631,12 +631,6 @@ The blue LED (LED1) is blinking!!
 
 * **Note**: This example is for ULX3S-12F. Nevertheless all these steps can be applied to the other models just by **changing** the **12F sufix** for **85F** or **45F**
 
-* Install the programmer for the ULX3S board:
-
-```
-apio install fujprog
-```
-
 * Enable the **drivers** for this board:
 
 ```
