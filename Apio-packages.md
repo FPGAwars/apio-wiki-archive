@@ -4,7 +4,11 @@
 
 The main goal of Apio is to **simplify** the work with open source FPGAs. All the toolchains needed have been packaged into several **apio packages** that can be easily installed, in all the platforms, using the **apio install** command
 
+Each **apio package** contains all the executable and data files needed into a compressed file (.zip or .tar.gz). These packages are built  automatically or manually. Each package is stored in its own repo in the FPGAwars organization
+
 # Apio packages
+
+These are the available packages
 
 | Package | Installation   | Description
 |---------|----------------|---------------
