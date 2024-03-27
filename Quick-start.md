@@ -486,7 +486,7 @@ It will execute the application for installing the drivers. Once it is done, jus
 apio system --lsserial
 ```
 
-You should get an output similar to this (the COM8 may vary):
+You should get an output similar to this (the COM3 may vary):
 
 ```
 Number of Serial devices found: [{'port': 'COM3', 'description': 'Dispositivo serie USB (COM3)', 'hwid': 'USB VID:PID=1D50:6130 SER= LOCATION=1-1'}]
