@@ -696,9 +696,9 @@ cd fomu/Blinky
 apio upload
 ```
 
-The RGB LED should be blinking!!
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Quick-start/win10-fomu-02.png)  
 
-TODO: animated gif with the result
+The RGB LED should be blinking!!
 
 ## MacOS Catalina (10.15.7)
 
