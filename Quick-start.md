@@ -489,11 +489,11 @@ apio system --lsserial
 You should get an output similar to this (the COM8 may vary):
 
 ```
-Number of Serial devices found: 1
+Number of Serial devices found: [{'port': 'COM3', 'description': 'Dispositivo serie USB (COM3)', 'hwid': 'USB VID:PID=1D50:6130 SER= LOCATION=1-1'}]
 
-COM14
-Description: Dispositivo serie USB (COM14)
-Hardware info: USB VID:PID=1D50:6130 SER=7 LOCATION=1-7.1.4
+COM3
+Description: Dispositivo serie USB (COM3)
+Hardware info: USB VID:PID=1D50:6130 SER= LOCATION=1-1
 ```
 
 * Install the **tinyprog** programmer. It is a python application that can be installed with pip (an apio package is not necesary)
