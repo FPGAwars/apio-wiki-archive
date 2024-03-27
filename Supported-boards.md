@@ -117,7 +117,6 @@
 | Board name | Interface |
 |:-|:-:|
 | [OrangeCrab r0.2](https://github.com/orangecrab-fpga/orangecrab-hardware) | DFU |
-|  | DFU |
 | [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX) | Serial |
 | [TinyFPGA-EX-rev2](https://www.crowdsupply.com/tinyfpga/tinyfpga-ex) | Serial |
 | [ULX3S-12F](https://radiona.org/ulx3s/) | Ujprog |
@@ -126,8 +125,6 @@
 | [ULX3S-85F](https://radiona.org/ulx3s/) | Ujprog |
 | [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
 | [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)| FT2232H |
-| | FT2232H, FT232H or USB-Blaster |
-| | FT2232H, FT232H or USB-Blaster |
 | [iCESugar-Pro](https://github.com/wuxx/icesugar-pro)| FT2232H, FT232H or USB-Blaster |
 | [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 
