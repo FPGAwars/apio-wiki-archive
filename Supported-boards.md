@@ -8,14 +8,10 @@
 | • [ColorLight-5A-75B-V8](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 | • [ColorLight-5A-75E-V6](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 | • [ColorLight-5A-75E-V71](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H, FT232H,  USB-Blaster |
+| • [ColorLight-i5-v7.0](https://github.com/wuxx/Colorlight-FPGA-Projects) |  ECP5-LFE5U-25F-CABGA381 | FT2232H, FT232H,  USB-Blaster |
+| • [ColorLight-i9-v7.2](https://github.com/wuxx/Colorlight-FPGA-Projects) |  ECP5-LFE5U-45F-CABGA381 | FT2232H, FT232H,  USB-Blaster |
 
- 
-• ColorLight-i5-v7.0_(FT2232H)  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
-• ColorLight-i5-v7.0_(FT232H)  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
-• ColorLight-i5-v7.0_(USB-Blaster)  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
-• ColorLight-i9-v7.2_(FT2232H)  (FPGA:ECP5-LFE5U-45F-CABGA381, ecp5, 45k, 45k, CABGA381)
-• ColorLight-i9-v7.2_(FT232H)  (FPGA:ECP5-LFE5U-45F-CABGA381, ecp5, 45k, 45k, CABGA381)
-• ColorLight-i9-v7.2_(USB-Blaster)  (FPGA:ECP5-LFE5U-45F-CABGA381, ecp5, 45k, 45k, CABGA381)
+
 • ECP5-Evaluation-Board  (FPGA:ECP5-LFE5UM5G-85F-CABGA381, ecp5, um5g-85k, 85k, CABGA381)
 • ECP5-Mini-12  (FPGA:ECP5-LFE5U-12F-CABGA256, ecp5, 12k, 12k, CABGA256)
 • ECP5-Mini-25  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
@@ -140,7 +136,7 @@
 | | FT2232H |
 | | FT2232H |
 | | FT2232H, FT232H or USB-Blaster |
-| [ColorLight-i5-v7.0](https://github.com/wuxx/Colorlight-FPGA-Projects)| FT2232H, FT232H or USB-Blaster |
+| | FT2232H, FT232H or USB-Blaster |
 | [iCESugar-Pro](https://github.com/wuxx/icesugar-pro)| FT2232H, FT232H or USB-Blaster |
 | [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 | [ECP5-Evaluation-Board](https://www.latticesemi.com/products/developmentboardsandkits/ecp5evaluationboard)| FT2232H |
