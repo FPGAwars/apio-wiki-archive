@@ -676,8 +676,7 @@ The blue LED (LED7) is blinking!!
 ```
 apio raw "dfu-util -l"
 ```
-
-**TODO**: Screenshot with the output when the fomu is connected
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Quick-start/win10-fomu-01.png)  
 
 * **Download** the Blinky example for the **fomu** FPGA board:
 
