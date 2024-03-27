@@ -83,11 +83,9 @@
 | [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) | Serial |
 | [BlackIce II](https://github.com/mystorm-org/BlackIce-II) | Serial |
 | [Blackice-mx](https://www.tindie.com/products/Folknology/blackice-mx/) | Serial |
-|  | GPIO RPi |
 | [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) | GPIO RPi |
 | [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) | FTDI |
 | [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) | FTDI |
-|  | FTDI |
 | [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | Serial |
 | [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) | Serial |
 
@@ -113,7 +111,6 @@
 | [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | FTDI |
 | [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | FTDI |
 | [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md)  | FTDI |
-|   | FTDI |
 | [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice)  | DFU |
 
 # ECP5
@@ -129,14 +126,10 @@
 | [ULX3S-85F](https://radiona.org/ulx3s/) | Ujprog |
 | [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
 | [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)| FT2232H |
-| | FT2232H |
-| | FT2232H |
-| | FT2232H |
 | | FT2232H, FT232H or USB-Blaster |
 | | FT2232H, FT232H or USB-Blaster |
 | [iCESugar-Pro](https://github.com/wuxx/icesugar-pro)| FT2232H, FT232H or USB-Blaster |
 | [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
-| 
 
 # LP1K
 
