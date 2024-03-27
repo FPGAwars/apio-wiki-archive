@@ -18,9 +18,10 @@
 | • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 | • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
+| • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
+| • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 
-• TinyFPGA-EX-rev1  (FPGA:ECP5-LFE5U-85F-CSFBGA285, ecp5, 85k, 85k, CSFBGA285)
-• TinyFPGA-EX-rev2  (FPGA:ECP5-LFE5UM5G-85F-CSFBGA285, ecp5, um5g-85k, 85k, CSFBGA285)
+
 • alhambra-ii  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
 • arice1  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • blackice  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
@@ -89,12 +90,6 @@
 | [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | Serial |
 | [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) | Serial |
 
-# LP8K
-
-| Board name | Interface |
-|:-|:-:|
-| [TinyFPGA B2](https://tinyfpga.com/b-series-guide.html) | Serial |
-| [TinyFPGA BX](https://tinyfpga.com/bx/guide.html) | Serial |
 
 # UP5K
 
@@ -117,8 +112,6 @@
 | Board name | Interface |
 |:-|:-:|
 | [OrangeCrab r0.2](https://github.com/orangecrab-fpga/orangecrab-hardware) | DFU |
-| [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX) | Serial |
-| [TinyFPGA-EX-rev2](https://www.crowdsupply.com/tinyfpga/tinyfpga-ex) | Serial |
 | [ULX3S-12F](https://radiona.org/ulx3s/) | Ujprog |
 | [ULX3S-25F](https://radiona.org/ulx3s/) | Ujprog |
 | [ULX3S-45F](https://radiona.org/ulx3s/) | Ujprog |
