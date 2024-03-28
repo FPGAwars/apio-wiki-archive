@@ -20,7 +20,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-i9-v7.2.jpg)| • [ColorLight-i9-v7.2](https://github.com/wuxx/Colorlight-FPGA-Projects) |  ECP5-LFE5U-45F-CABGA381 | FT2232H, FT232H,  USB-Blaster |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ECP5-Evaluation-Board.jpg)| • [ECP5-Evaluation-Board](https://www.latticesemi.com/products/developmentboardsandkits/ecp5evaluationboard)  | ECP5-LFE5UM5G-85F-CABGA381 |  FT2232H |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ECP5-Mini-12.jpg)| • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-12F-CABGA256 | FT2232H |  
-|| • [ECP5-Mini-25](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-25F-CABGA256 | FT2232H |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ECP5-Mini-12.jpg)| • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)| • [ECP5-Mini-25](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-25F-CABGA256 | FT2232H |
 || • [Edu-ciaa-fpga](https://gitlab.com/RamadrianG/wiki---fpga-para-todos/-/wikis/FPGA-para-Todos) | iCE40-HX4K-TQ144 | FTDI |
 || • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 || • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
