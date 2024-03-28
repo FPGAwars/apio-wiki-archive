@@ -22,13 +22,36 @@ Manage apio projects. In addition to the code, an apio project may include a con
 | ---- | --------- | ----------- |
 | `-s` | `--scons` | Create a default SConstruct file. This file can be modified and it will be used instead of the default script |
 | `-b` | `--board`  | Create a configuration file with the selected board. This will be the default board used by the commands `build`, `upload` and others |
+| `-t` | `--top-module` | Set the top_module in the init file |
 | `-p` | `--project-dir` | Set the target directory for the project |
 | `-y` | `--sayyes`  | Automatically answer YES to all the questions |
 
 
 # Examples
 
-## 1. Create a SConstruct file
+## 1. Create an apio.ini file for the Alhambra II board
+
+```bash
+apio init --board alhambra-ii
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-init-01.png) 
+
+The default name for the **top module** is `main`
+This is the content of the `apio.ini` file created:
+
+
+
+
+## 2. Create an apio.ini file for the icebreaker board and the top module leds
+
+```toml
+[env]
+board = iCEBreaker
+top-module = leds
+```
+
+## 3. Create an SConstruct file
 
 ```bash
 apio init --scons
@@ -36,12 +59,7 @@ apio init --scons
 
 ![]()  
 
-## 2. Create an apio.ini file with the icezum board
 
-```bash
-```
-
-![]() 
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
