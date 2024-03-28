@@ -18,26 +18,7 @@ apio install [OPTIONS] [PACKAGES]
 | Flag | Long Flag | Description |
 | ---- | --------- | ----------- |
 | `-a` | `--all`   | Install all packages |
-
-
-
-
-
-.. option::
-    -l, --list
-
-List all available packages.
-
-.. option::
-    -f, --force
-
-Force the packages installation.
-
-.. option::
-    -p, --platform
-
-    Set the platform [linux, linux_x86_64, linux_i686, linux_armv7l, linux_aarch64, windows, windows_amd64, windows_x86, darwin] (Advanced).
-
-
-
+| `-l` | `--list`  | List all available packages |
+| `-f` | `--force` | Force the packages installation |
+| `-p` | `--platform` | Set the platform [linux, linux_x86_64, linux_i686, linux_armv7l, linux_aarch64, windows, windows_amd64, windows_x86, darwin] (Advanced) |
 
