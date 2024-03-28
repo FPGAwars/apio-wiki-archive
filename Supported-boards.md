@@ -1,3 +1,5 @@
+* **Supported boards in Apio**
+
 | Board name | FPGA |Interface |
 |------------|------|----------|
 | • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
