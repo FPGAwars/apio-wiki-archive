@@ -85,7 +85,13 @@ apio install drivers --platform windows_amd64
 
 # Folders
 
+The **apio home** folder by default is `.apio`, located in the **user home folder**. The full path depends on the operating system and the user who installed apio
+* Ex. in Linux: `/home/obijuan/.apio`
+* Ex. in Windows: `` (TODO)
 
+The packages are installed in the `packages` folder, inside the **apio home** folder
+* Ex. in Linux: `/home/obijuan/.apio/packages`
+* Ex. in Windows: `` (TODO)
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
