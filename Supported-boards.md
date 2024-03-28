@@ -67,7 +67,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v2.1.jpg)| • [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | iCE40-UP5K-SG48 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v3.0.jpg)| • [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)  | iCE40-UP5K-SG48 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v3.1.jpg)| • [UPDuino v3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | iCE40-UP5K-SG48 | FTDI |
-|| • [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) |  ECP5-LFE5UM-45F-CABGA381 | FTDI |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Versa.jpg)| • [Versa](https://www.latticesemi.com/view_document?document_id=50996) |  ECP5-LFE5UM-45F-CABGA381 | FTDI |
 || • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | FT2232H, FT232H or USB-Blaster |
 
 * **Total**: 60 boards
