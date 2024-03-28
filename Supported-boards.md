@@ -61,5 +61,4 @@
 | • [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) |  ECP5-LFE5UM-45F-CABGA381 | FTDI |
 | • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | FT2232H, FT232H or USB-Blaster |
 
-
-NOTE: all supported [Icestorm FPGAs](http://www.clifford.at/icestorm/) can be used with [--fpga or --size, --type and --pack options](http://apiodoc.readthedocs.io/en/develop/source/user_guide/project_commands/cmd_build.html#options).
+* **Total**: 60 boards
