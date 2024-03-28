@@ -1,8 +1,8 @@
 # Support a new board
 
-In order to support a new board based on **FPGA Lattice iCE40 family**, follow these steps:
+In order to support a new board follow these steps:
 
-1. **Find your FPGA name** in `fpgas.json <https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json>`. This file contains all FPGAs supported by the `Icestorm <http://www.clifford.at/icestorm>` project.
+1. **Find your FPGA name** in the [apio/resources/fpgas.json] file. It contains all FPGAs supported by the `Icestorm <http://www.clifford.at/icestorm>` project.
 
 ```json
 "iCE40-HX1K-TQ144": {
