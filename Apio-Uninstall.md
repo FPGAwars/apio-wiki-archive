@@ -46,5 +46,11 @@ apio uninstall examples
 
 ## 2. Uninstall the drivers package for windows in a linux platform
 
+```bash
+apio uninstall drivers --platform windows_amd64
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-uninstall-02.png)  
+
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
