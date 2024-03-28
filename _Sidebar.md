@@ -11,11 +11,16 @@
 * [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
 
 ## Apio commands
+* apio
+* **Project Commands**:
+TODO
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
   * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
   * [apio drivers](https://github.com/FPGAwars/apio/wiki/Apio-drivers)  
   * [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)  
+* **Utility Commands**:
+TODO
 
 ## Apio examples
 * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
