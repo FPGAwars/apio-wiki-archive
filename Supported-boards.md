@@ -39,9 +39,7 @@
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 
 
-• iCESugar-Pro_(FT2232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
-• iCESugar-Pro_(FT232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
-• iCESugar-Pro_(USB-Blaster)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
+
 • iCESugar-nano  (FPGA:iCE40-LP1K-CM36, ice40, lp, 1k, cm36)
 • iCESugar_1_5  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iceWerx  (FPGA:iCE40-HX8K-CB132, ice40, hx, 8k, cb132)
@@ -107,7 +105,6 @@
 | [ULX3S-45F](https://radiona.org/ulx3s/) | Ujprog |
 | [ULX3S-85F](https://radiona.org/ulx3s/) | Ujprog |
 | [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
-| [iCESugar-Pro](https://github.com/wuxx/icesugar-pro)| FT2232H, FT232H or USB-Blaster |
 | [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 
 # LP1K
