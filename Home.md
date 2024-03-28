@@ -15,15 +15,10 @@
 * **Development**
   * [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)  
   * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
-* Adding examples
+  * [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
+* **Adding examples**
   * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)  
   * [The apio-example package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package)
-* Apio Packages
-  * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki): All the opensource tools fro the [YosysHQ/oss cad suite](https://github.com/YosysHQ/oss-cad-suite-build) project
-  * [Apio examples](https://github.com/FPGAwars/apio-examples): Examples for the different boards supported in Apio
-  * **Only Windows**:
-    * [Tools-drivers](https://github.com/FPGAwars/tools-drivers): FPGA drivers for windows (Zadig and Virtual Serial)
-    * [Gtkwave](https://github.com/FPGAwars/tool-gtkwave): Wave viewer. Package for windows  
 
 # Tutorial: Introduction to FPGA
 
