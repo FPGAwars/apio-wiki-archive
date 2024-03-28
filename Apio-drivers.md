@@ -10,12 +10,22 @@
 # Usage
 
 ```bash
-apio uninstall [OPTIONS] [PACKAGES]
+apio drivers [OPTIONS]
 ```
 
 # Description
 
-Uninstall packages. Before uninstalling a package, a confirmation is requested.
+Enable/Disable the FTDI drivers.
+
+* Linux: add the rules file. It may require a reboot or to uplug and reconnect the board.
+* Mac OSX: configure FTDIUSBSerialDriver and AppleUSBFTDI keys and install libftdi.
+* Windows: open zadig to replace the current driver by libusbK. It requires to uplug and reconnect the board.
+
+This command requires the ``drivers`` package (only for Windows).
+
+> [!NOTE]
+> More information in (`install_drivers`) (TODO)
+
 
 # Options
 
