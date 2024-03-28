@@ -72,6 +72,15 @@ The packages are only installed if they are not in the latest version
 
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-04.png)  
 
+## 5. Install the drivers package for windows in a linux platform
+
+This is usually done by the developers, to test if the correct package is downloaded
+
+```bash
+apio install drivers --platform windows_amd64
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-05.png)  
 
 
 -------
