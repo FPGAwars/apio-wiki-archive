@@ -43,4 +43,11 @@ apio install oss-cad-suite examples
 ```
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-01.png)  
 
+2. Install ``oss-cad-suite`` package version 0.0.8
+
+```bash
+apio install oss-cad-suite@0.0.8
+```
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-02.png)  
+
 
