@@ -68,7 +68,9 @@ top-module = leds
 apio init --scons
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-03.png)  
+
+This commands is used by developers for testing new SConstruct files, or by the users who wants to edit/modify the default SConstruct file
 
 
 
