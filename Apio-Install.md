@@ -1,6 +1,7 @@
 # Contents
   * [Usage](#usage)  
-  * [Description](#description)
+  * [Description](#description)  
+  * [Options](#options)
 
 
 # Usage
