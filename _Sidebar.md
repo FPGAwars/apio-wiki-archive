@@ -15,6 +15,8 @@
 * [The apio-examples package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package): Adding examples  
 
 ## Apio commands
+
+### Setup commands
 TODO  
 
 ## Apio packages
