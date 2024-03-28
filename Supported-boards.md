@@ -1,4 +1,5 @@
-* **Supported boards in Apio**
+**Supported boards in Apio**
+
 
 | Board name | FPGA |Interface |
 |------------|------|----------|
