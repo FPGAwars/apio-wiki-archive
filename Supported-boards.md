@@ -51,7 +51,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Olimex-iCE40-HX1K-EVB.jpg)| • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Olimex-iCE40-HX8K-EVB.jpg)| • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/OrangeCrab-r0.2-25F.jpg)| • [OrangeCrab r0.2 25F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-25F-CSFBGA285 | DFU |
-|| • [OrangeCrab r0.2 85F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-85F-CSFBGA285 | DFU |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/OrangeCrab-r0.2-85F.jpg)| • [OrangeCrab r0.2 85F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-85F-CSFBGA285 | DFU |
 || • [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice) | iCE40-UP5K-SG48 | DFU |
 || • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 || • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
