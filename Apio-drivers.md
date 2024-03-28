@@ -47,6 +47,7 @@ apio drivers --ftdi-enable
 ## 2. Disable the FTDI drivers on Linux
 
 ```bash
+apio drivers --ftdi-disable
 ```
 
 ![]()  
@@ -54,6 +55,7 @@ apio drivers --ftdi-enable
 ## 3. Enable the Serial drivers on Linux
 
 ```bash
+apio drivers --serial-enable
 ```
 
 ![]()  
@@ -61,6 +63,7 @@ apio drivers --ftdi-enable
 ## 4. Disable the Serial drivers on Linux
 
 ```bash
+apio drivers --serial-disable
 ```
 
 ![]() 
