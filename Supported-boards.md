@@ -64,7 +64,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ULX3S-12F.jpg)| • [ULX3S-85F](https://radiona.org/ulx3s/) | ECP5-LFE5U-85F-CABGA381 | Ujprog |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v1.0.jpg)| • [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino)  | iCE40-UP5K-SG48 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v2.0.jpg)| • [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2)  | iCE40-UP5K-SG48 | FTDI |
-|| • [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | iCE40-UP5K-SG48 | FTDI |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v2.1.jpg)| • [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | iCE40-UP5K-SG48 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/UPDuino-v3.0.jpg)| • [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)  | iCE40-UP5K-SG48 | FTDI |
 || • [UPDuino v3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | iCE40-UP5K-SG48 | FTDI |
 || • [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) |  ECP5-LFE5UM-45F-CABGA381 | FTDI |
