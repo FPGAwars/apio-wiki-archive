@@ -4,8 +4,7 @@ In order to support a new board follow these steps:
 
 1. Make sure your board (or FPGA) is supported by the [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build)
 
-2. **Find or add your FPGA name** in the [fpgas.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json) file
-
+2. **Find or add your FPGA name** in the [fpgas.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json) file  
 Ex:
 
 ```json
