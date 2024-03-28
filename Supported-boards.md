@@ -1,4 +1,10 @@
-**Supported boards in Apio:**
+[![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
+
+------
+
+![](https://github.com/FPGAwars/iceK/raw/main/wiki/images/intro-00.jpg)  
+
+# Supported boards in Apio:
 
 
 |Picture | Board | FPGA |Interface |
