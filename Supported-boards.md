@@ -58,10 +58,10 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/TinyFPGA-BX.jpg)| • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/TinyFPGA-EX-rev1.jpg)| • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/TinyFPGA-EX-rev1.jpg)| • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
-|| • [ULX3S-12F](https://radiona.org/ulx3s/) | ECP5-LFE5U-12F-CABGA381 | Ujprog |
-|| • [ULX3S-25F](https://radiona.org/ulx3s/) | ECP5-LFE5U-25F-CABGA381 | Ujprog |
-|| • [ULX3S-45F](https://radiona.org/ulx3s/) | ECP5-LFE5U-45F-CABGA381 | Ujprog |
-|| • [ULX3S-85F](https://radiona.org/ulx3s/) | ECP5-LFE5U-85F-CABGA381 | Ujprog |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ULX3S-12F.jpg)| • [ULX3S-12F](https://radiona.org/ulx3s/) | ECP5-LFE5U-12F-CABGA381 | Ujprog |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ULX3S-12F.jpg)| • [ULX3S-25F](https://radiona.org/ulx3s/) | ECP5-LFE5U-25F-CABGA381 | Ujprog |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ULX3S-12F.jpg)| • [ULX3S-45F](https://radiona.org/ulx3s/) | ECP5-LFE5U-45F-CABGA381 | Ujprog |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ULX3S-12F.jpg)| • [ULX3S-85F](https://radiona.org/ulx3s/) | ECP5-LFE5U-85F-CABGA381 | Ujprog |
 || • [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino)  | iCE40-UP5K-SG48 | FTDI |
 || • [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2)  | iCE40-UP5K-SG48 | FTDI |
 || • [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | iCE40-UP5K-SG48 | FTDI |
