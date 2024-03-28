@@ -41,6 +41,8 @@
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
+| • [OrangeCrab r0.2 25F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-25F-CSFBGA285 | DFU |
+| • [OrangeCrab r0.2 85F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-85F-CSFBGA285 | DFU |
 | • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 | • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
@@ -48,8 +50,7 @@
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 
 
-• orangecrab-r02-25f  (FPGA:ECP5-LFE5U-25F-CSFBGA285, ecp5, 25k, 25k, CSFBGA285)
-• orangecrab-r02-85f  (FPGA:ECP5-LFE5U-85F-CSFBGA285, ecp5, 85k, 85k, CSFBGA285)
+
 • pico-ice  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • ulx3s-12f  (FPGA:ECP5-LFE5U-12F-CABGA381, ecp5, 12k, 12k, CABGA381)
 • ulx3s-25f  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
@@ -76,7 +77,6 @@
 # ECP5
 | Board name | Interface |
 |:-|:-:|
-| [OrangeCrab r0.2](https://github.com/orangecrab-fpga/orangecrab-hardware) | DFU |
 | [ULX3S-12F](https://radiona.org/ulx3s/) | Ujprog |
 | [ULX3S-25F](https://radiona.org/ulx3s/) | Ujprog |
 | [ULX3S-45F](https://radiona.org/ulx3s/) | Ujprog |
