@@ -25,7 +25,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/FleaFPGA-Ohm.jpg)| • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/fomu.jpg)| • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/FPGA101-workshop-badge.jpg)| • [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge)  | iCE40-UP5K-SG48 | FTDI |
-|| • [Go-board](https://www.nandland.com/goboard/introduction.html) | iCE40-HX1K-VQ100 | FTDI |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Go-board.jpg)| • [Go-board](https://www.nandland.com/goboard/introduction.html) | iCE40-HX1K-VQ100 | FTDI |
 || • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |
 || • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 || • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
