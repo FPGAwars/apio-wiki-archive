@@ -28,7 +28,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Go-board.jpg)| • [Go-board](https://www.nandland.com/goboard/introduction.html) | iCE40-HX1K-VQ100 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCE40-HX8K-Breakout-Board.jpg)| • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCE40-UL1K-Breakout.jpg)| • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
-|| • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCE40-UP-Breakout.jpg)| • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
 || • [iCEblink40-HX1K](http://www.latticesemi.com/iCEblink40-HX1K) | iCE40-HX1K-VQ100 | iCEburn |
 || • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 || • [iCEBreaker-bitsy0](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
