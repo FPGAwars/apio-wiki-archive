@@ -22,6 +22,7 @@
 | • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 | • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 | • FPGA101  | iCE40-UP5K-SG48 | FTDI |
+| • [Go-board](https://nandland.com/the-go-board/) | iCE40-HX1K-VQ100 | FTDI |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 | • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
@@ -30,8 +31,6 @@
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 
 
-
-• go-board  (FPGA:iCE40-HX1K-VQ100, ice40, hx, 1k, vq100)
 • iCE40-HX1K-EVB  (FPGA:iCE40-HX1K-VQ100, ice40, hx, 1k, vq100)
 • iCE40-HX8K  (FPGA:iCE40-HX8K-CT256, ice40, hx, 8k, ct256)
 • iCE40-HX8K-EVB  (FPGA:iCE40-HX8K-CT256, ice40, hx, 8k, ct256)
