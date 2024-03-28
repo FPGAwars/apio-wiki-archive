@@ -18,6 +18,7 @@
 | • [ECP5-Evaluation-Board](https://www.latticesemi.com/products/developmentboardsandkits/ecp5evaluationboard)  | ECP5-LFE5UM5G-85F-CABGA381 |  FT2232H |
 | • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-12F-CABGA256 | FT2232H |  
 | • [ECP5-Mini-25](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-25F-CABGA256 | FT2232H |
+| • [Edu-ciaa-fpga](https://gitlab.com/RamadrianG/wiki---fpga-para-todos/-/wikis/FPGA-para-Todos) | iCE40-HX4K-TQ144 | FTDI |
 | • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
@@ -25,10 +26,8 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
+| • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 
-
-• edu-ciaa-fpga  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
-• fomu  (FPGA:iCE40-UP5K-UWG30, ice40, up, 5k, uwg30)
 • fpga101  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • go-board  (FPGA:iCE40-HX1K-VQ100, ice40, hx, 1k, vq100)
 • iCE40-HX1K-EVB  (FPGA:iCE40-HX1K-VQ100, ice40, hx, 1k, vq100)
@@ -95,7 +94,7 @@
 
 | Board name | Interface |
 |:-|:-:|
-| [Fomu](https://github.com/im-tomu/fomu-hardware) | DFU |
+|  | DFU |
 | [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge) | FTDI |
 | [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) | FTDI |
 | [iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | DFU |
