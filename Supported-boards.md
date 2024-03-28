@@ -30,9 +30,13 @@
 | • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 | • [iCEBreaker-bitsy0](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
 | • [iCEBreaker-bitsy1](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
+| • [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | iCE40-HX8K-CB132 | Serial |
+| • [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) |  iCE40-HX1K-TQ144 | FTDI |
 | • [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md) |  iCE40-LP1K-CM36 | FTDI |  
 | • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
 | • [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) |  iCE40-HX8K-CB132 | Serial |  
+| • [IceZUM Alhambra](https://github.com/FPGAwars/icezum) |  iCE40-HX1K-TQ144 | FTDI |
+| • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
@@ -41,10 +45,7 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
-| • [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | iCE40-HX8K-CB132 | Serial |
-| • [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) |  iCE40-HX1K-TQ144 | FTDI |
-| • [IceZUM Alhambra](https://github.com/FPGAwars/icezum) |  iCE40-HX1K-TQ144 | FTDI |
-| • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
+
 
 
 • kefir  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
