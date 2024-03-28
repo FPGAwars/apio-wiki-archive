@@ -45,7 +45,7 @@ This is the content of the `apio.ini` file created:
 
 ## 2. Create an apio.ini file for the icebreaker board and the top module leds
 
-```toml
+```ini
 [env]
 board = iCEBreaker
 top-module = leds
