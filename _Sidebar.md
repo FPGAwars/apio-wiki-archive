@@ -13,6 +13,7 @@
 ## Apio commands
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
+  * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
 
 ## Apio examples
 * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
