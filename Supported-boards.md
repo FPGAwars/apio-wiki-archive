@@ -49,19 +49,24 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
+| • [ULX3S-12F](https://radiona.org/ulx3s/) | ECP5-LFE5U-12F-CABGA381 | Ujprog |
+| • [ULX3S-25F](https://radiona.org/ulx3s/) | ECP5-LFE5U-25F-CABGA381 | Ujprog |
+| • [ULX3S-45F](https://radiona.org/ulx3s/) | ECP5-LFE5U-45F-CABGA381 | Ujprog |
+| • [ULX3S-85F](https://radiona.org/ulx3s/) | ECP5-LFE5U-85F-CABGA381 | Ujprog |
 
 
-
-• ulx3s-12f  (FPGA:ECP5-LFE5U-12F-CABGA381, ecp5, 12k, 12k, CABGA381)
-• ulx3s-25f  (FPGA:ECP5-LFE5U-25F-CABGA381, ecp5, 25k, 25k, CABGA381)
-• ulx3s-45f  (FPGA:ECP5-LFE5U-45F-CABGA381, ecp5, 45k, 45k, CABGA381)
-• ulx3s-85f  (FPGA:ECP5-LFE5U-85F-CABGA381, ecp5, 85k, 85k, CABGA381)
 • upduino  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino2  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino21  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino3  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino31  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • versa  (FPGA:ECP5-LFE5UM-45F-CABGA381, ecp5, um-45k, 45k, CABGA381)
+
+# ECP5
+| Board name | Interface |
+|:-|:-:|
+| [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
+| [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 
 
 # UP5K
@@ -74,15 +79,6 @@
 | [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | FTDI |
 
 
-# ECP5
-| Board name | Interface |
-|:-|:-:|
-| [ULX3S-12F](https://radiona.org/ulx3s/) | Ujprog |
-| [ULX3S-25F](https://radiona.org/ulx3s/) | Ujprog |
-| [ULX3S-45F](https://radiona.org/ulx3s/) | Ujprog |
-| [ULX3S-85F](https://radiona.org/ulx3s/) | Ujprog |
-| [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
-| [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 
 
 NOTE: all supported [Icestorm FPGAs](http://www.clifford.at/icestorm/) can be used with [--fpga or --size, --type and --pack options](http://apiodoc.readthedocs.io/en/develop/source/user_guide/project_commands/cmd_build.html#options).
