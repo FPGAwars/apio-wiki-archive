@@ -12,10 +12,9 @@
     * [Apio examples](https://github.com/FPGAwars/apio-examples)  
     * [Tools-drivers](https://github.com/FPGAwars/tools-drivers) (Windows only)
     * [Gtkwave](https://github.com/FPGAwars/tool-gtkwave) (Windows only)  
- 
-* Development
+* **Development**
   * [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)  
- * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
+  * [Releasing a new version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 * Adding examples
   * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)  
   * [The apio-example package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package)
