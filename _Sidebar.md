@@ -6,8 +6,12 @@
 * [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)  
 * [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
 
-## Features 
+## Boards
 * [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
+* [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
+
+## Apio packages
+
 * [Apio packages](https://github.com/FPGAwars/apio/wiki/Apio-packages)  
   * [Tools-oss-cad-suite](https://github.com/FPGAwars/tools-oss-cad-suite/wiki)  
   * [Apio examples](https://github.com/FPGAwars/apio-examples)  
@@ -19,7 +23,7 @@
 
 * [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)  
 * [Releasing a new stable version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
-* [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
+
 
 ## Adding examples
 
