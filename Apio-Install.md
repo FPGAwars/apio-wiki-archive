@@ -98,7 +98,7 @@ The **apio home** directory can be changed by means of the **APIO_HOME_DIR** env
 Once a package is installed, it is added to the `.apio/profile.json` file. Apio reads this file for knowing which packages are present
 
 > [!NOTE]
-> You can install manually a package uncompressing it in the package folder, and modifying manually the profile.json file
+> You can install manually a package uncompressing it in the package folder, and modifying manually the **profile.json** file
 
 
 -------
