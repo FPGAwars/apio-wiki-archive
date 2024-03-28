@@ -12,7 +12,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Butterstick_r1.jpg)| • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Cat-board.jpg)| • [CAT Board](https://github.com/devbisme/CAT-Board) |  iCE40-HX8K-CT256 | GPIO RPi |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-5A-75B-V61.jpg)| • [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)  | ECP5-LFE5U-25F-CABGA381 | FT2232H |
-|| • [ColorLight-5A-75B-V7](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-5A-75B-V7.jpg)| • [ColorLight-5A-75B-V7](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 || • [ColorLight-5A-75B-V8](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 || • [ColorLight-5A-75E-V6](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 || • [ColorLight-5A-75E-V71](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H, FT232H,  USB-Blaster |
