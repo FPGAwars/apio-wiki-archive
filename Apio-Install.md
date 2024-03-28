@@ -1,32 +1,17 @@
 # Contents
-  * [#usage]
+  * [Usage](#usage)  
 
 
 # Usage
 
 ```bash
-apio install [OPTIONS]
+apio install [OPTIONS] [PACKAGES]
 ```
 
 # Description
 
-Manage apio packages
+Install apio packages. By default it installs the latest stable version. Other versions can be installed using the following notation: `packge@version`  (Ex. 'oss-cad-suite@0.0.8`)  
 
-# TODO
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
 
 
