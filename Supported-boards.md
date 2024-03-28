@@ -34,7 +34,7 @@
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 | • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
-| • [iCEBreaker]([iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
+| • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 
 
 • iCEBreaker-bitsy0  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
