@@ -40,10 +40,21 @@ apio init --board alhambra-ii
 The default name for the **top module** is `main`
 This is the content of the `apio.ini` file created:
 
-
-
+```ini
+[env]
+board = alhambra-ii
+top-module = main
+```
 
 ## 2. Create an apio.ini file for the icebreaker board and the top module leds
+
+```bash
+apio init -b iCEBreaker --top-module leds
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-init-02.png)  
+
+This is the content of the `apio.ini` file created:
 
 ```ini
 [env]
