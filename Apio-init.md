@@ -9,30 +9,22 @@
 # Usage
 
 ```bash
-apio drivers [OPTIONS]
+apio init [OPTIONS]
 ```
 
 # Description
 
-Enable/Disable the FTDI drivers.
-
-* **Linux**: add the rules file. It may require a reboot or to uplug and reconnect the board.
-* **Mac OSX**: configure FTDIUSBSerialDriver and AppleUSBFTDI keys and install libftdi.
-* **Windows**: open zadig to replace the current driver by libusbK. It requires to uplug and reconnect the board.
-
-This command requires the `drivers` package (only for Windows).
-
-> [!NOTE]
-> More information in (`install_drivers`) (TODO)
+Manage apio projects. In addition to the code, an apio project may include a configuration file **apio.ini** and a Scons script **SConstruct**.
 
 # Options
 
-| Option            | Description            |
-| ----------------- | ---------------------- |
-| `--ftdi-enable`   | Enable FPGA drivers    |
-| `--ftdi-disable`  | Disable FPGA drivers   |
-| `--serial-enable` | Enable Serial drivers  |
-| `--serial-disable`| Disable Serial drivers |
+| Flag | Long Flag | Description |
+| ---- | --------- | ----------- |
+| `-s` | `--scons` | Create a default SConstruct file. This file can be modified and it will be used instead of the default script |
+| `-b` | `--board`  | Create a configuration file with the selected board. This will be the default board used in :ref:`cmd_build`, :ref:`cmd_time` and :ref:`cmd_upload` commands |
+| `-p` | `--project-dir` | Set the target directory for the project |
+| `-y` | `--sayyes`  | Automatically answer YES to all the questions |
+
 
 # Examples
 
