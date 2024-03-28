@@ -41,6 +41,6 @@ apio install [OPTIONS] [PACKAGES]
 ```bash
 apio install oss-cad-suite examples
 ```
-(Screenshot)
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-01.png)  
 
 
