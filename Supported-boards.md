@@ -4,7 +4,7 @@
 |Picture | Board | FPGA |Interface |
 |--------|-------|------|----------|
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Alchitry-cu.jpg)| • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
-|| • [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) |  iCE40-HX4K-TQ144 | FTDI |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Alhambra-II.jpg)| • [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) |  iCE40-HX4K-TQ144 | FTDI |
 || • Arice1  | iCE40-UP5K-SG48 | FTDI |
 || • [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) |  iCE40-HX4K-TQ144 | Serial |  
 || • [BlackIce II](https://github.com/mystorm-org/BlackIce-II) |  iCE40-HX4K-TQ144 | Serial |
