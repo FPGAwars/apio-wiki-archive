@@ -26,9 +26,13 @@
 | • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |
 | • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 | • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
+| • [iCEblink40-HX1K](http://www.latticesemi.com/iCEblink40-HX1K) | iCE40-HX1K-VQ100 | iCEburn |
 | • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 | • [iCEBreaker-bitsy0](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
 | • [iCEBreaker-bitsy1](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
+| • [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md) |  iCE40-LP1K-CM36 | FTDI |  
+| • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
+| • [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) |  iCE40-HX8K-CB132 | Serial |  
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
@@ -37,12 +41,8 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
-| • [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md) |  iCE40-LP1K-CM36 | FTDI |  
-| • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
 
 
-• iceWerx  (FPGA:iCE40-HX8K-CB132, ice40, hx, 8k, cb132)
-• iceblink40-hx1k  (FPGA:iCE40-HX1K-VQ100, ice40, hx, 1k, vq100)
 • icefun  (FPGA:iCE40-HX8K-CB132, ice40, hx, 8k, cb132)
 • icestick  (FPGA:iCE40-HX1K-TQ144, ice40, hx, 1k, tq144)
 • icezum  (FPGA:iCE40-HX1K-TQ144, ice40, hx, 1k, tq144)
@@ -70,7 +70,7 @@
 |:-|:-:|
 | [IceZUM Alhambra](https://github.com/FPGAwars/icezum) | FTDI |
 | [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) | FTDI |
-| [iCEblink40-HX1K](http://www.latticesemi.com/iCEblink40-HX1K) | Digilent Adept |
+
 
 # HX8K
 
@@ -80,7 +80,7 @@
 | [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) | FTDI |
 |  | FTDI |
 | [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | Serial |
-| [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) | Serial |
+
 
 
 # UP5K
