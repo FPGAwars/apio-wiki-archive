@@ -23,7 +23,12 @@
 | • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 | • FPGA101  | iCE40-UP5K-SG48 | FTDI |
 | • [Go-board](https://nandland.com/the-go-board/) | iCE40-HX1K-VQ100 | FTDI |
-| • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |  
+| • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |
+| • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
+| • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
+| • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
+| • [iCEBreaker-bitsy0](https://1bitsquared.com/products/icebreaker-bitsy) | iCE40-UP5K-SG48 | FTDI |
+| • [iCEBreaker-bitsy1](https://1bitsquared.com/products/icebreaker-bitsy) | iCE40-UP5K-SG48 | FTDI |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
@@ -32,13 +37,8 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
-| • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
-| • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
-| • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 
 
-• iCEBreaker-bitsy0  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
-• iCEBreaker-bitsy1  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iCESugar-Pro_(FT2232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
 • iCESugar-Pro_(FT232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
 • iCESugar-Pro_(USB-Blaster)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
