@@ -9,7 +9,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Black-ice.jpg)| • [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) |  iCE40-HX4K-TQ144 | Serial |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Black-ice-II.jpg)| • [BlackIce II](https://github.com/mystorm-org/BlackIce-II) |  iCE40-HX4K-TQ144 | Serial |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Black-ice-mx.jpg)| • [Blackice-mx](https://www.tindie.com/products/Folknology/blackice-mx/) |  iCE40-HX4K-TQ144 | Serial |
-|| • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Butterstick_r1.jpg)| • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
 || • [CAT Board](https://hackaday.io/project/7982-cat-board) |  iCE40-HX8K-CT256 | GPIO RPi |
 || • [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)  | ECP5-LFE5U-25F-CABGA381 | FT2232H |
 || • [ColorLight-5A-75B-V7](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
