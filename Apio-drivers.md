@@ -42,7 +42,7 @@ This command requires the `drivers` package (only for Windows).
 apio drivers --ftdi-enable
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-01.png)  
 
 ## 2. Disable the FTDI drivers on Linux
 
