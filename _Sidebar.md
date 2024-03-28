@@ -10,14 +10,13 @@
 * [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
 * [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
 
+## Apio commands
+### Setup commands
+* [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
+
 ## Apio examples
 * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
 * [The apio-examples package](https://github.com/FPGAwars/apio/wiki/The-apio-examples-package): Adding examples  
-
-## Apio commands
-
-### Setup commands
-* [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
 
 ## Apio packages
 
