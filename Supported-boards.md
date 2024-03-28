@@ -34,10 +34,9 @@
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 | • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
+| • [iCEBreaker]([iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 
 
-
-• iCEBreaker  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iCEBreaker-bitsy0  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iCEBreaker-bitsy1  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iCESugar-Pro_(FT2232H)  (FPGA:ECP5-LFE5U-25F-CABGA256, ecp5, 25k, 25k, CABGA256)
@@ -93,7 +92,7 @@
 | Board name | Interface |
 |:-|:-:|
 | [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge) | FTDI |
-| [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) | FTDI |
+|  | FTDI |
 | [iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | DFU |
 | [iCE40 UltraPlus Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | FTDI |
 | [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino) | FTDI |
