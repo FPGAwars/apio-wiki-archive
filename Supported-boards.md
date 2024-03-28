@@ -33,7 +33,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCEBreaker.jpg)| • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCEBreaker-bitsy0.jpg)| • [iCEBreaker-bitsy0](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCEBreaker-bitsy0.jpg)| • [iCEBreaker-bitsy1](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
-|| • [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | iCE40-HX8K-CB132 | Serial |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iceFUN.jpg)| • [iceFUN](https://www.robot-electronics.co.uk/icefun.html) | iCE40-HX8K-CB132 | Serial |
 || • [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) |  iCE40-HX1K-TQ144 | FTDI |
 || • [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md) |  iCE40-LP1K-CM36 | FTDI |  
 || • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
