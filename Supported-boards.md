@@ -27,8 +27,8 @@
 | • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 | • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
 | • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
-| • [iCEBreaker-bitsy0]([iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy)) | iCE40-UP5K-SG48 | DFU |
-| • [iCEBreaker-bitsy1]([iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy)) | iCE40-UP5K-SG48 | DFU |
+| • [iCEBreaker-bitsy0](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
+| • [iCEBreaker-bitsy1](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | iCE40-UP5K-SG48 | DFU |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
