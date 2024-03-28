@@ -6,7 +6,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Alchitry-cu.jpg)| • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Alhambra-II.jpg)| • [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) |  iCE40-HX4K-TQ144 | FTDI |
 || • Arice1  | iCE40-UP5K-SG48 | FTDI |
-|| • [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) |  iCE40-HX4K-TQ144 | Serial |  
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Black-ice.jpg)| • [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) |  iCE40-HX4K-TQ144 | Serial |  
 || • [BlackIce II](https://github.com/mystorm-org/BlackIce-II) |  iCE40-HX4K-TQ144 | Serial |
 || • [Blackice-mx](https://www.tindie.com/products/Folknology/blackice-mx/) |  iCE40-HX4K-TQ144 | Serial |
 || • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
