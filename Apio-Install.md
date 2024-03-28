@@ -3,6 +3,7 @@
   * [Description](#description)  
   * [Options](#options)
   * [Packages](#packages)
+  * [Examples](#examples)
 
 
 # Usage
@@ -32,4 +33,7 @@ apio install [OPTIONS] [PACKAGES]
 | [examples](https://github.com/FPGAwars/apio-examples) | apio install examples | Verilog basic examples, pinouts, etc
 | [drivers](https://github.com/FPGAwars/tools-drivers) | apio install drivers | Drivers tools (only for Windows)
 | [gtkwave](https://github.com/FPGAwars/tool-gtkwave) | apio install gtkwave | Simulation viewer. [GTKWave project](http://gtkwave.sourceforge.net) (only for Windows) 
+
+# Examples
+
 
