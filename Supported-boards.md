@@ -57,21 +57,9 @@
 | • [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2)  | iCE40-UP5K-SG48 | FTDI |
 | • [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | iCE40-UP5K-SG48 | FTDI |
 | • [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)  | iCE40-UP5K-SG48 | FTDI |
-
-• upduino31  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
-• versa  (FPGA:ECP5-LFE5UM-45F-CABGA381, ecp5, um-45k, 45k, CABGA381)
-
-
-# ECP5
-| Board name | Interface |
-|:-|:-:|
-| [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) | |
-| [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
-
-
-
-
-
+| • [UPDuino v3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | iCE40-UP5K-SG48 | FTDI |
+| • [Versa](https://www.mouser.es/new/lattice-semiconductor/lattice-lfe5um-45f-versa-evn/) |  ECP5-LFE5UM-45F-CABGA381 | FTDI |
+| • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | FT2232H, FT232H or USB-Blaster |
 
 
 NOTE: all supported [Icestorm FPGAs](http://www.clifford.at/icestorm/) can be used with [--fpga or --size, --type and --pack options](http://apiodoc.readthedocs.io/en/develop/source/user_guide/project_commands/cmd_build.html#options).
