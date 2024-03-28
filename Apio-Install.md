@@ -36,11 +36,14 @@ apio install [OPTIONS] [PACKAGES]
 
 # Examples
 
-1. Install `oss-cad-suite` and `examples` packages (latest stable versions):
+## 1. Install oss-cad-suite and examples packages 
 
 ```bash
 apio install oss-cad-suite examples
 ```
+
+The latest stable versions are installed:
+
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-01.png)  
 
 2. Install ``oss-cad-suite`` package version 0.0.8
