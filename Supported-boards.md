@@ -53,7 +53,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/OrangeCrab-r0.2-25F.jpg)| • [OrangeCrab r0.2 25F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-25F-CSFBGA285 | DFU |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/OrangeCrab-r0.2-85F.jpg)| • [OrangeCrab r0.2 85F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-85F-CSFBGA285 | DFU |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Pico-Ice.jpg)| • [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice) | iCE40-UP5K-SG48 | DFU |
-|| • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ThetaMachines-ETH4K.jpg)| • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 || • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
 || • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 || • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
