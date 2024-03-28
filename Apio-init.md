@@ -28,38 +28,20 @@ Manage apio projects. In addition to the code, an apio project may include a con
 
 # Examples
 
-## 1. Enable the FTDI drivers on Linux
+## 1. Create a SConstruct file
 
 ```bash
-apio drivers --ftdi-enable
+apio init --scons
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-01.png)  
+![]()  
 
-## 2. Disable the FTDI drivers on Linux
+## 2. Create an apio.ini file with the icezum board
 
 ```bash
-apio drivers --ftdi-disable
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-02.png)  
-
-## 3. Enable the Serial drivers on Linux
-
-```bash
-apio drivers --serial-enable
-```
-
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-03.png)  
-
-## 4. Disable the Serial drivers on Linux
-
-```bash
-apio drivers --serial-disable
-```
-
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-04.png) 
-
+![]() 
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
