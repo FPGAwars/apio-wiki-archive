@@ -50,7 +50,7 @@ apio drivers --ftdi-enable
 apio drivers --ftdi-disable
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-02.png)  
 
 ## 3. Enable the Serial drivers on Linux
 
@@ -58,7 +58,7 @@ apio drivers --ftdi-disable
 apio drivers --serial-enable
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-03.png)  
 
 ## 4. Disable the Serial drivers on Linux
 
@@ -66,7 +66,7 @@ apio drivers --serial-enable
 apio drivers --serial-disable
 ```
 
-![]() 
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-drivers-04.png) 
 
 
 -------
