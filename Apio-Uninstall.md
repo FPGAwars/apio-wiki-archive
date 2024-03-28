@@ -38,6 +38,13 @@ Uninstall packages. Before uninstalling a package, a confirmation is requested.
 
 ## 1. Uninstall examples package
 
+```bash
+apio uninstall examples
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-uninstall-01.png)  
+
+## 2. Uninstall the drivers package for windows in a linux platform
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
