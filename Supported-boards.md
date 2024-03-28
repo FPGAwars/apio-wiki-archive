@@ -37,11 +37,10 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
+| • [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md) |  iCE40-LP1K-CM36 | FTDI |  
+| • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
 
 
-
-• iCESugar-nano  (FPGA:iCE40-LP1K-CM36, ice40, lp, 1k, cm36)
-• iCESugar_1_5  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iceWerx  (FPGA:iCE40-HX8K-CB132, ice40, hx, 8k, cb132)
 • iceblink40-hx1k  (FPGA:iCE40-HX1K-VQ100, ice40, hx, 1k, vq100)
 • icefun  (FPGA:iCE40-HX8K-CB132, ice40, hx, 8k, cb132)
@@ -88,12 +87,10 @@
 
 | Board name | Interface |
 |:-|:-:|
-| [iCE40 UltraPlus Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | FTDI |
 | [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino) | FTDI |
 | [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2) | FTDI |
 | [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | FTDI |
 | [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | FTDI |
-| [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md)  | FTDI |
 | [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice)  | DFU |
 
 # ECP5
@@ -111,7 +108,6 @@
 
 | Board name | Interface |
 |:-|:-:|
-| [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md)  | FTDI |
 
 
 NOTE: all supported [Icestorm FPGAs](http://www.clifford.at/icestorm/) can be used with [--fpga or --size, --type and --pack options](http://apiodoc.readthedocs.io/en/develop/source/user_guide/project_commands/cmd_build.html#options).
