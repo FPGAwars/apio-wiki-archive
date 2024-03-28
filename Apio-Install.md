@@ -1,6 +1,6 @@
 # Contents
+  * [#usage]
 
-TODO
 
 # Usage
 
