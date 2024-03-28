@@ -6,7 +6,6 @@ In order to support a new board follow these steps:
 
 2. **Find or add your FPGA name** in the [fpgas.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json) file  
 Ex:
-
 ```json
 "iCE40-HX1K-TQ144": {
   "type": "hx",
