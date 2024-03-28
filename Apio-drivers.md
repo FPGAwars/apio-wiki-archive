@@ -45,6 +45,7 @@ apio drivers --ftdi-enable
 ![]()  
 
 ## 2. 
+```bash
 ```
 
 ![]()  
