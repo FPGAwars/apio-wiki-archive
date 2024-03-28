@@ -2,6 +2,10 @@
 |------------|------|----------|
 | • [Alchitry Cu](https://alchitry.com/boards/cu)  | iCE40-HX8K-CB132 | FTDI |
 | • [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) |  iCE40-HX4K-TQ144 | FTDI |
+| • Arice1  | iCE40-UP5K-SG48 | FTDI |
+| • [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) |  iCE40-HX4K-TQ144 | Serial |  
+| • [BlackIce II](https://github.com/mystorm-org/BlackIce-II) |  iCE40-HX4K-TQ144 | Serial |
+| • [Blackice-mx](https://www.tindie.com/products/Folknology/blackice-mx/) |  iCE40-HX4K-TQ144 | Serial |
 | • [ButterStick r1.0](https://github.com/butterstick-fpga/butterstick-hardware) | ECP5-LFE5UM5G-85F-CABGA381 | DFU, FT2232H, FT232H | 
 | • [CAT Board](https://hackaday.io/project/7982-cat-board) |  iCE40-HX8K-CT256 | GPIO RPi |
 | • [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)  | ECP5-LFE5U-25F-CABGA381 | FT2232H |
@@ -23,10 +27,6 @@
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 
 
-• arice1  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
-• blackice  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
-• blackice-ii  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
-• blackice-mx  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
 • edu-ciaa-fpga  (FPGA:iCE40-HX4K-TQ144, ice40, hx, 8k, tq144:4k)
 • fomu  (FPGA:iCE40-UP5K-UWG30, ice40, up, 5k, uwg30)
 • fpga101  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
@@ -81,9 +81,9 @@
 | Board name | Interface |
 |:-|:-:|
 | [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) | FTDI |
-| [BlackIce](https://hackaday.io/project/12930-blackice-low-cost-open-hardware-fpga-dev-board) | Serial |
-| [BlackIce II](https://github.com/mystorm-org/BlackIce-II) | Serial |
-| [Blackice-mx](https://www.tindie.com/products/Folknology/blackice-mx/) | Serial |
+|  | Serial |
+| 
+|  | Serial |
 | [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) | GPIO RPi |
 | [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) | FTDI |
 | [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) | FTDI |
@@ -95,7 +95,6 @@
 
 | Board name | Interface |
 |:-|:-:|
-| arice1 | |
 | [Fomu](https://github.com/im-tomu/fomu-hardware) | DFU |
 | [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge) | FTDI |
 | [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) | FTDI |
