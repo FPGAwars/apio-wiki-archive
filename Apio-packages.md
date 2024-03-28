@@ -29,6 +29,8 @@ apio install -l
 
 # Legacy packages
 
+These package are no longer maintained (they all are include in the oss-cad-suite package)
+
 * [Tools-system](https://github.com/FPGAwars/tools-system/wiki)  
 * [Icestorm](https://github.com/FPGAwars/toolchain-icestorm)  
 * [Iverilog](https://github.com/FPGAwars/toolchain-iverilog)  
