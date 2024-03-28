@@ -36,7 +36,7 @@ apio install [OPTIONS] [PACKAGES]
 
 # Examples
 
-* Install `oss-cad-suite` and `examples` packages (latest stable versions):
+1. Install `oss-cad-suite` and `examples` packages (latest stable versions):
 
 ```bash
 apio install oss-cad-suite examples
