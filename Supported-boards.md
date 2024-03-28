@@ -53,14 +53,23 @@
 | • [ULX3S-25F](https://radiona.org/ulx3s/) | ECP5-LFE5U-25F-CABGA381 | Ujprog |
 | • [ULX3S-45F](https://radiona.org/ulx3s/) | ECP5-LFE5U-45F-CABGA381 | Ujprog |
 | • [ULX3S-85F](https://radiona.org/ulx3s/) | ECP5-LFE5U-85F-CABGA381 | Ujprog |
+| • [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino)  | iCE40-UP5K-SG48 | FTDI |
+| • [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2)  | iCE40-UP5K-SG48 | FTDI |
 
-
-• upduino  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
-• upduino2  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino21  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino3  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • upduino31  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • versa  (FPGA:ECP5-LFE5UM-45F-CABGA381, ecp5, um-45k, 45k, CABGA381)
+
+# UP5K
+
+| Board name | Interface |
+|:-|:-:|
+|  | FTDI |
+|  | FTDI |
+| [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | FTDI |
+| [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | FTDI |
+
 
 # ECP5
 | Board name | Interface |
@@ -69,14 +78,7 @@
 | [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm)| FT2232H, FT232H or USB-Blaster |
 
 
-# UP5K
 
-| Board name | Interface |
-|:-|:-:|
-| [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino) | FTDI |
-| [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2) | FTDI |
-| [UPDuino v2.1](https://github.com/tinyvision-ai-inc/UPduino-v2.1) | FTDI |
-| [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) | FTDI |
 
 
 
