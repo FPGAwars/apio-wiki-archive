@@ -37,6 +37,7 @@
 | • [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) |  iCE40-HX8K-CB132 | Serial |  
 | • [IceZUM Alhambra](https://github.com/FPGAwars/icezum) |  iCE40-HX1K-TQ144 | FTDI |
 | • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
+| • [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) |  iCE40-HX4K-TQ144 | FTDI |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
@@ -45,7 +46,6 @@
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
-| • [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) |  iCE40-HX4K-TQ144 | FTDI |
 
 
 • orangecrab-r02-25f  (FPGA:ECP5-LFE5U-25F-CSFBGA285, ecp5, 25k, 25k, CSFBGA285)
