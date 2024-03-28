@@ -22,7 +22,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ECP5-Mini-12.jpg)| • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-12F-CABGA256 | FT2232H |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ECP5-Mini-12.jpg)| • [ECP5-Mini-12](https://github.com/joshajohnson/ecp5-mini)| • [ECP5-Mini-25](https://github.com/joshajohnson/ecp5-mini)  | ECP5-LFE5U-25F-CABGA256 | FT2232H |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Edu-ciaa-fpga.jpg)| • [Edu-ciaa-fpga](https://gitlab.com/RamadrianG/wiki---fpga-para-todos/-/wikis/FPGA-para-Todos) | iCE40-HX4K-TQ144 | FTDI |
-|| • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/FleaFPGA-Ohm.jpg)| • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 || • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 || • [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge)  | iCE40-UP5K-SG48 | FTDI |
 || • [Go-board](https://www.nandland.com/goboard/introduction.html) | iCE40-HX1K-VQ100 | FTDI |
