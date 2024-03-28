@@ -6,9 +6,9 @@ In order to support a new board follow these steps:
 
 2. **Find or add your FPGA name** in the [fpgas.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json) file
 
-Ex.
+A fragment of this file may look like these:
+
 ```json
-[...]
 "iCE40-HX1K-TQ144": {
   "type": "hx",
   "size": "1k",
@@ -26,10 +26,10 @@ Ex.
   "size": "8k",
   "pack": "cm81"
 }
-[...]
 ```    
 
-2. **Find or add your programmer** in `programmers.json <https://github.com/FPGAwars/apio/blob/develop/apio/resources/programmers.json>`_.
+3. **Find or add your programmer** in [programmers.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/programmers.json) 
+Ex:
 
 ```json
 "iceprog": {
@@ -49,7 +49,7 @@ Ex.
 }
 ```
 
-**NOTE**: if your programmer uses a python package, add this package and its version range to `distribution.json <https://github.com/FPGAwars/apio/blob/develop/apio/resources/distribution.json>`
+**NOTE**: if your programmer uses a python package, add this package and its version range to [distribution.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/distribution.json) 
 
 ```json
 "pip_packages": {
