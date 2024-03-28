@@ -50,4 +50,9 @@ apio install oss-cad-suite@0.0.8
 ```
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-02.png)  
 
+3. Show all available/installed packages
 
+```bash
+$ apio install --list
+```
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-03.png)   
