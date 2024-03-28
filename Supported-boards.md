@@ -72,4 +72,5 @@
 
 * **Total**: 60 boards
 
-https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Alchitry-cu.jpg
+-------
+[![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
