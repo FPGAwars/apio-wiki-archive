@@ -6,7 +6,7 @@ In order to support a new board follow these steps:
 
 2. **Find or add your FPGA name** in the [fpgas.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json) file
 
-A fragment of this file may look like these:
+Ex:
 
 ```json
 "iCE40-HX1K-TQ144": {
@@ -28,7 +28,7 @@ A fragment of this file may look like these:
 }
 ```    
 
-3. **Find or add your programmer** in [programmers.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/programmers.json) 
+3. **Find or add your programmer** in [programmers.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/programmers.json)  
 Ex:
 
 ```json
