@@ -2,7 +2,7 @@
 
 In order to support a new board follow these steps:
 
-1. **Find your FPGA name** in the [apio/resources/fpgas.json] file. It contains all FPGAs supported by the `Icestorm <http://www.clifford.at/icestorm>` project.
+1. **Find your FPGA name** in the [apio/resources/fpgas.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/fpgas.json) file. It contains all FPGAs supported by the `Icestorm <http://www.clifford.at/icestorm>` project.
 
 ```json
 "iCE40-HX1K-TQ144": {
