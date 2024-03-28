@@ -14,7 +14,10 @@ apio install [OPTIONS] [PACKAGES]
 
 # Options
 
-* `-a`, `--all`: Install all packages
+| Flag | Long Flag | Description |
+| ---- | --------- | ----------- |
+| `-a` | `--all`   | Install all packages |
+
 
 
 
