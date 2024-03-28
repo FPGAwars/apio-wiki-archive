@@ -45,7 +45,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCESugar-v1.5.jpg)| • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iceWerx.jpg)| • [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) |  iCE40-HX8K-CB132 | Serial |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/IceZUM-Alhambra.jpg)| • [IceZUM Alhambra](https://github.com/FPGAwars/icezum) |  iCE40-HX1K-TQ144 | FTDI |
-|| • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/icoBOARD-1.0.jpg)| • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
 || • [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) |  iCE40-HX4K-TQ144 | FTDI |
 || • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 || • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
