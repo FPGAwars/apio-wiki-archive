@@ -23,18 +23,17 @@
 | • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 | • FPGA101  | iCE40-UP5K-SG48 | FTDI |
 | • [Go-board](https://nandland.com/the-go-board/) | iCE40-HX1K-VQ100 | FTDI |
+| • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |  
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
+| • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
+| • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
 | • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 | • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
 | • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 | • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 | • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
-| • [iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) (Olimex) | iCE40-HX1K-VQ100 | iceprogduino |
-| • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |  
 
-holi!!!
 
-• iCE40-HX8K-EVB  (FPGA:iCE40-HX8K-CT256, ice40, hx, 8k, ct256)
 • iCE40-UL1K-Breakout  (FPGA:iCE40-UL1K-CM36A, ice40, ul, 1k, cm36a)
 • iCE40-UP5K  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
 • iCEBreaker  (FPGA:iCE40-UP5K-SG48, ice40, up, 5k, sg48)
