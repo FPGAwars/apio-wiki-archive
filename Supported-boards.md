@@ -37,7 +37,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCEstick.jpg)| • [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) |  iCE40-HX1K-TQ144 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCESugar-nano.jpg)| • [iCESugar-nano](https://github.com/wuxx/icesugar-nano/blob/main/README.md) |  iCE40-LP1K-CM36 | FTDI |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iCESugar-v1.5.jpg)| • [iCESugar v1.5](https://github.com/wuxx/icesugar/blob/master/README_en.md) |  iCE40-UP5K-SG48 | FTDI  |
-|| • [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) |  iCE40-HX8K-CB132 | Serial |  
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/iceWerx.jpg)| • [iceWerx](https://www.robot-electronics.co.uk/icewerx.html) |  iCE40-HX8K-CB132 | Serial |  
 || • [IceZUM Alhambra](https://github.com/FPGAwars/icezum) |  iCE40-HX1K-TQ144 | FTDI |
 || • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
 || • [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) |  iCE40-HX4K-TQ144 | FTDI |
