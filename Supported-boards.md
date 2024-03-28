@@ -48,7 +48,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/icoBOARD-1.0.jpg)| • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/K%C3%A9fir-I.jpg)| • [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) |  iCE40-HX4K-TQ144 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/OK-iCE40Pro.jpg)| • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
-|| • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Olimex-iCE40-HX1K-EVB.jpg)| • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 || • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
 || • [OrangeCrab r0.2 25F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-25F-CSFBGA285 | DFU |
 || • [OrangeCrab r0.2 85F](https://github.com/orangecrab-fpga/orangecrab-hardware) | ECP5-LFE5U-85F-CSFBGA285 | DFU |
