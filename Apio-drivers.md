@@ -44,11 +44,27 @@ apio drivers --ftdi-enable
 
 ![]()  
 
-## 2. 
+## 2. Disable the FTDI drivers on Linux
+
 ```bash
 ```
 
 ![]()  
+
+## 3. Enable the Serial drivers on Linux
+
+```bash
+```
+
+![]()  
+
+## 4. Disable the Serial drivers on Linux
+
+```bash
+```
+
+![]() 
+
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
