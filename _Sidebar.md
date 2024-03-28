@@ -15,6 +15,7 @@
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
   * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
   * [apio drivers](https://github.com/FPGAwars/apio/wiki/Apio-drivers)  
+  * [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)  
 
 ## Apio examples
 * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
