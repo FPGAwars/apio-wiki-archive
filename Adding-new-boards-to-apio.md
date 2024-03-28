@@ -59,7 +59,7 @@ Ex:
 }
 ```
 
-3. **Add your board** to `boards.json <https://github.com/FPGAwars/apio/blob/develop/apio/resources/boards.json>` with the following format:
+5. **Add your board** to [boards.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/boards.json)   <https://github.com/FPGAwars/apio/blob/develop/apio/resources/boards.json>` with the following format:
 
 ```json
 "icezum": {
