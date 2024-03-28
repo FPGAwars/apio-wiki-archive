@@ -42,7 +42,7 @@ apio install [OPTIONS] [PACKAGES]
 apio install oss-cad-suite examples
 ```
 
-The latest stable versions are installed:
+The latest stable versions are installed (0.0.9 and 0.0.36 in this example):
 
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-01.png)  
 
