@@ -63,5 +63,16 @@ $ apio install --list
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-03.png)   
 
 
+## 4. Install and update all packages
+
+```bash
+apio install --all
+```
+The packages are only installed if they are not in the latest version
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-install-04.png)  
+
+
+
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
