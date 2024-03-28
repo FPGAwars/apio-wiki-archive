@@ -17,7 +17,7 @@
 ## Apio commands
 
 ### Setup commands
-TODO  
+* [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
 
 ## Apio packages
 
