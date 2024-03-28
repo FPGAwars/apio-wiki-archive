@@ -22,7 +22,7 @@
 | • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 | • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
 | • [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge)  | iCE40-UP5K-SG48 | FTDI |
-| • [Go-board](https://nandland.com/the-go-board/) | iCE40-HX1K-VQ100 | FTDI |
+| • [Go-board](https://www.nandland.com/goboard/introduction.html) | iCE40-HX1K-VQ100 | FTDI |
 | • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |
 | • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 | • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
@@ -72,7 +72,6 @@
 | Board name | Interface |
 |:-|:-:|
 | [IceZUM Alhambra](https://github.com/FPGAwars/icezum) | FTDI |
-| [Nandland Go board](https://www.nandland.com/goboard/introduction.html) | FTDI |
 | [iCEstick Evaluation Kit](http://www.latticesemi.com/icestick) | FTDI |
 | [iCEblink40-HX1K](http://www.latticesemi.com/iCEblink40-HX1K) | Digilent Adept |
 
