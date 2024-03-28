@@ -93,5 +93,13 @@ The packages are installed in the `packages` folder, inside the **apio home** fo
 * Ex. in Linux: `/home/obijuan/.apio/packages`
 * Ex. in Windows: `` (TODO)
 
+The **apio home** directory can be changed by means of the **APIO_HOME_DIR** environment variable. For example, icestudio set this env variable to store the packages in a differnt folder (separated from the apio installed on the system)
+
+Once a package is installed, it is added to the `.apio/profile.json` file. Apio reads this file for knowing which packages are present
+
+> [!NOTE]
+> You can install manually a package uncompressing it in the package folder, and modifying manually the profile.json file
+
+
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
