@@ -12,7 +12,7 @@ apio install [OPTIONS] [PACKAGES]
 
 **Install** apio packages. By default it installs the **latest stable version**. Other versions can be installed using the following notation: `package@version`  (Ex. `oss-cad-suite@0.0.8`)  
 
-# OPTIONS
+# Options
 
 * `-a`, `--all`: Install all packages
 
