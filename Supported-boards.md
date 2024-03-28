@@ -21,14 +21,14 @@
 | • [Edu-ciaa-fpga](https://gitlab.com/RamadrianG/wiki---fpga-para-todos/-/wikis/FPGA-para-Todos) | iCE40-HX4K-TQ144 | FTDI |
 | • [FleaFPGA-Ohm](https://github.com/Basman74/FleaFPGA-Ohm) | ECP5-LFE5U-25F-CABGA381 |  FT2232H, FT232H,  USB-Blaster |
 | • [Fomu](https://github.com/im-tomu/fomu-hardware) |  iCE40-UP5K-UWG30 | DFU |  
-| • FPGA101  | iCE40-UP5K-SG48 | FTDI |
+| • [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge)  | iCE40-UP5K-SG48 | FTDI |
 | • [Go-board](https://nandland.com/the-go-board/) | iCE40-HX1K-VQ100 | FTDI |
 | • [iCE40-HX8K Breakout Board](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard) |  iCE40-HX8K-CT256 | FTDI |
 | • [iCE40-UL1K-Breakout](https://www.latticesemi.com/products/developmentboardsandkits/ice40ultralitebreakoutboard) | iCE40-UL1K-CM36A | FTDI |
 | • [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | iCE40-UP5K-SG48 | FTDI |
 | • [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker) |  iCE40-UP5K-SG48 | FTDI |
-| • [iCEBreaker-bitsy0](https://1bitsquared.com/products/icebreaker-bitsy) | iCE40-UP5K-SG48 | FTDI |
-| • [iCEBreaker-bitsy1](https://1bitsquared.com/products/icebreaker-bitsy) | iCE40-UP5K-SG48 | FTDI |
+| • [iCEBreaker-bitsy0]([iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy)) | iCE40-UP5K-SG48 | DFU |
+| • [iCEBreaker-bitsy1]([iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy)) | iCE40-UP5K-SG48 | DFU |
 | • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 | • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 | • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
@@ -91,9 +91,6 @@
 
 | Board name | Interface |
 |:-|:-:|
-| [FPGA 101 Workshop Badge Board](https://github.com/mmicko/workshop_badge) | FTDI |
-|  | FTDI |
-| [iCEBreaker bitsy](https://github.com/icebreaker-fpga/icebreaker#icebreaker-bitsy) | DFU |
 | [iCE40 UltraPlus Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) | FTDI |
 | [UPDuino v1.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino) | FTDI |
 | [UPDuino v2.0](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2) | FTDI |
