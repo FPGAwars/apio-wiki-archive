@@ -87,11 +87,11 @@ apio install drivers --platform windows_amd64
 
 The **apio home** folder by default is `.apio`, located in the **user home folder**. The full path depends on the operating system and the user who installed apio
 * Ex. in Linux: `/home/obijuan/.apio`
-* Ex. in Windows: `C:\Users\JANEL\.apio>`
+* Ex. in Windows: `C:\Users\JANEL\.apio`
 
 The packages are installed in the `packages` folder, inside the **apio home** folder
 * Ex. in Linux: `/home/obijuan/.apio/packages`
-* Ex. in Windows: `C:\Users\JANEL\.apio\packages>`
+* Ex. in Windows: `C:\Users\JANEL\.apio\packages`
 
 The **apio home** directory can be changed by means of the **APIO_HOME_DIR** environment variable. For example, icestudio set this env variable to store the packages in a differnt folder (separated from the apio installed on the system)
 
