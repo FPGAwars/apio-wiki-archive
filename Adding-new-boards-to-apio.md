@@ -47,7 +47,8 @@ Ex:
 }
 ```
 
-**NOTE**: if your programmer uses a python package, add this package and its version range to [distribution.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/distribution.json) 
+4. If your programmer uses a python package, add this package and its version range to [distribution.json](https://github.com/FPGAwars/apio/blob/develop/apio/resources/distribution.json)  
+Ex:
 
 ```json
 "pip_packages": {
