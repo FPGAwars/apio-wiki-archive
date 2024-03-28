@@ -14,7 +14,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-5A-75B-V61.jpg)| • [ColorLight-5A-75B-V61](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md)  | ECP5-LFE5U-25F-CABGA381 | FT2232H |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-5A-75B-V7.jpg)| • [ColorLight-5A-75B-V7](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-5A-75B-V8.jpg)| • [ColorLight-5A-75B-V8](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
-|| • [ColorLight-5A-75E-V6](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ColorLight-5A-75E-V6.jpg)| • [ColorLight-5A-75E-V6](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H |  
 || • [ColorLight-5A-75E-V71](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) | ECP5-LFE5U-25F-CABGA256 | FT2232H, FT232H,  USB-Blaster |
 || • [ColorLight-i5-v7.0](https://github.com/wuxx/Colorlight-FPGA-Projects) |  ECP5-LFE5U-25F-CABGA381 | FT2232H, FT232H,  USB-Blaster |
 || • [ColorLight-i9-v7.2](https://github.com/wuxx/Colorlight-FPGA-Projects) |  ECP5-LFE5U-45F-CABGA381 | FT2232H, FT232H,  USB-Blaster |
