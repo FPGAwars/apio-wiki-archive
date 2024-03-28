@@ -55,7 +55,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Pico-Ice.jpg)| • [Pico-Ice](https://github.com/tinyvision-ai-inc/pico-ice) | iCE40-UP5K-SG48 | DFU |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/ThetaMachines-ETH4K.jpg)| • [ThetaMachines-ETH4K](https://www.thetamachines.com/shop/eth4k/)  | iCE40-HX4K-TQ144 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/TinyFPGA-B2.jpg)| • [TinyFPGA-B2](https://github.com/tinyfpga/TinyFPGA-B-Series/blob/master/README.md)  | iCE40-LP8K-CM81 | tinyfpgab |
-|| • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
+|![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/TinyFPGA-BX.jpg)| • [TinyFPGA-BX](https://github.com/tinyfpga/TinyFPGA-BX) | iCE40-LP8K-CM81 | tinyprog |  
 || • [TinyFPGA-EX-rev1](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 || • [TinyFPGA-EX-rev2](https://github.com/tinyfpga/TinyFPGA-EX)  | ECP5-LFE5U-85F-CSFBGA285 | tinyprog | 
 || • [ULX3S-12F](https://radiona.org/ulx3s/) | ECP5-LFE5U-12F-CABGA381 | Ujprog |
