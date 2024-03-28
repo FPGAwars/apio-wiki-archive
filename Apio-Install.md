@@ -2,6 +2,7 @@
   * [Usage](#usage)  
   * [Description](#description)  
   * [Options](#options)
+  * [Packages](#packages)
 
 
 # Usage
