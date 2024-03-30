@@ -20,7 +20,7 @@ TODO
   * [apio drivers](https://github.com/FPGAwars/apio/wiki/Apio-drivers)  
   * [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)  
 * **Utility Commands**:
-TODO
+  * [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards)  
 
 ## Apio examples
 * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
