@@ -8,14 +8,14 @@
 | ----------------------- | ---- | ---- | ---- | --------- |
 | • [ECP5-LFE5U-12F-CABGA256](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | 12k  | 12k  | CABGA256  |
 | • [ECP5-LFE5U-12F-CABGA381](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | 12k  | 12k  | CABGA381  |
+| • [ECP5-LFE5U-12F-CSFBGA285](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | 12k  | 12k  | CSFBGA285  |
+| • [ECP5-LFE5U-25F-CABGA256](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | 25k  | 25k  | CABGA256  |
+| • [ECP5-LFE5U-25F-CABGA381](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | 25k  | 25k  | CABGA381  |
+
 
 ────────────────────────────────────────────────────────────────────────────────
 FPGA                            Arch     Type         Size  Pack      
 ──────────────────────────────────────────────────────────────────────────────── 
-•          ecp5     12k          12k     
-• ECP5-LFE5U-12F-CSFBGA285        ecp5     12k          12k   CSFBGA285 
-• ECP5-LFE5U-25F-CABGA256         ecp5     25k          25k   CABGA256  
-• ECP5-LFE5U-25F-CABGA381         ecp5     25k          25k   CABGA381  
 • ECP5-LFE5U-25F-CSFBGA285        ecp5     25k          25k   CSFBGA285 
 • ECP5-LFE5U-45F-CABGA256         ecp5     45k          45k   CABGA256  
 • ECP5-LFE5U-45F-CABGA381         ecp5     45k          45k   CABGA381  
