@@ -12,12 +12,15 @@
 # Usage
 
 ```bash
-apio install [OPTIONS] [PACKAGES]
+apio boards [OPTIONS]
 ```
 
 # Description
 
-**Install** apio packages. By default it installs the **latest stable version**. Other versions can be installed using the following notation: `package@version`  (Ex. `oss-cad-suite@0.0.8`)  
+Show FPGA boards information
+
+> [!NOTE]
+> Check the [Supported-boards] page for a list of all the available boards 
 
 # Options
 
