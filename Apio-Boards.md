@@ -5,7 +5,6 @@
   * [Description](#description)  
   * [Options](#options)
   * [Examples](#examples)  
-  * [Folders](#folders)
 
 
 # Usage
