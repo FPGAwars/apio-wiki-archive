@@ -6,7 +6,7 @@
 
 | FPGA                    | Arch | Type | Size | Packaging |
 | ----------------------- | ---- | ---- | ---- | --------- |
-| ECP5-LFE5U-12F-CABGA256 | ecp5 | 12k  | 12k  | CABGA256  |
+| [ECP5-LFE5U-12F-CABGA256](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | 12k  | 12k  | CABGA256  |
 
 ────────────────────────────────────────────────────────────────────────────────
 FPGA                            Arch     Type         Size  Pack      
