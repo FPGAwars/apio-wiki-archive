@@ -26,10 +26,8 @@ Show FPGA boards information
 
 | Flag | Long Flag | Description |
 | ---- | --------- | ----------- |
-| `-a` | `--all`   | Install all packages |
 | `-l` | `--list`  | List all available packages |
-| `-f` | `--force` | Force the packages installation |
-| `-p` | `--platform` | Set the platform [linux, linux_x86_64, linux_i686, linux_armv7l, linux_aarch64, windows, windows_amd64, windows_x86, darwin] (Advanced) |
+| `-f` | `--fpga` | List all supported FPGAs |
 
 # Packages
 
