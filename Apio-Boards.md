@@ -20,7 +20,7 @@ apio boards [OPTIONS]
 Show FPGA boards information
 
 > [!NOTE]
-> Check the [Supported-boards] page for a list of all the available boards 
+> Check the [Supported boards](https://github.com/FPGAwars/apio/wiki/Supported-boards) page for a list of all the available boards 
 
 # Options
 
