@@ -8,6 +8,7 @@
 
 ## Boards
 * [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
+* [Supported FPGAs](https://github.com/FPGAwars/apio/wiki/Supported-FPGAs)  
 * [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
 
 ## Apio commands
