@@ -230,13 +230,13 @@ Copy the leds example files to the current directory
 ```
 
 
-## 2. Copy the leds example files
+## 2. Copy the ledon example files for the Alhambra II board
 
 ```bash
-apio examples --files leds
+apio examples --files Alhambra-II/ledon
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-examples-01.png)  
 
 ## 3. Copy the leds example directory
 
