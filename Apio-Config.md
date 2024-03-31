@@ -42,11 +42,15 @@ apio config --list
 apio config --exe native
 ```
 
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-config-02.png)  
+
 ## 3. Enable verbose mode 1
 
 ```bash
 apio config --verbose 1
 ```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-config-03.png)  
 
 # Profile file
 
