@@ -38,14 +38,14 @@
 | • [ECP5-LFE5UM5G-45F-CABGA381](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-45k  | 45k  | CABGA381  |
 | • [ECP5-LFE5UM5G-45F-CABGA554](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-45k  | 45k  | CABGA554  |
 | • [ECP5-LFE5UM5G-45F-CSFBGA285](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-45k  | 45k  | CSFBGA285  |
+| • [ECP5-LFE5UM5G-85F-CABGA381](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-85k  | 85k  | CABGA381  |
+| • [ECP5-LFE5UM5G-85F-CABGA554](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-85k  | 85k  | CABGA554  |
+| • [ECP5-LFE5UM5G-85F-CABGA756](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-85k  | 85k  | CABGA756  |
+| • [ECP5-LFE5UM5G-85F-CSFBGA285](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) | ecp5 | um5g-85k  | 85k  | CSFBGA285  |
 
 ────────────────────────────────────────────────────────────────────────────────
 FPGA                            Arch     Type         Size  Pack      
 ────────────────────────────────────────────────────────────────────────────────    
-• ECP5-LFE5UM5G-85F-CABGA381      ecp5     um5g-85k     85k   CABGA381  
-• ECP5-LFE5UM5G-85F-CABGA554      ecp5     um5g-85k     85k   CABGA554  
-• ECP5-LFE5UM5G-85F-CABGA756      ecp5     um5g-85k     85k   CABGA756  
-• ECP5-LFE5UM5G-85F-CSFBGA285     ecp5     um5g-85k     85k   CSFBGA285 
 • iCE40-HX1K-CB132                ice40    hx           1k    cb132     
 • iCE40-HX1K-TQ144                ice40    hx           1k    tq144     
 • iCE40-HX1K-VQ100                ice40    hx           1k    vq100     
