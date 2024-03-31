@@ -45,14 +45,14 @@
 | • [iCE40-HX1K-CB132](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 1k  | cb132  |
 | • [iCE40-HX1K-TQ144](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 1k  | tq144  |
 | • [iCE40-HX1K-VQ100](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 1k  | vq100  |
+| • [iCE40-HX4K-BG121](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 8k  | bg121:4k |
+| • [iCE40-HX4K-CB132](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 8k  | cb132:4k |
+| • [iCE40-HX4K-TQ144](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 8k  | tq144:4k |
+| • [iCE40-HX8K-BG121](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | hx  | 8k  | bg121 |
 
 ────────────────────────────────────────────────────────────────────────────────
 FPGA                            Arch     Type         Size  Pack      
 ────────────────────────────────────────────────────────────────────────────────      
-• iCE40-HX4K-BG121                ice40    hx           8k    bg121:4k  
-• iCE40-HX4K-CB132                ice40    hx           8k    cb132:4k  
-• iCE40-HX4K-TQ144                ice40    hx           8k    tq144:4k  
-• iCE40-HX8K-BG121                ice40    hx           8k    bg121     
 • iCE40-HX8K-CB132                ice40    hx           8k    cb132     
 • iCE40-HX8K-CM225                ice40    hx           8k    cm225     
 • iCE40-HX8K-CT256                ice40    hx           8k    ct256     
