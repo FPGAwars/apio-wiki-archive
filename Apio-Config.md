@@ -55,7 +55,28 @@ apio config --verbose 1
 
 # Profile file
 
-TODO
+The **configurations** are stored in the apio profile file, located in the **apio home dir**
+
+* Ex. in Linux: `/home/obijuan/.apio/profile.json`
+* Ex. in Windows: `C:\Users\JANEL\.apio\profile.json`
+
+These are the contents of a typical `profile.json` file:
+
+```json
+{
+    "config": {
+        "exe": "default",
+        "verbose": "0"
+    },
+    "packages": {
+        "oss-cad-suite": {
+            "version": "0.0.9"
+        }
+    },
+    "settings": {}
+}
+```
+
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
