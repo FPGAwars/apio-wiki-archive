@@ -70,12 +70,9 @@
 | • [iCE40-LP8K-CM225](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | lp  | 8k  | cm225 |
 | • [iCE40-LP8K-CM81](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | lp  | 8k  | cm81 |
 | • [iCE40-UL1K-CM36A](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40Ultra) | ice40 | ul  | 1k  | cm36a |
+| • [iCE40-UP5K-SG48](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40UltraPlus) | ice40 | up  | 5k  | sg48 |
+| • [iCE40-UP5K-UWG30](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40UltraPlus) | ice40 | up  | 5k  | uwg30 |
 
-────────────────────────────────────────────────────────────────────────────────
-FPGA                            Arch     Type         Size  Pack      
-────────────────────────────────────────────────────────────────────────────────           
-• iCE40-UP5K-SG48                 ice40    up           5k    sg48      
-• iCE40-UP5K-UWG30                ice40    up           5k    uwg30     
 ────────────────────────────────────────────────────────────────────────────────
 Total: 66 fpgas
 
