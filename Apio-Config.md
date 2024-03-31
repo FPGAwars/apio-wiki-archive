@@ -34,6 +34,8 @@ Apio configuration commands
 apio config --list
 ```
 
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-config-01.png)  
+
 ## 2. Enable native mode for executable binaries
 
 ```bash
