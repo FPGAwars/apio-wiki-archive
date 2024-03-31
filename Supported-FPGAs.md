@@ -73,8 +73,7 @@
 | • [iCE40-UP5K-SG48](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40UltraPlus) | ice40 | up  | 5k  | sg48 |
 | • [iCE40-UP5K-UWG30](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40UltraPlus) | ice40 | up  | 5k  | uwg30 |
 
-────────────────────────────────────────────────────────────────────────────────
-Total: 66 fpgas
+* **Total**: 66 fpgas
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
