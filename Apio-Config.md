@@ -10,16 +10,12 @@
 # Usage
 
 ```bash
-apio boards [OPTIONS]
+apio config [OPTIONS]
 ```
 
 # Description
 
-Show FPGA boards information
-
-> [!NOTE]
-> Check the [Supported boards](https://github.com/FPGAwars/apio/wiki/Supported-boards) page for a list of all the available boards  
-> Check the [Supported FPGAs](https://github.com/FPGAwars/apio/wiki/Supported-FPGAs) page for a list of all the available FPGAs
+Apio configuration commands
 
 # Options
 
