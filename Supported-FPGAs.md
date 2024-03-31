@@ -55,15 +55,15 @@
 | • [iCE40-LP1K-CB121](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | lp  | 1k  | cb121 |
 | • [iCE40-LP1K-CB81](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40)  | ice40 | lp  | 1k  | cb81 |
 | • [iCE40-LP1K-CM121](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40) | ice40 | lp  | 1k  | cm121 |
+| • [iCE40-LP1K-CM36](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40)  | ice40 | lp  | 1k  | cm36 |
+| • [iCE40-LP1K-CM49](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40)  | ice40 | lp  | 1k  | cm49 |
+| • [iCE40-LP1K-CM81](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40)  | ice40 | lp  | 1k  | cm81 |
+| • [iCE40-LP1K-QN84](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40)  | ice40 | lp  | 1k  | qn84 |
+| • [iCE40-LP1K-SWG16TR](https://www.latticesemi.com/en/Products/FPGAandCPLD/iCE40)  | ice40 | lp  | 1k  | swg16tr |
 
 ────────────────────────────────────────────────────────────────────────────────
 FPGA                            Arch     Type         Size  Pack      
-────────────────────────────────────────────────────────────────────────────────       
-• iCE40-LP1K-CM36                 ice40    lp           1k    cm36      
-• iCE40-LP1K-CM49                 ice40    lp           1k    cm49      
-• iCE40-LP1K-CM81                 ice40    lp           1k    cm81      
-• iCE40-LP1K-QN84                 ice40    lp           1k    qn84      
-• iCE40-LP1K-SWG16TR              ice40    lp           1k    swg16tr   
+────────────────────────────────────────────────────────────────────────────────           
 • iCE40-LP384-CM36                ice40    lp           384   cm36      
 • iCE40-LP384-CM49                ice40    lp           384   cm49      
 • iCE40-LP384-QN32                ice40    lp           384   qn32      
