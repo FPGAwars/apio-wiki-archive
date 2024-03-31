@@ -5,6 +5,7 @@
   * [Description](#description)  
   * [Options](#options)
   * [Examples](#examples)  
+  * [Profile file](#profile-file)  
 
 
 # Usage
