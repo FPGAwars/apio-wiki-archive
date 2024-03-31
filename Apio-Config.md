@@ -21,15 +21,17 @@ Apio configuration commands
 
 | Flag | Long Flag | Description |
 | ---- | --------- | ----------- |
-| `-l` | `--list`  | List all available packages |
-| `-f` | `--fpga` | List all supported FPGAs |
+| `-l` | `--list`  | List all configuration parameters |
+| `-e` | `--exe [default|native] | Configure executables: default selects apio packages, native selects native binaries`
+| `-v` | `--verbose [0|1]` | Verbose mode: 0 General, 1 Information |
+
 
 # Examples
 
-## 1. Show all available boards
+## 1. Show all configuration parameters
 
 ```bash
-apio boards --list
+apio config --list
 ```
 
 ## 2. Show all available FPGAs
