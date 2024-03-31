@@ -34,12 +34,21 @@ Apio configuration commands
 apio config --list
 ```
 
-## 2. Show all available FPGAs
+## 2. Enable native mode for executable binaries
 
 ```bash
-apio boards --fpga
+apio config --exe native
 ```
 
+## 3. Enable verbose mode 1
+
+```bash
+apio config --verbose 1
+```
+
+# Profile file
+
+TODO
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
