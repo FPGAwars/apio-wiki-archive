@@ -10,47 +10,51 @@
 # Usage
 
 ```bash
-apio config [OPTIONS]
+apio examples [OPTIONS]
 ```
 
 # Description
 
-Apio configuration commands
+Manage [verilog examples](https://github.com/FPGAwars/apio-examples): 
+
+This command requires the **examples package**.
 
 # Options
 
 | Flag | Long Flag | Description |
 | ---- | --------- | ----------- |
-| `-l` | `--list`  | List all configuration parameters |
-| `-e` | `--exe [default\|native]` | Configure executables: default selects apio packages, native selects native binaries |
-| `-v` | `--verbose [0\|1]` | Verbose mode: 0 General, 1 Information |
+| `-l` | `--list`  | List all available examples |
+| `-d` | `--dir`   | Copy the selected example directory |
+| `-f` | `--files` | Copy the selected example files |
+| `-p` | `--project-dir` | Set the target directory for the examples |  
+| -`-n`| `--sayno` | Automatically answer NO to all the questions |
 
 
 # Examples
 
-## 1. Show all configuration parameters
+## 1. Show all available examples
 
 ```bash
-apio config --list
+apio examples --list
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-config-01.png)  
+![]()  
 
-## 2. Enable native mode for executable binaries
+## 2. Copy the leds example files
 
 ```bash
-apio config --exe native
+apio examples --files leds
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-config-02.png)  
+![]()  
 
-## 3. Enable verbose mode 1
+## 3. Copy the leds example directory
 
 ```bash
-apio config --verbose 1
+apio examples --dir leds
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-config-03.png)  
+![]()  
 
 
 
