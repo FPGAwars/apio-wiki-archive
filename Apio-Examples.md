@@ -238,14 +238,13 @@ apio examples --files Alhambra-II/ledon
 
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-examples-01.png)  
 
-## 3. Copy the leds example directory
+## 3. Copy the ledon example directory for the Alhambra II board
 
 ```bash
-apio examples --dir leds
+apio examples --dir Alhambra-II/ledon
 ```
 
-![]()  
-
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-examples-02.png)  
 
 
 -------
