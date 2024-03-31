@@ -39,7 +39,7 @@ apio examples --list
 ```
 
 ```
-$ apio examples -l
+$ apio examples --list
 
 ────────────────────────────────────────────────────────────────────────────────
 Alhambra-II/ledon
