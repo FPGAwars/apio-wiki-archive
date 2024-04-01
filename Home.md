@@ -14,6 +14,8 @@
 * **Latest stable version**: 0.9.2
 * [Apio en pypi](https://pypi.org/project/apio/)  
 
+# Introduction
+
 Apio is a **multiplatform** toolbox with **static** pre-built packages to verify, synthesize, simulate and upload your verilog designs into the supported **FPGA boards**
 
 Apio makes **extremely easy** the process of working with **FPGAs**. Go from **scratch** to having a **blinky LED** in your FPGA board in minutes! This is because it is based only on **Free/Libre Open Source Software** (FLOSS). Just install it and use it as you want
