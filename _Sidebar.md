@@ -6,6 +6,10 @@
 * [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)  
 * [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
 
+## Apio projects
+* Project structure  
+* Project configuration file (apio.ini)  
+
 ## Boards
 * [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
 * [Supported FPGAs](https://github.com/FPGAwars/apio/wiki/Supported-FPGAs)  
