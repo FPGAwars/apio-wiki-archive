@@ -19,6 +19,7 @@
   * [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim)  
   * [apio time](https://github.com/FPGAwars/apio/wiki/Apio-Time)  
   * [apio upload](https://github.com/FPGAwars/apio/wiki/Apio-Upload)  
+  * [apio verify](https://github.com/FPGAwars/apio/wiki/Apio-Verify)  
   * apio lint
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
