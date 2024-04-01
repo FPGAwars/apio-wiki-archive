@@ -32,6 +32,9 @@ Required package: `oss-cad-suite`
 |      | `--verbose-pnr` | Show the pnr output of the command |  
 |      | `--top-module str` | Set the top level module (w/o .v ending) for build |  
 
+> [!NOTE]
+> All available boards, FPGAs, sizes, types and packs are showed in [apio boards](Apio-Boards)
+
 
 # Examples
 
