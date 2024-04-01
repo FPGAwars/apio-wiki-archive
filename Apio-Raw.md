@@ -16,8 +16,6 @@ apio raw "[CMD]"
 
 # Description
 
-Manage [verilog examples](https://github.com/FPGAwars/apio-examples): 
-
 Execute commands using Apio packages
 
 # Argument
