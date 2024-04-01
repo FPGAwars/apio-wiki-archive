@@ -4,6 +4,7 @@
   * [Usage](#usage)  
   * [Description](#description)  
   * [Options](#options)
+  * [Project commands](#project-commands)  
   * [Examples](#examples)  
 
 
