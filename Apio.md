@@ -106,9 +106,8 @@ Utility commands:
 
 ## 1. Show the apio version
 
-```
-$ apio --version
-apio.ini  info  ledon_tb.gtkw  ledon_tb.v  ledon.v  pinout.pcf
+```bash
+apio --version
 ```
 
 ```
