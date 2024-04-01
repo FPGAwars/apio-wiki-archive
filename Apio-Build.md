@@ -37,10 +37,30 @@ Required package: `oss-cad-suite`
 
 ## 1. Process the ledon example
 
+Before executing the command, these are the files in the current directory:
+
+```
+$ ls
+apio.ini  info  ledon_tb.gtkw  ledon_tb.v  ledon.v  pinout.pcf
+```
+
+Build the project:
+
 ```bash
 apio build
 ```
 
+It is build for the board specified in the `apio.ini` file:
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-build-01.png)  
+
+These are the new files created. The `hardware.bin` file contains the **bitstream**
+
+```
+$ ls
+apio.ini      hardware.bin   info           ledon_tb.v  pinout.pcf
+hardware.asc  hardware.json  ledon_tb.gtkw  ledon.v
+```
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
