@@ -10,7 +10,7 @@
 # Usage
 
 ```bash
-apio system [OPTIONS]
+apio upgrade [OPTIONS]
 ```
 
 # Description
