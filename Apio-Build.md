@@ -62,5 +62,16 @@ apio.ini      hardware.bin   info           ledon_tb.v  pinout.pcf
 hardware.asc  hardware.json  ledon_tb.gtkw  ledon.v
 ```
 
+## 2. Build ledon for the icestick board
+
+```bash
+apio build -b icestick
+```
+
+Even though the project is for the Alhambra-ii boad, the parameters have highest priority than the `apio.ini` file. Therefore, this file is ignored and the bitstream for icestick board is generated instead
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-build-02.png)  
+
+
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
