@@ -5,6 +5,7 @@
   * [Description](#description)  
   * [Options](#options)
   * [Project commands](#project-commands)  
+  * [Setup commands](#setup-commands)  
   * [Examples](#examples)  
 
 
