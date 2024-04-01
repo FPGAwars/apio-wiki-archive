@@ -24,6 +24,7 @@ TODO
   * [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards)  
   * [apio config](https://github.com/FPGAwars/apio/wiki/Apio-Config)  
   * [apio examples](https://github.com/FPGAwars/apio/wiki/Apio-Examples)  
+  * [apio raw](https://github.com/FPGAwars/apio/wiki/Apio-Raw)  
 
 ## Apio examples
 * [Downloading the Blinky example](https://github.com/FPGAwars/apio/wiki/Downloading-the-Blinky-example)
