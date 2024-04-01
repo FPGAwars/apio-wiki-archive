@@ -12,7 +12,7 @@
 * [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
 
 ## Apio commands
-* apio
+* [apio](https://github.com/FPGAwars/apio/wiki/Apio)  
 * **Project Commands**:
   * [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)  
   * [apio clean](https://github.com/FPGAwars/apio/wiki/Apio-Clean)  
