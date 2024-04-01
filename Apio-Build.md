@@ -27,6 +27,10 @@ Required package: `oss-cad-suite`
 |      | `--fpga`     | Select a specific FPGA |
 |      | `--size --type --pack`    | Select a specific FPGA size, type and pack |
 | `-p` | `--project-dir` | Set the target directory for the project. |  
+| `-v` | `--verbose`  | Show the entire output of the command |  
+|      | `--verbose-yosys` | Show the yosys output of the command |
+|      | `--verbose-pnr` | Show the pnr output of the command |  
+|      | `--top-module str` | Set the top level module (w/o .v ending) for build |  
 
 
 # Examples
