@@ -47,6 +47,16 @@ apio raw 'yosys -p "read_verilog leds.v; show" -q'
 
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-raw-01.png)  
 
+## 3. Run nextpnr to check its version
+
+```bash
+apio raw "nextpnr-ice40 --version"
+```
+
+```
+$ apio raw "nextpnr-ice40 --version"
+"nextpnr-ice40" -- Next Generation Place and Route (Version nextpnr-0.6-118-g0eb9a9ad)
+```
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
