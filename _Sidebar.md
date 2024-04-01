@@ -21,6 +21,8 @@
   * [apio upload](https://github.com/FPGAwars/apio/wiki/Apio-Upload)  
   * [apio verify](https://github.com/FPGAwars/apio/wiki/Apio-Verify)  
   * apio lint
+  * apio test
+  * apio graph
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
   * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
