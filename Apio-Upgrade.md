@@ -15,7 +15,7 @@ apio upgrade [OPTIONS]
 
 # Description
 
-Execute system commands
+Check latest stable Apio version in https://pypi.python.org/pypi/apio
 
 # Options
 
