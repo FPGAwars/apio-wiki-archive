@@ -15,6 +15,7 @@
 * apio
 * **Project Commands**:
   * [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)  
+  * [apio clean](https://github.com/FPGAwars/apio/wiki/Apio-Clean)  
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
   * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
