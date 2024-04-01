@@ -15,7 +15,9 @@ apio build [OPTIONS]
 
 # Description
 
-Execute system commands
+Synthesize the bitstream: generates a `.bin` file from the **verilog sources** and **constaint file**
+
+Required package: `oss-cad-suite`
 
 # Options
 
