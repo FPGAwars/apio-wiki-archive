@@ -6,6 +6,7 @@
   * [Options](#options)
   * [Project commands](#project-commands)  
   * [Setup commands](#setup-commands)  
+  * [Utility commands](#utility-commands)  
   * [Examples](#examples)  
 
 
