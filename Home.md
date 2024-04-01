@@ -11,6 +11,7 @@
 &nbsp;
 ![][raspbian-logo]
 
+* **Latest stable version**: 0.9.2
 
 Apio is a **multiplatform** toolbox with **static** pre-built packages to verify, synthesize, simulate and upload your verilog designs into the supported **FPGA boards**
 
