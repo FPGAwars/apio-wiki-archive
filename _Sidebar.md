@@ -17,6 +17,7 @@
   * [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)  
   * [apio clean](https://github.com/FPGAwars/apio/wiki/Apio-Clean)  
   * [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim)  
+  * [apio time](https://github.com/FPGAwars/apio/wiki/Apio-Time)  
   * apio lint
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
