@@ -33,7 +33,7 @@ Required package: `oss-cad-suite`
 |      | `--top-module str` | Set the top level module (w/o .v ending) for build |  
 
 > [!NOTE]
-> holi
+> All available boards, FPGAs, sizes, types and packs are showed in [apio boards](Apio-Boards)
 
 # Examples
 
