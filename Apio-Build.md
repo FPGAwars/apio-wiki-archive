@@ -50,7 +50,7 @@ Build the project:
 apio build
 ```
 
-It is build for the board specified in the `apio.ini` file:
+It is built for the board specified in the `apio.ini` file:
 
 ![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-build-01.png)  
 
