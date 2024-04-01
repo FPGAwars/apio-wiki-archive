@@ -48,7 +48,7 @@ Required package: `oss-cad-suite`
 apio upload
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-upload-01.png)  
 
 
 -------
