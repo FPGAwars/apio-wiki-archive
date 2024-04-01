@@ -15,9 +15,7 @@ apio verify [OPTIONS]
 
 # Description
 
-**Upload** the bitstream to the FPGA. It **builds** the project if required
-
-It also performs an **automatic discovery** and validation of the FTDI chip depending on the selected board.
+**Verify** the verilog code. It is agnostic of the FPGA. It does not use the constraint file
 
 Required package: `oss-cad-suite`
 
