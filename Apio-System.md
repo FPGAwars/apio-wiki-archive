@@ -28,10 +28,10 @@ Execute system commands
 
 # Examples
 
-## 1. Show all available examples
+## 1. List connected FTDI devices
 
 ```bash
-apio examples --list
+apio system --lsftdi
 ```
 
 ```
