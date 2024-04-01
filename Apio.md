@@ -20,7 +20,7 @@ apio [OPTIONS] COMMAND [ARGS]
 
 Apio main command. Execute `apio` to see the help:
 
-```
+```bash
 $ apio
 Usage: apio [OPTIONS] COMMAND [ARGS]...
 
