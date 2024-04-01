@@ -12,7 +12,7 @@
 ![][raspbian-logo]
 
 * **Latest stable version**: 0.9.2
-* [Apio en pypi](https://pypi.org/project/apio/)  
+* [Apio pypi package](https://pypi.org/project/apio/)  
 
 # Introduction
 
