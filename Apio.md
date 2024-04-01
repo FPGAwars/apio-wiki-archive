@@ -10,31 +10,94 @@
 # Usage
 
 ```bash
-apio build [OPTIONS]
+apio [OPTIONS] COMMAND [ARGS]
 ```
 
 # Description
 
-Synthesize the bitstream: generates a `.bin` file from the **verilog sources** and **constaint file**
+Apio main command. Execute `apio` to see the help:
 
-Required package: `oss-cad-suite`
+```
+$ apio
+Usage: apio [OPTIONS] COMMAND [ARGS]...
+
+  Work with FPGAs with ease
+
+Options:
+  --version   Show the version and exit.
+  -h, --help  Show this message and exit.
+
+Project commands:
+  boards     Manage FPGA boards.
+  build      Synthesize the bitstream.
+  clean      Clean the previous generated files.
+  config     Apio configuration.
+  drivers    Manage FPGA boards drivers.
+  examples   Manage verilog examples.
+  graph      Generate a a visual graph of the verilog code.
+  init       Manage apio projects.
+  install    Install apio packages.
+  lint       Lint the verilog code.
+  raw        Execute commands directly from the Apio packages
+  sim        Launch the verilog simulation.
+  system     System tools.
+  test       Launch the verilog testbench testing.
+  time       Bitstream timing analysis.
+  uninstall  Uninstall packages.
+  upgrade    Check the latest Apio version.
+  upload     Upload the bitstream to the FPGA.
+  verify     Verify the verilog code.
+
+Setup commands:
+  drivers    Manage FPGA boards drivers.
+  init       Manage apio projects.
+  install    Install apio packages.
+  uninstall  Uninstall packages.
+
+Utility commands:
+  boards     Manage FPGA boards.
+  config     Apio configuration.
+  drivers    Manage FPGA boards drivers.
+  examples   Manage verilog examples.
+  raw        Execute commands directly from the Apio packages
+  system     System tools.
+  upgrade    Check the latest Apio version.
+```
 
 # Options
 
-| Flag | Long Flag    | Description |
-| ---- | ------------ | ----------- |
-| `-b` | `--board`    | Select a specific board |
-|      | `--fpga`     | Select a specific FPGA |
-|      | `--size --type --pack`    | Select a specific FPGA size, type and pack |
-| `-p` | `--project-dir` | Set the target directory for the project. |  
-| `-v` | `--verbose`  | Show the entire output of the command |  
-|      | `--verbose-yosys` | Show the yosys output of the command |
-|      | `--verbose-pnr` | Show the pnr output of the command |  
-|      | `--top-module str` | Set the top level module (w/o .v ending) for build |  
+| Option      | Description               | 
+| ----------- | ------------------------- |
+| `--version` | Show the version of Apio  |
 
-> [!NOTE]
-> All available boards, FPGAs, sizes, types and packs are showed in [apio boards](Apio-Boards)
 
+# Project Commands
+
+* [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)  
+* [apio clean](https://github.com/FPGAwars/apio/wiki/Apio-Clean)  
+* [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim)  
+* [apio time](https://github.com/FPGAwars/apio/wiki/Apio-Time)  
+* [apio upload](https://github.com/FPGAwars/apio/wiki/Apio-Upload)  
+* [apio verify](https://github.com/FPGAwars/apio/wiki/Apio-Verify)  
+* apio test
+* apio graph
+* apio lint
+
+# Setup commands
+
+* [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
+* [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
+* [apio drivers](https://github.com/FPGAwars/apio/wiki/Apio-drivers)  
+* [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)  
+
+# Utility Commands
+
+* [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards)  
+* [apio config](https://github.com/FPGAwars/apio/wiki/Apio-Config)  
+* [apio examples](https://github.com/FPGAwars/apio/wiki/Apio-Examples)  
+* [apio raw](https://github.com/FPGAwars/apio/wiki/Apio-Raw)  
+* [apio system](https://github.com/FPGAwars/apio/wiki/Apio-System)  
+* [apio upgrade](https://github.com/FPGAwars/apio/wiki/Apio-Upgrade)  
 
 # Examples
 
