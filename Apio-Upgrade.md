@@ -24,7 +24,7 @@ Check latest stable Apio version in https://pypi.python.org/pypi/apio
 apio upgrade
 ```
 
-![]()
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-upgrade-01.png)
 
 
 -------
