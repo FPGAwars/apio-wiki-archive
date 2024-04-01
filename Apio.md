@@ -31,23 +31,13 @@ Options:
   -h, --help  Show this message and exit.
 
 Project commands:
-  boards     Manage FPGA boards.
   build      Synthesize the bitstream.
   clean      Clean the previous generated files.
-  config     Apio configuration.
-  drivers    Manage FPGA boards drivers.
-  examples   Manage verilog examples.
   graph      Generate a a visual graph of the verilog code.
-  init       Manage apio projects.
-  install    Install apio packages.
   lint       Lint the verilog code.
-  raw        Execute commands directly from the Apio packages
   sim        Launch the verilog simulation.
-  system     System tools.
   test       Launch the verilog testbench testing.
   time       Bitstream timing analysis.
-  uninstall  Uninstall packages.
-  upgrade    Check the latest Apio version.
   upload     Upload the bitstream to the FPGA.
   verify     Verify the verilog code.
 
@@ -60,7 +50,6 @@ Setup commands:
 Utility commands:
   boards     Manage FPGA boards.
   config     Apio configuration.
-  drivers    Manage FPGA boards drivers.
   examples   Manage verilog examples.
   raw        Execute commands directly from the Apio packages
   system     System tools.
