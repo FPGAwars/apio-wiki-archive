@@ -10,7 +10,7 @@
 # Usage
 
 ```bash
-apio upload [OPTIONS]
+apio verify [OPTIONS]
 ```
 
 # Description
