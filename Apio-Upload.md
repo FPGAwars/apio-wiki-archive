@@ -10,22 +10,26 @@
 # Usage
 
 ```bash
-apio build [OPTIONS]
+apio upload [OPTIONS]
 ```
 
 # Description
 
-Synthesize the bitstream: generates a `.bin` file from the **verilog sources** and **constaint file**
+**Upload** the bitstream to the FPGA. It **builds** the project if required
+
+It also performs an **automatic discovery** and validation of the FTDI chip depending on the selected board.
 
 Required package: `oss-cad-suite`
 
 # Options
 
-| Flag | Long Flag    | Description |
-| ---- | ------------ | ----------- |
-| `-b` | `--board`    | Select a specific board |
-|      | `--fpga`     | Select a specific FPGA |
-|      | `--size --type --pack`    | Select a specific FPGA size, type and pack |
+| Flag | Long Flag        | Description |
+| ---- | ---------------- | ----------- |
+| `-b` | `--board`        | Select a specific board |
+|      | `--serial-port`  | Select a specific serial port. You can check the available serial devices with the command `apio system --lsserial` |
+|      | ` --ftdi-id` | Select a specific FTDI index. You can check the available FTDI indexes with the command `apio system --lsftdi` |
+| `-s` | `--sram`     | Perform SRAM programming. Only available for iceprog compatible boards |  
+| `-f` | `--flash`    | Perform FLASH programming |
 | `-p` | `--project-dir` | Set the target directory for the project. |  
 | `-v` | `--verbose`  | Show the entire output of the command |  
 |      | `--verbose-yosys` | Show the yosys output of the command |
