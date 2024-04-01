@@ -42,10 +42,10 @@ Yosys 0.33+103 (git sha1 11ffd7df4, clang 10.0.0-4ubuntu1 -fPIC -Os)
 ## 2. Generate a verilog diagram with yosys
 
 ```bash
-apio examples --files Alhambra-II/ledon
+apio raw 'yosys -p "read_verilog leds.v; show" -q'
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-examples-01.png)  
+![]()  
 
 
 -------
