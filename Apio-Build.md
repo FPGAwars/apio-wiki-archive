@@ -23,10 +23,11 @@ Required package: `oss-cad-suite`
 
 | Flag | Long Flag    | Description |
 | ---- | ------------ | ----------- |
-| `-i` | `--info`     | Show system information: current platform |
-|      | `--lsftdi`   | List all connected FTDI devices |
-|      | `--lsusb`    | List all connected USB devices. |
-|      | `--lsserial` | List all connected Serial devices |  
+| `-b` | `--board`    | Select a specific board |
+|      | `--fpga`     | Select a specific FPGA |
+|      | `--size --type --pack`    | Select a specific FPGA size, type and pack |
+| `-p` | `--project-dir` | Set the target directory for the project. |  
+
 
 # Examples
 
