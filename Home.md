@@ -5,6 +5,10 @@ Apio is a **multiplatform** toolbox with **static** pre-built packages to verify
 
 Apio makes **extremely easy** the process of working with **FPGAs**. Go from **scratch** to having a **blinky LED** in your FPGA board in minutes! This is because it is based only on **Free/Libre Open Source Software** (FLOSS). Just install it and use it as you want
 
+In this animation you can see the whole process of testing the Blinky led circuit: Just type one command and the circuit will be synthesized, and uploaded into the FPGA
+
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Quick-start/apio-alhambra-II-01.gif)
+
 # Getting started
 
 If you are new to apio, start by reading these sections:
