@@ -15,20 +15,16 @@ apio system [OPTIONS]
 
 # Description
 
-Manage [verilog examples](https://github.com/FPGAwars/apio-examples): 
-
-This command requires the **examples package**.
+Execute system commands
 
 # Options
 
-| Flag | Long Flag | Description |
-| ---- | --------- | ----------- |
-| `-l` | `--list`  | List all available examples |
-| `-d` | `--dir`   | Copy the selected example directory |
-| `-f` | `--files` | Copy the selected example files |
-| `-p` | `--project-dir` | Set the target directory for the examples |  
-| -`-n`| `--sayno` | Automatically answer NO to all the questions |
-
+| Flag | Long Flag    | Description |
+| ---- | ------------ | ----------- |
+| `-i` | `--info`     | Show system information: current platform |
+|      | `--lsftdi`   | List all connected FTDI devices |
+|      | `--lsusb`    | List all connected USB devices. |
+|      | `--lsserial` | List all connected Serial devices |  
 
 # Examples
 
