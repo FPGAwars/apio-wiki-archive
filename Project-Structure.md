@@ -22,6 +22,8 @@ An **Apio project** consist of the following **files**:
 ```
 * Optionally, a testbench file ending in `_tb.v`. This file will be excluded by [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build), but become the main module for [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim).
 
+> [!NOTE]
+> Have a look at the [apio examples](https://github.com/FPGAwars/apio-examples) package
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
