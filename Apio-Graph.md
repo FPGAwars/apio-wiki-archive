@@ -27,13 +27,30 @@ Generate a **visual graph** of the verilog code
 
 # Examples
 
-## 1. Lint the ledon example
+## 1. Graph the ledon example
 
-```bash
-apio lint
+Before executing the command, these are the files in the current directory:
+
+```
+$ ls
+apio.ini  info  ledon_tb.gtkw  ledon_tb.v  ledon.v  pinout.pcf
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-lint-01.png)  
+Graph the project:
+
+```bash
+apio graph
+```
+
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-graph-01.png)  
+
+These are the new files created. The `hardware.svg` file contains the graph in SVG format
+
+```
+$ ls
+apio.ini      hardware.svg  ledon_tb.gtkw  ledon.v
+hardware.dot  info          ledon_tb.v     pinout.pcf
+```
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
