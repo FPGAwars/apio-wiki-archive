@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Install packages](#install-packages)   
 * [Create a project](#create-a-project)  
+* [Configure your board](#configure-your-board)  
 
 # Introduction
 
