@@ -17,6 +17,8 @@ apio lint [OPTIONS]
 
 Lint the verilog code. It is agnostic of the FPGA. It does not use the constraints files (`.pcf`,`.lpf`)
 
+> [!WARNING]
+> `apio lint` is broken for oss-cas-suite@0.0.9 apio package
 
 # Options
 
