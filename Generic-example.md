@@ -8,6 +8,7 @@
 * [Configure your board](#configure-your-board)  
 * [Process the project](#process-the-project)  
   * [Verify](#verify)  
+  * [Simulate](#simulate)  
 
 # Introduction
 
