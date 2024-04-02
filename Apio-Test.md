@@ -29,14 +29,29 @@ Launch the verilog testbench testing. All the testbenches are executed by defaul
 
 ## 1. Test the ledon example
 
-```bash
-apio sim
+Before executing the command, these are the files in the current directory:
+
+```
+$ ls
+apio.ini  info  ledon_tb.gtkw  ledon_tb.v  ledon.v  pinout.pcf
 ```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-sim-02.png)  
+Simulate the project:
 
+```bash
+apio test
+```
 
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-sim-01.png)  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-test-01.png)  
+
+These are the new files created:
+
+```
+$ ls
+apio.ini  ledon_tb.gtkw  ledon_tb.v    ledon.v
+info      ledon_tb.out   ledon_tb.vcd  pinout.pcf
+```
+
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
