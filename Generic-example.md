@@ -4,6 +4,7 @@
 
 * [Introduction](#introduction)
 * [Install packages](#install-packages)   
+* [Create a project](#create-a-project)  
 
 # Introduction
 
