@@ -6,6 +6,7 @@
 * [Install packages](#install-packages)   
 * [Create a project](#create-a-project)  
 * [Configure your board](#configure-your-board)  
+* [Process the project](#process-the-project)  
 
 # Introduction
 
