@@ -55,56 +55,37 @@ Check your verilog code using [Icarus Verilog](http://iverilog.icarus.com/)
 $ apio verify
 ```
 
+## Simulate
 
-Simulate
-~~~~~~~~
+Simulate your test bench using [Icarus Verilog](http://iverilog.icarus.com/) and [GTKWave](http://gtkwave.sourceforge.net/>)
 
-Simulate your test bench using `Icarus Verilog <http://iverilog.icarus.com/>`_ and `GTKWave <http://gtkwave.sourceforge.net/>`_
+```bash
+$ apio sim
+```
+![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Apio-commands/apio-sim-01.png)  
 
-.. code::
+> [!NOTE] GTKWave must be installed. Have a look to the [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim) command
 
-  $ apio sim
+## Build
 
-.. image:: ../resources/images/gtkwave-simulation.png
+Syntesize your project using [OSS-CAD-SUITE](https://github.com/YosysHQ/oss-cad-suite-build) Tools
 
-.. note::
-
-  GTKWave must be installed.
-
-  +---------+-------------------------+
-  | Debian  | apt-get install gtkwave |
-  +---------+-------------------------+
-  | Mac OSX | brew install gtkwave    |
-  +---------+-------------------------+
-  | Windows | apio install gtkwave    |
-  +---------+-------------------------+
-
-Build
-~~~~~~
-
-Syntesize your project using `Icestorm Tools <http://www.clifford.at/icestorm/>`_
-
-.. code::
-
-  $ apio build
+```
+$ apio build
+```
 
 
-Upload
-~~~~~~
+## Upload
 
-Connect your FPGA board and upload the bitstream using `Icestorm Tools <http://www.clifford.at/icestorm/>`_
+Connect your FPGA board and upload the bitstream using [OSS-CAD-SUITE](https://github.com/YosysHQ/oss-cad-suite-build) Tools
 
-.. code::
+```bash
+$ apio upload
+```
 
-  $ apio upload
-
-
-All the leds should turn on after 3 seconds
-
-.. image:: ../resources/images/apio-icestorm-hello-world.png
+All the leds should turn on after some seconds
 
 **Congrats! Now You have your fully open source FPGA toolchain ready!**
-
 
 
 -------
