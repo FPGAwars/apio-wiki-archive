@@ -51,7 +51,7 @@ $ ls
 apio.ini  ledon_tb.gtkw  ledon_tb.v    ledon.v
 info      ledon_tb.out   ledon_tb.vcd  pinout.pcf
 ```
-
+The `.vcd` files are created, but **they are NOT** automatically opened with GTKWAVE (`apio sim` does run gtkwave if installed)
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
