@@ -10,6 +10,7 @@
   * [Verify](#verify)  
   * [Simulate](#simulate)  
   * [Build](#build)  
+  * [Upload](#upload)  
 
 # Introduction
 
