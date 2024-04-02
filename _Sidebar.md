@@ -8,7 +8,7 @@
 
 ## Apio projects
 * [Project structure](https://github.com/FPGAwars/apio/wiki/Project-Structure)  
-* Project configuration file (apio.ini)  
+* [Project configuration file](https://github.com/FPGAwars/apio/wiki/Project-configuration-file) (apio.ini)  
 
 ## Boards
 * [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
