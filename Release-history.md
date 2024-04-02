@@ -9,6 +9,7 @@ Here you can find the **release notes** for the different versions of Apio
 | Version                   | Comments           |
 | --------------------------|--------------------|
 | [Latest changes](#latest-changes) | [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)  | 
+| [Version 0.9.3](#version-093) | Bug Fixes release: Bug fixed: apio graph, apio drivers, Documentation moved to wiki |
 | [Version 0.9.2](#version-092) | Bug Fixes release: Error when uploading, building, verifying from icestudio |
 | [Version 0.9.1](#version-091) | Top module name is now mandatory. OSS-cad-suite@0.0.9. New commands. Bug fixed. Cleaned Code|
 | [Version 0.8.4](#version-084) | Quick update release: New boards orangecrab, ButerSticr1.0 |
