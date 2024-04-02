@@ -36,7 +36,7 @@ Lint the verilog code. It is agnostic of the FPGA. It does not use the constrain
 apio lint
 ```
 
-![]()  
+![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-lint-01.png)  
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
