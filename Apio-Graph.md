@@ -10,25 +10,20 @@
 # Usage
 
 ```bash
-apio lint [OPTIONS]
+apio graph [OPTIONS]
 ```
 
 # Description
 
-Lint the verilog code. It is agnostic of the FPGA. It does not use the constraints files (`.pcf`,`.lpf`)
-
-> [!WARNING]
-> `apio lint` is broken for oss-cas-suite@0.0.9 apio package
+Generate a **visual graph** of the verilog code
 
 # Options
 
 | Flag | Long Flag    | Description |
 | ---- | ------------ | ----------- |
-| `-a` | `--all`      | Enable all warnings, including code style warnings |  
-| `-t` | `--top`      | Set top module |
-|      | ` --nowarn`  | Disable all style warnings |
-|      | `--warn`     | Enable specific warning(s) |
+| `-v` | `--verbose`  | Show the entire output of the command |  
 | `-p` | `--project-dir` | Set the target directory for the project |  
+|      | `--top-module` | Set the top level module (w/o .v ending) to graph |  
 
 # Examples
 
