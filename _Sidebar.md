@@ -21,17 +21,19 @@
   * [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)  
   * [apio clean](https://github.com/FPGAwars/apio/wiki/Apio-Clean)  
   * [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim)  
+  * [apio test](https://github.com/FPGAwars/apio/wiki/Apio-Test)  
+  * [apio verify](https://github.com/FPGAwars/apio/wiki/Apio-Verify)  
+  * [apio lint](https://github.com/FPGAwars/apio/wiki/Apio-Lint)  
   * [apio time](https://github.com/FPGAwars/apio/wiki/Apio-Time)  
   * [apio upload](https://github.com/FPGAwars/apio/wiki/Apio-Upload)  
-  * [apio verify](https://github.com/FPGAwars/apio/wiki/Apio-Verify)  
-  * [apio test](https://github.com/FPGAwars/apio/wiki/Apio-Test)  
   * apio graph
-  * apio lint
+  
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
   * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
   * [apio drivers](https://github.com/FPGAwars/apio/wiki/Apio-drivers)  
   * [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)  
+
 * **Utility Commands**:
   * [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards)  
   * [apio config](https://github.com/FPGAwars/apio/wiki/Apio-Config)  
