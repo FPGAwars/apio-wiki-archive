@@ -2,10 +2,10 @@
 
 # Contents
 
-* [Generic exaple]()
+* [Introduction](https://github.com/FPGAwars/apio/wiki/Generic-example#generic-example)
 * [Install packages](#install-packages)   
 
-# Generic example
+# Introduction
 
 Once apio has been installed and the drivers have been correctly configured is time to start playing with your FPGA!
 
