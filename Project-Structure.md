@@ -2,7 +2,7 @@
 
 # Project Structure
 
-An Apio project consist of the following files:
+An **Apio project** consist of the following **files**:
 
 * The `apio.ini`. This is generated using [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)
 * A **constraint file** (`.pcf` or `.lpf`). There should be exactly one constraint file per Apio project
