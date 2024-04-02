@@ -71,7 +71,8 @@ $ apio sim
 ```
 ![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Apio-commands/apio-sim-01.png)  
 
-> [!NOTE] GTKWave must be installed. Have a look to the [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim) command
+> [!NOTE] 
+> GTKWave must be installed. Have a look to the [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim) command
 
 ## Build
 
