@@ -79,7 +79,7 @@ $ apio sim
 
 Syntesize your project using [OSS-CAD-SUITE](https://github.com/YosysHQ/oss-cad-suite-build) Tools
 
-```
+```bash
 $ apio build
 ```
 
