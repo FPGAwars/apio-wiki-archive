@@ -4,7 +4,8 @@
 
 ## Getting started
 * [Introduction: Easy FPGAs](https://github.com/FPGAwars/apio/wiki/Introduction:-Easy-FPGAs)  
-* [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
+* [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)  
+* [Installation](https://github.com/FPGAwars/apio/wiki/Installation)  
 
 ## Apio projects
 * [Project structure](https://github.com/FPGAwars/apio/wiki/Project-Structure)  
