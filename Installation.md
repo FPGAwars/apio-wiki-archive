@@ -3,6 +3,7 @@
 # Contents
   * [System requirements](#system-requirements)  
   * [Install Apio](#install-apio)  
+  * [Install FTDI-DRIVERs](#install-ftdi-drivers)  
 
 
 **Apio** is written in [Python](https://www.python.org/downloads) and works on Linux (+ARM), Mac OS X and Windows
