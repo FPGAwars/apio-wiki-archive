@@ -9,6 +9,7 @@
 * [Process the project](#process-the-project)  
   * [Verify](#verify)  
   * [Simulate](#simulate)  
+  * [Build](#build)  
 
 # Introduction
 
