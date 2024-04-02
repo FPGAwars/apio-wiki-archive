@@ -1,6 +1,7 @@
 [![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
 # Contents
+  * [System requirements](#system-requirements)  
   * []()  
 
 
