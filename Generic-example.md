@@ -3,7 +3,7 @@
 # Contents
 
 * [Generic exaple]()
- 
+* [Install packages](#install-packages)   
 
 # Generic example
 
