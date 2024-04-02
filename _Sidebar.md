@@ -24,7 +24,7 @@
   * [apio time](https://github.com/FPGAwars/apio/wiki/Apio-Time)  
   * [apio upload](https://github.com/FPGAwars/apio/wiki/Apio-Upload)  
   * [apio verify](https://github.com/FPGAwars/apio/wiki/Apio-Verify)  
-  * apio test
+  * [apio test](https://github.com/FPGAwars/apio/wiki/Apio-Test)  
   * apio graph
   * apio lint
 * **Setup commands**:
