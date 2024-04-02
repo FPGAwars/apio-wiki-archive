@@ -6,7 +6,7 @@
   * [Install FTDI-DRIVERs](#install-ftdi-drivers)  
   * [Install Serial Drivers](#install-serial-drivers)  
 
-## System requirements
+# System requirements
 
 **Apio** is written in [Python](https://www.python.org/downloads) and works on Linux (+ARM), Mac OS X and Windows
 
@@ -25,7 +25,7 @@
   * **Windows Users**: Please check that you have correctly installed USB driver from board manufacturer.
   * **Linux Users**: Ubuntu/Debian users may need to add own "username" to the "dialout" group if they are not "root", doing this issuing a ``sudo usermod -a -G dialout $USER``.
 
-## Install Apio
+# Install Apio
 
 The latest stable version of Apio may be installed or upgraded via
 Python Package Manager ([pip](https://pip.pypa.io) as follows:
@@ -42,7 +42,7 @@ a few options here:
 * Run the command in a [python virtual env](https://docs.python.org/3/library/venv.html) local to a specific project working set
 
 
-## Install FTDI drivers
+# Install FTDI drivers
 
 For boards with a FTDI interface
 
@@ -56,7 +56,7 @@ To revert the FTDI drivers configuration.
 $ apio drivers --ftdi-disable
 ```
 
-## Install Serial drivers
+# Install Serial drivers
 
 
 For boards with a **Serial interface**.
