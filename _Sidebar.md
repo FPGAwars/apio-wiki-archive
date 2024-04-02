@@ -7,7 +7,7 @@
 * [Quick Start](https://github.com/FPGAwars/apio/wiki/Quick-start)
 
 ## Apio projects
-* Project structure  
+* [Project structure](https://github.com/FPGAwars/apio/wiki/Project-Structure)  
 * Project configuration file (apio.ini)  
 
 ## Boards
