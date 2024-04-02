@@ -27,13 +27,11 @@
   * [apio time](https://github.com/FPGAwars/apio/wiki/Apio-Time)  
   * [apio upload](https://github.com/FPGAwars/apio/wiki/Apio-Upload)  
   * [apio graph](https://github.com/FPGAwars/apio/wiki/Apio-Graph)  
-  
 * **Setup commands**:
   * [apio install](https://github.com/FPGAwars/apio/wiki/Apio-Install)  
   * [apio uninstall](https://github.com/FPGAwars/apio/wiki/Apio-Uninstall)  
   * [apio drivers](https://github.com/FPGAwars/apio/wiki/Apio-drivers)  
   * [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)  
-
 * **Utility Commands**:
   * [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards)  
   * [apio config](https://github.com/FPGAwars/apio/wiki/Apio-Config)  
