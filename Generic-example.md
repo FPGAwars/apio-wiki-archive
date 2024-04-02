@@ -42,7 +42,8 @@ Find your board in the list
   [...]
 ```
 
-> [!NOTE] See the [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards) command
+> [!NOTE] 
+> See the [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards) command
 
 
 Create an `apio.ini` file with your board
