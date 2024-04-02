@@ -2,7 +2,7 @@
 
 # Contents
 
-* [Introduction](https://github.com/FPGAwars/apio/wiki/Generic-example#generic-example)
+* [Introduction](#introduction)
 * [Install packages](#install-packages)   
 
 # Introduction
