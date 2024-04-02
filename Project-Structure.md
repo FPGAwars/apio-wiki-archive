@@ -4,8 +4,8 @@
 
 An **Apio project** consist of the following **files**:
 
-* The `apio.ini`. This is generated using [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)
-* A **constraint file** (`.pcf` or `.lpf`). There should be exactly one constraint file per Apio project
+* [apio.ini](https://github.com/FPGAwars/apio/wiki/Project-configuration-file). This is generated using [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)
+* **Constraint file** (`.pcf` or `.lpf`). There should be exactly one constraint file per Apio project
   The first constraint file that is found will be used for mapping wires to the physical FPGA pins for [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)
 * **Verilog source** files. All files ending in ``.v`` will be selected and included in the project automatically.
   If you don't want to include a Verilog file automatically, name it as ``.vh`` (Verilog Header) to exclude it.
