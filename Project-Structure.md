@@ -1,79 +1,26 @@
 [![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
-# Contents
-  * [Usage](#usage)  
-  * [Description](#description)  
-  * [Options](#options)
-  * [Examples](#examples)  
+# Project Structure
 
+An Apio project consist of the following files:
 
-# Usage
+* The `apio.ini`. This is generated using [apio init](https://github.com/FPGAwars/apio/wiki/Apio-init)
+* A **constraint file** (`.pcf` or `.lpf`). There should be exactly one constraint file per Apio project
+  The first constraint file that is found will be used for mapping wires to the physical FPGA pins for [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build)
+* **Verilog source** files. All files ending in ``.v`` will be selected and included in the project automatically.
+  If you don't want to include a Verilog file automatically, name it as ``.vh`` (Verilog Header) to exclude it.
+  If you are using multiple files or including headers above your top module, mark the top module like so:
 
-```bash
-apio build [OPTIONS]
+```verilog
+  (* top *)
+  module my_top_module(
+      output led_r,
+      input serial_rxd,
+  );
+  ....
+  endmodule
 ```
-
-# Description
-
-Synthesize the bitstream: generates a `.bin` file from the **verilog sources** and **constaint file**
-
-Required package: `oss-cad-suite`
-
-# Options
-
-| Flag | Long Flag    | Description |
-| ---- | ------------ | ----------- |
-| `-b` | `--board`    | Select a specific board |
-|      | `--fpga`     | Select a specific FPGA |
-|      | `--size --type --pack`    | Select a specific FPGA size, type and pack |
-| `-p` | `--project-dir` | Set the target directory for the project. |  
-| `-v` | `--verbose`  | Show the entire output of the command |  
-|      | `--verbose-yosys` | Show the yosys output of the command |
-|      | `--verbose-pnr` | Show the pnr output of the command |  
-|      | `--top-module str` | Set the top level module (w/o .v ending) for build |  
-
-> [!NOTE]
-> All available boards, FPGAs, sizes, types and packs are showed in [apio boards](Apio-Boards)
-
-
-# Examples
-
-## 1. Process the ledon example
-
-Before executing the command, these are the files in the current directory:
-
-```
-$ ls
-apio.ini  info  ledon_tb.gtkw  ledon_tb.v  ledon.v  pinout.pcf
-```
-
-Build the project:
-
-```bash
-apio build
-```
-
-It is built for the board specified in the `apio.ini` file:
-
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-build-01.png)  
-
-These are the new files created. The `hardware.bin` file contains the **bitstream**
-
-```
-$ ls
-apio.ini      hardware.bin   info           ledon_tb.v  pinout.pcf
-hardware.asc  hardware.json  ledon_tb.gtkw  ledon.v
-```
-
-## 2. Build ledon for the icestick board
-
-```bash
-apio build -b icestick
-```
-
-Even though the project is for the Alhambra-ii boad, the parameters have highest priority than the `apio.ini` file. Therefore, this file is ignored and the bitstream for icestick board is generated instead
-
-![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Apio-commands/apio-build-02.png)  
+* Optionally, a testbench file ending in `_tb.v`. This file will be excluded by [apio build](https://github.com/FPGAwars/apio/wiki/Apio-Build), but become the main module for [apio sim](https://github.com/FPGAwars/apio/wiki/Apio-Sim).
 
 
 -------
