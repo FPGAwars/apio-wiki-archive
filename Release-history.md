@@ -40,6 +40,15 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.9.3
+* **Date**: 2024-April-02
+* **NOTE**: Quick update release
+* Bug fixed: apio main help: output reformated, by ([Obijuan](https://github.com/Obijuan))
+* Documentation moved to the wiki, ([Obijuan](https://github.com/Obijuan))
+* Windows: Apio drivers --ftdi_enable: code refactoring, ([Obijuan](https://github.com/Obijuan))
+* Bug fixed: #363: Error when executing apio graph, ([Obijuan](https://github.com/Obijuan))
+* issue #361: Improve error message in windows when running apio drivers --ftdi-enable, ([Obijuan](https://github.com/Obijuan))
+
 ## Version 0.9.2
 * **Date**: 2024-March-23
 * **NOTE**: Quick update release
@@ -48,7 +57,7 @@ Here you can find the **release notes** for the different versions of Apio
 ## Version 0.9.1
 * **Date**: 2024-March-22
 * **NOTE**: The top module name is now mandatory. It should be configured in the apio.ini file (or pass as an argument). The default module name used is `main`. Apio projects created with apio < 0.9.1 may not work unless the top-module is configured
-* **OSS-CAD-SUITE**: [Version 0.0.9](https://github.com/FPGAwars/tools-oss-cad-suite/releases/tag/v0.0.9). 3-Oct-2023. Yosys: 0.33+103. Nextpnr: 0.6-118. OpenFPGALoader: 0.11.0
+* **OSS-CAD-SUITE**: [Version 0.0.9](https://github.com/FPGAwars/tools-oss-cad-suite/releases/tag/v0.0.9). 3-Oct-2023. Yosys: 0.33+103. Nextpnr: 0.6-118. OpenFPGALoader: 0.11.0 (([Cavearr](https://github.com/cavearr)))  
 * Code cleaning, documentation and refactoring ([Obijuan](https://github.com/Obijuan))
 * Add top-module parameter to the apio.ini file ([Obijuan](https://github.com/Obijuan))
 * apio init now includes the option parameter top-module ([Obijuan](https://github.com/Obijuan))
@@ -71,6 +80,9 @@ Here you can find the **release notes** for the different versions of Apio
 * Added the **apio graph** command which generates a svg graph of the verilog code. by ([zapta](https://github.com/zapta)) in https://github.com/FPGAwars/apio/pull/356
 * Two minor fixes. Click command metavar and yosys graph command. by ([zapta](https://github.com/zapta)) in https://github.com/FPGAwars/apio/pull/359
 * Undoing a previous change in the yosys graph generation command that was apparently unnecessary.  by ([zapta](https://github.com/zapta)) in https://github.com/FPGAwars/apio/pull/360
+* Added support for OSX arm 64, by (([Cavearr](https://github.com/cavearr))) 
+* Fix *unconstrained in LPF* for ecp5 boards with the new oss cad suite, by (([Cavearr](https://github.com/cavearr))) 
+* Fix SConstruct bug for ecp5 boards and support for custom top module by command line, by (([Cavearr](https://github.com/cavearr))) 
 
 ## Version 0.8.4
 * **Date**: 2023-Oct-3
