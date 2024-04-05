@@ -62,7 +62,7 @@ Example:
 ```ini
 top-module = main
 ```
-
+> [!NOTE]
 **NOTE:** Some APIO commands allow to override the `top-module` setting using the `--top-module` command line flag. 
 
 ```shell
