@@ -28,7 +28,7 @@ Example:
 board = upduino31
 ```
 > [!NOTE]
-**NOTE:** Some APIO commands allow to override the `board` setting using the `--board` command line flag. 
+Some APIO commands allow to override the `board` setting using the `--board` command line flag. 
 ```shell
 apio build --board upduino31
 ```
@@ -63,7 +63,7 @@ Example:
 top-module = main
 ```
 > [!NOTE]
-**NOTE:** Some APIO commands allow to override the `top-module` setting using the `--top-module` command line flag. 
+Some APIO commands allow to override the `top-module` setting using the `--top-module` command line flag. 
 
 ```shell
 apio build --top-module my_top-module
