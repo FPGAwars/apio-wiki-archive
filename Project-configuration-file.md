@@ -3,25 +3,51 @@
 # Apio Project configuration file (apio.ini)
 
 The `apio.ini` configuration file stores the Apio configuration for each project. The file is in 'ini' format with
-all the attributes stored in the ```[env]``` section and is intended for manual editing by users. A minimal
-```apio.ini``` file may look like
+all the attributes stored in the `[env]` section and is intended for manual editing by users. A minimal
+`apio.ini` file may look like
 
 ```ini
 # Sample API configuration file.
 [env]
-board = upduino31
+board = alhambra-ii
 top-module = main
 ```
 
+The supported configuration attributes are:
 
+## board
 
-The current configuration parameters are:
+Type: `String` | Required: `Yes` | Default: `none`
 
-| Section | Parameter    | Description |
-| ------- | ------------ | ----------- |
-| `env`   | `board`      | The board, chosen from the list of [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards)  |
-| `env`   | `top-module` | The design Top module name | 
+The ID of the supported board model. The list supported boards is available [apio boards](https://github.com/FPGAwars/apio/wiki/Apio-Boards) or by running the command `apio boards --list`.
 
+Example:
+```ini
+board = upduino31
+```
+
+NOTE: Some APIO commands allow to override the `board` setting using the --board command line flag. 
+
+```shell
+apio build --board upduino31
+```
+
+## top-module
+
+Type: `String` | Required: `No` | Default: `main`
+
+The name of the Verilog module to be used as top module when building the project. Not that this is the name as it appears in the verilog `module` statement such as `module main` and not a file name such as `main.v`.
+
+Example:
+```ini
+top-module = main
+```
+
+NOTE: Some APIO commands allow to override the `top-module` setting using the --top-module command line flag. 
+
+```shell
+apio build --top-module my_top-module
+```
 
 
 -------
