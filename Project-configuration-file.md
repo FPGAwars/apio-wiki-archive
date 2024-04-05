@@ -27,9 +27,8 @@ Example:
 ```ini
 board = upduino31
 ```
-
+> [!NOTE]
 **NOTE:** Some APIO commands allow to override the `board` setting using the `--board` command line flag. 
-
 ```shell
 apio build --board upduino31
 ```
@@ -39,9 +38,11 @@ apio build --board upduino31
 
 Type: `String` | Required: `No` | Default: `default`
 
-Specifies the execution mode of the project build. The valid values are `default` and `native.
+Specifies the **execution mode** of the project build. The valid values are `default` and `native`.
 
-**TODO: Explain the difference between `default` and `native`.**
+The `default` behaviour of apio is to run the toolchains that were installed from apio packages (Ex. apio install oss-cad-suite). It is the easiest choice for a normal user: let apio install and manage the executables
+
+But it is also possible (`native` mode) to let apio execute the installed toolchains in the system. In this case, is the user (advanced) who should install all the toolchains needed. Apio will find them if they are in system PATH 
 
 
 Example:
