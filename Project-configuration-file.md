@@ -7,13 +7,15 @@ all the attributes stored in the `[env]` section and is intended for manual edit
 `apio.ini` file may look like
 
 ```ini
-# Sample API configuration file.
+# Comment line.
 [env]
 board = alhambra-ii
 top-module = main
 ```
 
 The supported configuration attributes are:
+
+---
 
 ## board
 
@@ -31,6 +33,23 @@ NOTE: Some APIO commands allow to override the `board` setting using the --board
 ```shell
 apio build --board upduino31
 ```
+---
+
+## exe-mode
+
+Type: `String` | Required: `No` | Default: `default`
+
+Specifies the execution mode of the project build. The valid values are `default` and `native.
+
+**TODO: Explain the difference between `default` and `native`.**
+
+
+Example:
+```ini
+exe-mode = native
+```
+
+---
 
 ## top-module
 
