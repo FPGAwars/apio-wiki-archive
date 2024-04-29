@@ -7,9 +7,9 @@ For releasing a new stable apio version, follow these steps:
 * **Merge** the Apio **develop** branch into **Master**
 * Change the version in the file `apio/__init__.py`
 ```python
-VERSION = (0, 7, 4)
+VERSION = (0, 9, 4)
 ```
-* Change the `packages.json` file. Make sure it has the `VERSION` file in the `url_version` attribute:  
+* Change the `resources/packages.json` file. Make sure it has the `VERSION` file in the `url_version` attribute:  
 ```
 "url_version": "https://github.com/FPGAwars/tools-oss-cad-suite/raw/main/VERSION"
 ```
@@ -17,7 +17,7 @@ VERSION = (0, 7, 4)
 
 Example:
 ```
-v0.7.4
+v0.9.4
 ```
 
 * **Publish the release** from github
@@ -31,14 +31,14 @@ v0.7.4
 * Install the new package in your system (globaly):
 
 ```
-$ sudo pip3 install apio==0.7.4
+$ sudo pip3 install apio==0.9.4
 ```
 
 * Check the new version:
 
 ```
 $  apio --version
-apio, version 0.7.4
+apio, version 0.9.4
 ```
 
 -------
