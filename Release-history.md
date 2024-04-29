@@ -88,9 +88,9 @@ Here you can find the **release notes** for the different versions of Apio
 * Added the **apio graph** command which generates a svg graph of the verilog code. by ([zapta](https://github.com/zapta)) in https://github.com/FPGAwars/apio/pull/356
 * Two minor fixes. Click command metavar and yosys graph command. by ([zapta](https://github.com/zapta)) in https://github.com/FPGAwars/apio/pull/359
 * Undoing a previous change in the yosys graph generation command that was apparently unnecessary.  by ([zapta](https://github.com/zapta)) in https://github.com/FPGAwars/apio/pull/360
-* Added support for OSX arm 64, by (([Cavearr](https://github.com/cavearr))) 
-* Fix *unconstrained in LPF* for ecp5 boards with the new oss cad suite, by (([Cavearr](https://github.com/cavearr))) 
-* Fix SConstruct bug for ecp5 boards and support for custom top module by command line, by (([Cavearr](https://github.com/cavearr))) 
+* Added support for OSX arm 64, by ([Cavearr](https://github.com/cavearr))
+* Fix *unconstrained in LPF* for ecp5 boards with the new oss cad suite, by ([Cavearr](https://github.com/cavearr)) 
+* Fix SConstruct bug for ecp5 boards and support for custom top module by command line, by ([Cavearr](https://github.com/cavearr)) 
 
 ## Version 0.8.4
 * **Date**: 2023-Oct-3
