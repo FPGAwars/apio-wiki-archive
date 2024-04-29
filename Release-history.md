@@ -41,6 +41,12 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.9.4
+* **Date**: 2024-April-29
+* **NOTE**: Bug Fix release
+* Bug fixed: unicode character map error in Windows OS and some linux distributions with non native unicode support ([Cavearr](https://github.com/cavearr)).
+  * This bug caused Icestudio 0.12 not working ok in some platforms. Some unicode characters have been removed from apio (screenshots not updated in the documentation). They will be restored in next versions
+
 ## Version 0.9.3
 * **Date**: 2024-April-02
 * **NOTE**: Quick update release
