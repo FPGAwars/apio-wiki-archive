@@ -42,6 +42,12 @@ Here you can find the **release notes** for the different versions of Apio
 
 * [Latest commits in develop branch](https://github.com/FPGAwars/apio/commits/develop)
 
+## Version 0.9.5
+* **Date**: 2024-June-14
+* **NOTE**: Bug Fix release
+* Bug fixed: issue #380, missing 'packaing' package in dependencies ([Obijuan](https://github.com/Obijuan))
+* Bug fixed: issue #379, oss-cad-suite download link for darwin_x86_64 not correctly generated ([Obijuan](https://github.com/Obijuan))
+
 ## Version 0.9.4
 * **Date**: 2024-April-29
 * **NOTE**: Bug Fix release
