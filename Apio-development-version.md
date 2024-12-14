@@ -91,7 +91,7 @@ You can verify the location of pip's apio package by typing
 
 ```
 pip show apio
-``
+```
 
 ### Factory reset apio's state
 
