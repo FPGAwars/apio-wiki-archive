@@ -1,27 +1,25 @@
 [![](https://github.com/FPGAwars/Apio-wiki/raw/main/wiki/Logos/apio-banner.svg)](https://github.com/FPGAwars/apio/wiki)
 
-**TODO:** Update the table of content (how?)
 
-## Contents
-
-* [Introduction](#introduction)  
-* [Installation](#installation)  
-* [Development workflow](#development-workflow)  
-  * [Fork the apio repo in your account](#fork-the-apio-repo-in-your-account)  
-  * [Clone the repo](#clone-the-repo)  
-  * [Enter the apio folder](#enter-the-apio-folder)  
-  * [Install virtual-env](#install-virtual-env)  
-  * [Create the APIO virtual-env](#create-the-apio-virtual-env)  
-  * [Activate the virtual environment](#activate-the-virtual-environment)  
-  * [Executing Apio development version](#executing-apio-development-version)   
-  * [You are ready for developing!](#you-are-ready-for-developing)  
-  * [Testing your contributions](#testing-your-contributions)  
-  * [Emit a pull request](#emit-a-pull-request)  
-  * [Deactivating the virtual environment](#deactivating-the-virtual-environment)
+- [Contents](#contents)
+- [Just trying the latest apio version](#just-trying-the-latest-apio-version)
+- [Setting up a basic apio development environment.](#setting-up-a-basic-apio-development-environment)
+  - [Fork the apio repo in your github account](#fork-the-apio-repo-in-your-github-account)
+  - [Clone the repo on your local computer.](#clone-the-repo-on-your-local-computer)
+  - [Enter the apio-repo folder](#enter-the-apio-repo-folder)
+  - [Install apio-repo as the python ``apio`` package.](#install-apio-repo-as-the-python-apio-package)
+  - [Factory reset apio's state](#factory-reset-apios-state)
+  - [Install the apio packages](#install-the-apio-packages)
+- [Advanced apio development environment setup (optional)](#advanced-apio-development-environment-setup-optional)
+  - [Install virtual-env](#install-virtual-env)
+  - [Create the APIO virtual env](#create-the-apio-virtual-env)
+  - [Activate the virtual environment](#activate-the-virtual-environment)
+- [Testing your changes](#testing-your-changes)
+- [Send a pull request](#send-a-pull-request)
 
 <br>
 
-## Trying the latest apio version
+## Just trying the latest apio version
 
 This document describes the setup of the apio development environment. However, if all you want is to try the latest apio development version you can install it directly using the commands below. Please be aware that the development version may be **unstable** since it's a work in progress.
 
@@ -75,7 +73,7 @@ DEVELOPERS.md	Makefile	apio		pyproject.toml	test		test-examples
 LICENSE		README.md	apio_run.py	scons_run.py	test-boards	tox.ini
 ```
 
-### Install the repository as the python ``apio`` package.
+### Install apio-repo as the python ``apio`` package.
 
 While in the ``apio-repo`` directory, run the command below to install its content as the pip ``apio`` package. This will allow you tests you make to the apio code by simply running the ``apio`` command.
 
@@ -103,7 +101,7 @@ rm -rf ~/.apio
 # On windows, delete the .apio directory using the Windows Explorer.
 ```
 
-### Install apio packages
+### Install the apio packages
 
 This will install the apio managed packages such as the YosysHQ verilog toolchain.
 
@@ -111,7 +109,7 @@ This will install the apio managed packages such as the YosysHQ verilog toolchai
 apio packages --install
 ```
 
-Apio should not be read for use, and any changes you make in the ``apio-repo`` code will be reflected when you run the ``apio`` command.
+Apio should now be ready for use, and any changes you make in the ``apio-repo`` code will be reflected when you run the ``apio`` command.
 
 <br>
 
@@ -166,24 +164,25 @@ All the **python packages** installed from now on will be installed only on this
 <br>
 
 
-## Testing your contributions
+## Testing your changes
 
-Once you have finished your contribution (a bug fixed, a feature or whatever) you should test that everything is ok.
+Once you have finished your contribution (a bug fixed, a feature or whatever) you should run the automatic tests and verify that they pass 
+successfuly. 
 
-Make sure that the python tox package is installed
+Make sure that the python tox package is installed on your computer
 
 ```
 pip install tox.
 
 ```
 
-And then run the tests in from the ``apio-repo`` directory
+Run the tests in from the ``apio-repo`` directory
 
 ```
 make check
 ```
 
-NOTE: For other useful ``make`` targets see the file ``apio-repo/Makefile``.
+NOTE: For other useful ``make`` targets see the file ``apio-repo/Makefile``. For example, you can run ``make l`` to run just the linters or ``make t`` to run just the offline tests.
 
 
 NOTE: If your system doesn't have the ``make`` command you will need to install it.
@@ -200,3 +199,4 @@ Now you are ready to do a pull request to apio. Thanks for your contribution!
 
 -------
 [![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg)](https://fpgawars.github.io/)
+
