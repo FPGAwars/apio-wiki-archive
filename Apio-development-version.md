@@ -19,8 +19,7 @@
   * [Emit a pull request](#emit-a-pull-request)  
   * [Deactivating the virtual environment](#deactivating-the-virtual-environment)
 
-
-***
+<br>
 
 ## Trying the latest apio version
 
@@ -38,8 +37,8 @@ pip install --force-reinstall -U git+https://github.com/FPGAwars/apio.git@develo
 apio packages --install
 ```
 
-***
 
+<br>
 
 ## Setting up a basic apio development environment.
 
@@ -114,8 +113,8 @@ apio packages --install
 
 Apio should not be read for use, and any changes you make in the ``apio-repo`` code will be reflected when you run the ``apio`` command.
 
+<br>
 
-***
 
 ## Advanced apio development environment setup (optional)
 
@@ -164,7 +163,7 @@ Your terminal prompt will be changed. The `venv` word will apear at the begining
 All the **python packages** installed from now on will be installed only on this **virtual environment** and not in the system or user environment
 
 
-***
+<br>
 
 
 ## Testing your contributions
@@ -191,8 +190,8 @@ NOTE: If your system doesn't have the ``make`` command you will need to install 
 
 **TODO:** How to install ``make``.
 
+<br>
 
-***
 
 ## Send a pull request
 
