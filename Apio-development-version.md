@@ -117,7 +117,7 @@ Apio should not be read for use, and any changes you make in the ``apio-repo`` c
 
 ***
 
-## Advanced apio development environment setup
+## Advanced apio development environment setup (optional)
 
 ### Install virtual-env
 
