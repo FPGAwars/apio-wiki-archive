@@ -56,7 +56,7 @@
 
 ## Development
 
-* [Apio development version](https://github.com/FPGAwars/apio/wiki/Apio-development-version)  
+* [Apio development environment](https://github.com/FPGAwars/apio/wiki/Apio-development-environment)  
 * [Releasing a new stable version](https://github.com/FPGAwars/apio/wiki/Releasing-a-new-version)  
 
 
