@@ -46,7 +46,11 @@ apio drivers ftdi -h
 
 # To fetch a sample project type in an empty directory
 apio examples fetch alhambra-ii/ledon
+
 apio build
+apio report
+apio test
+apio sim ledon_tb.v
 ```
 
 
