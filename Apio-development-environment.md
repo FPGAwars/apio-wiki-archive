@@ -43,6 +43,10 @@ apio packages install
 # https://github.com/FPGAwars/apio/blob/develop/COMMANDS.md or use the apio's -h flag
 apio -h
 apio drivers ftdi -h
+
+# To fetch a sample project type in an empty directory
+apio examples fetch alhambra-ii/ledon
+apio build
 ```
 
 
