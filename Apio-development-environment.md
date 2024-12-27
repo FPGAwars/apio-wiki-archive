@@ -35,7 +35,7 @@ rm -rf ~/.apio
 pip install --force-reinstall -U git+https://github.com/FPGAwars/apio.git@develop#egg=apio 
 
 # Install the apio packages.
-apio packages --install
+apio packages install
 
 # You are ready to go. You can find the latest command help at https://github.com/FPGAwars/apio/blob/develop/COMMANDS.md
 # or use apio's -h flag
