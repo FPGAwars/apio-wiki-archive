@@ -19,13 +19,16 @@
 
 <br>
 
-## Just trying the latest apio version
+## Just trying the latest apio dev version
 
 This document describes the setup of the apio development environment. However, if all you want is to try the latest apio development version you can install it directly using the commands below. Please be aware that the development version may be **unstable** since it's a work in progress.
 
 A quick trial of the latest apio development package.
 ```
-# Delete the .apio directory under the user home page. On windows, use the Explorer window to delete it.
+# Make sure your system has a recent python version installed, e.g. one of the last two major release (3.12, 3.13 as of Dec 2024).
+python --version
+
+# If exists, delete the .apio directory under the user home page. On windows, use the Explorer window to delete.
 rm -rf ~/.apio
 
 # Install the apio pip package.
@@ -33,6 +36,11 @@ pip install --force-reinstall -U git+https://github.com/FPGAwars/apio.git@develo
 
 # Install the apio packages.
 apio packages --install
+
+# You are ready to go. You can find the latest command help at https://github.com/FPGAwars/apio/blob/develop/COMMANDS.md
+# or use apio's -h flag
+apio -h
+apio drivers ftdi -h
 ```
 
 
