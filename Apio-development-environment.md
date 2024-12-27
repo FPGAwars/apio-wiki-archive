@@ -30,7 +30,7 @@ A quick trial of the latest apio development package.
 python --version
 
 # If exists, delete the .apio directory under the user home page. 
-# On windows, use the Explorer window to delete.
+# On windows, delete using the Explorer window.
 rm -rf ~/.apio
 
 # Install the apio pip package.
