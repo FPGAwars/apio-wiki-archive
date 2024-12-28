@@ -53,7 +53,6 @@ apio build
 apio report
 apio test
 apio sim main_tb.v
-apio report
 apio clean
 apio format
 ```
