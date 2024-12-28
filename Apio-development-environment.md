@@ -44,7 +44,7 @@ apio packages install
 apio -h
 apio drivers ftdi -h
 
-# To fetch a sample project type in an empty directory
+# Fetch a sample apio project in an empty directory.
 apio examples fetch alhambra-ii/bcd-counter
 
 # Try a few apio commands
