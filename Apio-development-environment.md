@@ -29,7 +29,7 @@ A quick trial of the latest apio development package.
 # one of the last two major release (3.12, 3.13 as of Dec 2024).
 python --version
 
-# If exists, delete the .apio directory under the user home page. 
+# If exists, delete the old .apio directory under the user home page. 
 # On windows, delete using the Explorer window.
 rm -rf ~/.apio
 
