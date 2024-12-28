@@ -2,7 +2,7 @@
 
 
 - [Contents](#contents)
-- [Just trying the latest apio version](#just-trying-the-latest-apio-version)
+- [Just trying the latest apio dev version](#just-trying-the-latest-apio-dev-version)
 - [Setting up a basic apio development environment.](#setting-up-a-basic-apio-development-environment)
   - [Fork the apio repo in your github account](#fork-the-apio-repo-in-your-github-account)
   - [Clone the repo on your local computer.](#clone-the-repo-on-your-local-computer)
