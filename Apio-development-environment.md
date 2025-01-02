@@ -44,8 +44,10 @@ apio packages install
 apio -h
 apio drivers ftdi -h
 
-# Fetch a sample apio project in an empty directory.
-apio examples fetch alhambra-ii/bcd-counter
+# Fetch a sample apio project in an empty directory. For example:
+apio examples fetch alhambra-ii/bcd-counter      # ICE40 
+apio examples fetch colorlight-5a-75b-v8/ledon   # Lattice ECP5
+apio examples fetch sipeed-tang-nano-4k/blinky   # Gowin
 
 # Try a few apio commands
 apio lint
