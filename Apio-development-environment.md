@@ -55,7 +55,7 @@ apio lint
 apio build
 apio report
 apio test
-apio sim main_tb.v  # Testbench name depends on the example you use.
+apio sim
 apio clean
 apio format
 ```
