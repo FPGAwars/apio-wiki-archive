@@ -55,7 +55,6 @@ apio test
 apio sim
 apio clean
 apio format
-apio upload   # Requires a matching FPGA board.
 ```
 
 
