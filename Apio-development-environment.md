@@ -47,14 +47,17 @@ apio examples fetch alhambra-ii/bcd-counter      # ICE40
 apio examples fetch colorlight-5a-75b-v8/ledon   # Lattice ECP5
 apio examples fetch sipeed-tang-nano-9k/blinky   # Gowin
 
-# Try a few apio commands
+# Try a few commands
+apio -h
 apio lint
 apio build
 apio report
 apio test
 apio sim
 apio clean
+apio boards
 apio format
+apio examples
 ```
 
 
