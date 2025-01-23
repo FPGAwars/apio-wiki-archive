@@ -57,7 +57,7 @@ apio sim
 apio clean
 apio boards
 apio format
-apio examples
+apio examples list
 ```
 
 
