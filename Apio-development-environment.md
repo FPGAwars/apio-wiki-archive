@@ -33,7 +33,8 @@ python --version
 # On windows, delete using the Explorer window.
 rm -rf ~/.apio
 
-# Install the apio pip package.
+# Install the apio pip package (if you already have the apio repository
+# on your hard drive, see the note below regarding installation from the repo).
 pip install --force-reinstall -U git+https://github.com/FPGAwars/apio.git@develop#egg=apio 
 
 # You are ready to go. You can find the latest command help at 
@@ -60,6 +61,13 @@ apio format
 apio examples list
 ```
 
+**NOTE:** If you have a copy of the ``apio`` repository on your local hard drive, you can
+install the apio package with the repository code by typing the command below.
+
+```
+# In the root directory of the apio repository:
+pip install --force-reinstall -e .
+```
 
 <br>
 
