@@ -47,6 +47,7 @@
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/IceZUM-Alhambra.jpg)| • [IceZUM Alhambra](https://github.com/FPGAwars/icezum) |  iCE40-HX1K-TQ144 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/icoBOARD-1.0.jpg)| • [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) |  iCE40-HX8K-CT256 | GPIO RPi |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/K%C3%A9fir-I.jpg)| • [Kéfir I iCE40-HX4K](http://fpgalibre.sourceforge.net/Kefir/) |  iCE40-HX4K-TQ144 | FTDI |
+|![](https://numato.com/help/wp-content/uploads/2022/01/Mimas_ECP5_mini.png)| • [Mimas ECP5 Mini](https://numato.com/docs/mimas-ecp5-mini-fpga-development-board) |  LFE5U-45F-7BG256I | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/OK-iCE40Pro.jpg)| • [OK-iCE40Pro](https://github.com/WiFiBoy/OK-iCE40Pro) | iCE40-UP5K-SG48 | FTDI |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Olimex-iCE40-HX1K-EVB.jpg)| • [Olimex iCE40-HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware) | iCE40-HX1K-VQ100 | iceprogduino |
 |![](https://github.com/FPGAwars/Apio-wiki/blob/main/wiki/Supported-boards/Olimex-iCE40-HX8K-EVB.jpg)| • [Olimex iCE40-HX8K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware) | iCE40-HX8K-CT256 | iceprogduino |  
