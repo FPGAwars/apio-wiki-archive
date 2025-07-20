@@ -11,9 +11,9 @@
 &nbsp;
 ![][raspbian-logo]
 
-* Latest officially released version: 0.9.5, [Apio pypi package](https://pypi.org/project/apio/)  
 
-* Apio has a new 1.0.0 version with new and improve capabilities that is stable and planned to be released soon. Its documentation and installation guide are available at <https://fpgawars.github.io/apio/>
+> **Note:** Apio's latest officially released is version: 0.9.5, and it's available on PyPi at <https://pypi.org/project/apio>. Version 1.0.0 which includes enhancements and new functionality is the new release candidate and it's documentation is available at https://fpgawars.github.io/apio.
+
 
 # Introduction
 
