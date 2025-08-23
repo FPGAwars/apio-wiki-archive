@@ -13,7 +13,7 @@
 * [Project configuration file](https://github.com/FPGAwars/apio/wiki/Project-configuration-file) (apio.ini)  
 
 ## Boards
-* [Supported boads](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
+* [Supported boards](https://github.com/FPGAwars/apio/wiki/Supported-boards)  
 * [Supported FPGAs](https://github.com/FPGAwars/apio/wiki/Supported-FPGAs)  
 * [Adding new boards to Apio](https://github.com/FPGAwars/apio/wiki/Adding-new-boards-to-apio)
 
